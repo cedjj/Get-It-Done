@@ -46,10 +46,11 @@ Get-It-Done/
 ├── README.md                 # this file
 ├── requirements.txt          # Python packages
 ├── data/                     # data files (large or restricted files are NOT stored in git; see Data)
-├── [notebooks/]              # EDA notebooks  [update to match the actual folder layout]
-│   ├── get_it_done_eda.ipynb
-│   ├── get_it_done_img_link_eda.ipynb
-│   └── [other notebooks]
+├── notebooks/              # EDA notebooks
+│   ├── gid_intake_rework_analysis.ipynb
+│   ├── img-link-eda.ipynb
+│   ├── public-data-eda.ipynb
+    └── referrals-data-eda.ipynb
 └── .gitignore
 ```
 
