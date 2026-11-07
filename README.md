@@ -50,7 +50,7 @@ Get-It-Done/
 │   ├── gid_intake_rework_analysis.ipynb
 │   ├── img-link-eda.ipynb
 │   ├── public-data-eda.ipynb
-    └── referrals-data-eda.ipynb
+│   └── referrals-data-eda.ipynb
 └── .gitignore
 ```
 
@@ -86,7 +86,7 @@ All paths are relative to the repository root. Put downloaded files in `data/`.
 `https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=<attachment Id>`.
 The links are publicly reachable, and in a test of 200 sampled links all returned images. Photos are never stored in the repo.
 
-**If a file is missing,** the notebook that needs it says so in its first cell. Files 4 and 5 are restricted. Without them, run only the notebooks marked "public data only" in the table below.
+**If a file is missing,** the notebook that needs it says so in its first cell. File 5 is restricted. Without it, run only the notebooks marked "public data only" in the table below.
 
 ---
 
@@ -126,7 +126,7 @@ The final cell sends web requests to the City's photo server. It is optional, so
 - **Photos are not always resident-taken.** Some categories, such as parking, may have photos taken by staff.
 - **Counts depend on cleaning choices,** such as dropping child records and keeping the earliest closure for duplicated case IDs. The notebooks state each choice where it is made.
 - **No model results are reported here.** The photo-based designs we propose have not been trained or tested.
-- **Restricted data.** Do not commit files 4 or 5 without the City's permission.
+- **Restricted data.** Do not commit files 5 without the City's permission.
 
 ---
 
