@@ -136,6 +136,7 @@ The final cell sends web requests to the City's photo server. It is optional, so
 | Component | Usage |
 |-------------|--------------|
 | `public-data-eda.ipynb` | had AI figure out what to chart or not to best show an idea in presentation |
+| `gid_intake_rework_analysis.ipynb` | had AI (ChatGPT) help write and debug the intake-return analysis (data cleaning, matched comparisons, plots); we chose what to analyze, questioned its assumptions, and checked it with case counts and assertions |
 | `img-link-eda.ipynb` | had AI help with regex, coding and improving plots, and how to show images in the notebook |
 | `referrals-data-eda.ipynb` | had AI help code the plots and load the data and interpret OLS models summary |
 | Repository | Helped with git issues |
