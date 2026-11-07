@@ -14,7 +14,8 @@
 6. [Setting file paths](#setting-file-paths)
 7. [Example run](#example-run)
 8. [Notes and limitations](#notes-and-limitations)
-9. [Team and contributions](#team-and-contributions)
+9. [AI Statement](#ai-statement)
+10. [Team and contributions](#team-and-contributions)
 
 ---
 
@@ -130,6 +131,18 @@ The final cell sends web requests to the City's photo server. It is optional, so
 
 ---
 
+## AI Statement
+
+| Component | Usage |
+|-------------|--------------|
+| `public-data-eda.ipynb` | had AI figure out what to chart or not to best show an idea in presentation |
+| `img-link-eda.ipynb` | had AI help with regex, coding and improving plots, and how to show images in the notebook |
+| `referrals-data-eda.ipynb` | had AI help code the plots and load the data and interpret OLS models summary |
+| Repository | Helped with git issues |
+| `README.md` | Helped order the sections and come up with the first 3 sections (Quick Start, Repository Structure, and Setup) |
+
+---
+
 ## Team and contributions
 
 | Team member | Contribution |
@@ -139,6 +152,4 @@ The final cell sends web requests to the City's photo server. It is optional, so
 | Christian Kumagai | `Case Reason` EDA |
 
 ---
-
-## Contact
 
