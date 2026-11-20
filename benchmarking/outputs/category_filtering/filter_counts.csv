@@ -1,0 +1,13 @@
+﻿population,stage,cases_remaining,removed_since_previous
+full_export,1. Source cases,4337284,
+full_export,2. Normalized categories (no rows removed),4337284,0
+full_export,3. Specified original/current; original is not Other,2109997,2227287
+full_export,4. Category-review queue before closure filters,236731,1873266
+full_export,5. Category-review queue with STATUS = Closed,195569,41162
+full_export,6. Above + approved resolution reason (exported),84077,111492
+three_plus_referrals,1. Source cases,4052,
+three_plus_referrals,2. Normalized categories (no rows removed),4052,0
+three_plus_referrals,3. Specified original/current; original is not Other,2436,1616
+three_plus_referrals,4. Category-review queue before closure filters,1606,830
+three_plus_referrals,5. Category-review queue with STATUS = Closed,1303,303
+three_plus_referrals,6. Above + approved resolution reason (exported),465,838

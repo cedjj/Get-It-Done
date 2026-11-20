@@ -1,0 +1,443 @@
+{
+  "version": "sd-gid-semantic-reference-v1",
+  "provenance": "Curated paraphrases of official City sources; alias mappings are explicit analyst interpretations of naming variants. Supplied ROW matrix is a draft used only to retain overlap, never as ground truth. No case downstream fields are used.",
+  "temporal_limit": "Sources reflect retrieval date, not a complete historical menu. Historical boundaries and text-only interpretation can remain uncertain.",
+  "categories": [
+    {
+      "category": "Curb",
+      "group": "streets",
+      "definition": "Curb damage or paint problems, including faded, incorrect or unauthorized curb painting.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Damaged Guardrail",
+      "group": "streets",
+      "definition": "Damaged roadside protective railing; park location alone does not invalidate the category.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Faded Striping",
+      "group": "streets",
+      "definition": "Faded or deficient road markings, lane lines, crosswalks or pavement legends.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Pothole",
+      "group": "streets",
+      "definition": "Holes or localized damaged street pavement; precise repair method need not be known.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Sidewalk",
+      "group": "streets",
+      "definition": "Sidewalk condition, damage, uplift or pedestrian-access problems. Vegetation or tree obstruction can overlap other services; do not reject a symptom-based sidewalk report solely because its cause is vegetation.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf",
+        "Get_it_done_data/FY27 ROW Support Matrix 9-11-2026 FINAL DRAFT.xlsx (Sidewalk Issues and Object blocking travel path; draft)"
+      ]
+    },
+    {
+      "category": "Street Light",
+      "group": "streets",
+      "definition": "Street lighting malfunction, including outage or operation during daylight.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Traffic Sign",
+      "group": "streets",
+      "definition": "Missing, damaged, faded, obscured or otherwise problematic traffic signs.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Traffic Signal",
+      "group": "streets",
+      "definition": "Traffic control signals malfunctioning, dark, misaligned, flashing or poorly timed.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Street Sweeping",
+      "group": "streets",
+      "definition": "Street sweeping requests and sweepable road litter or debris.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Tree Maintenance",
+      "group": "vegetation",
+      "definition": "Tree hazards, fallen branches, unstable trees or tree obstruction of sidewalks, roads, signs or signals. Ownership may be unknown.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Vegetation Encroachment",
+      "group": "vegetation",
+      "definition": "Plants or private vegetation intruding into sidewalks, streets, alleys or visibility. Tree and sidewalk-access services may overlap.",
+      "aliases": [
+        "Vegetation Encroachments"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done",
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ"
+      ]
+    },
+    {
+      "category": "Storm Drain",
+      "group": "water",
+      "definition": "Drain or drainage-channel blockage, debris, odor, damaged/missing grates or flow-maintenance problems.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Street Flooded",
+      "group": "water",
+      "definition": "Flooding or standing/flowing water affecting a street; residents need not know the source.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Illegal Discharge",
+      "group": "water",
+      "definition": "Material or fluid released to gutters, drains or the stormwater system; possible pollution or runoff.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Over Irrigation",
+      "group": "water",
+      "definition": "Landscape watering or sprinkler runoff entering streets, gutters or drains; irrigation malfunction can overlap park services.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Illegal Dumping",
+      "group": "waste",
+      "definition": "Discarded waste, bulky items or camp-related debris. City guidance also accepts occupied or abandoned camps; park or canyon location alone does not invalidate dumping reports.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Graffiti",
+      "group": "waste",
+      "definition": "Unwanted markings or tags on public, private, commercial or utility property. Ownership changes who handles removal, not the reasonableness of reporting graffiti.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://getitdone.sandiego.gov/TSWNewReport?type=Graffiti"
+      ]
+    },
+    {
+      "category": "Container Left Out",
+      "group": "waste",
+      "definition": "Trash or recycling containers kept in collection/public areas beyond collection hours.",
+      "aliases": [
+        "Containers Left Out Beyond Collection Hours"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Dumpster Encroachment",
+      "group": "waste",
+      "definition": "A dumpster occupying or obstructing public street or sidewalk space.",
+      "aliases": [
+        "Dumpster Encroaching on Public Right of Way"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Dumpster Overflow",
+      "group": "waste",
+      "definition": "Overflowing dumpster or waste spilling from a dumpster.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done",
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ"
+      ]
+    },
+    {
+      "category": "Missed Collection",
+      "group": "waste",
+      "definition": "Trash, recycling or greenery containers not emptied at scheduled collection.",
+      "aliases": [
+        "Missed Trash"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Dead Animal",
+      "group": "waste",
+      "definition": "Animal remains in public street or sidewalk space; unknown ownership alone is not a mismatch.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "ADA Assisted Collection",
+      "group": "waste",
+      "definition": "Assistance moving waste containers for collection when the resident cannot do so.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Outreach",
+      "group": "homelessness",
+      "definition": "Non-emergency homelessness assistance or camp concerns; legitimate overlap with encampment.",
+      "aliases": [
+        "Homeless Outreach"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Encampment",
+      "group": "homelessness",
+      "definition": "Occupied or abandoned camps and associated non-emergency homelessness concerns; outreach and dumping overlap.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Parking Issue",
+      "group": "vehicles",
+      "definition": "Vehicle parking violations, including parking zones, prolonged parking or oversized vehicles.",
+      "aliases": [
+        "Parking"
+      ],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "Bicycle Related Issue",
+      "group": "vehicles",
+      "definition": "Bicycle-related infrastructure or access issue. Current menu confirms service but historical scope is incomplete; uncertain if scope is decisive.",
+      "aliases": [
+        "Bicycle-Related Issue"
+      ],
+      "definition_status": "limited",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done",
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ"
+      ]
+    },
+    {
+      "category": "ADA Compliance",
+      "group": "accessibility",
+      "definition": "Disability access or accessibility compliance concern; a physical access barrier can qualify even without explicit disability wording.",
+      "aliases": [],
+      "definition_status": "limited",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done",
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ"
+      ]
+    },
+    {
+      "category": "STRO Violation",
+      "group": "property",
+      "definition": "Short-term residential occupancy licensing or operation complaints, including related trash or unresponsive local contact.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/get-it-done"
+      ]
+    },
+    {
+      "category": "Parks Issue",
+      "group": "parks",
+      "definition": "Park maintenance concerns, including equipment, fountains, irrigation, restrooms, brush and litter; these can overlap asset-based services.",
+      "aliases": [],
+      "definition_status": "limited",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done",
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ"
+      ]
+    },
+    {
+      "category": "Park Equipment",
+      "group": "parks",
+      "definition": "Damaged park playground, benches or exercise equipment.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done"
+      ]
+    },
+    {
+      "category": "Sprinkler/Irrigation",
+      "group": "parks",
+      "definition": "Park sprinkler or irrigation breakage and timing malfunction.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done"
+      ]
+    },
+    {
+      "category": "Park Trash or Litter",
+      "group": "parks",
+      "definition": "Waste or litter in parks.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done"
+      ]
+    },
+    {
+      "category": "Brush Management",
+      "group": "parks",
+      "definition": "Brush or vegetation management on park or open-space land.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://www.sandiego.gov/get-it-done"
+      ]
+    },
+    {
+      "category": "Other",
+      "group": "general",
+      "definition": "A non-emergency municipal issue that does not clearly fit a supported specific service.",
+      "aliases": [],
+      "definition_status": "supported",
+      "sources": [
+        "https://getitdone.sandiego.gov/TSWCommunityFAQ",
+        "https://www.sandiego.gov/sites/default/files/get-it-done-guidelines.pdf"
+      ]
+    },
+    {
+      "category": "ESD Code",
+      "group": "historical",
+      "definition": "Historical name is present in the supplied inventory, but a sufficiently precise historical Get It Done service definition was not established. Return uncertain; do not infer a definition from the name.",
+      "aliases": [],
+      "definition_status": "unsupported",
+      "sources": [
+        "outputs/category_filtering/category_inventory.csv"
+      ]
+    },
+    {
+      "category": "Biohazard",
+      "group": "historical",
+      "definition": "Historical name is present in the supplied inventory, but a sufficiently precise historical Get It Done service definition was not established. Return uncertain; do not infer a definition from the name.",
+      "aliases": [],
+      "definition_status": "unsupported",
+      "sources": [
+        "outputs/category_filtering/category_inventory.csv"
+      ]
+    },
+    {
+      "category": "Scavenging of Blue Recycling or Black Trash Containers",
+      "group": "historical",
+      "definition": "Historical name is present in the supplied inventory, but a sufficiently precise historical Get It Done service definition was not established. Return uncertain; do not infer a definition from the name.",
+      "aliases": [],
+      "definition_status": "unsupported",
+      "sources": [
+        "outputs/category_filtering/category_inventory.csv"
+      ]
+    },
+    {
+      "category": "Parking Meter",
+      "group": "historical",
+      "definition": "Historical name is present in the supplied inventory, but a sufficiently precise historical Get It Done service definition was not established. Return uncertain; do not infer a definition from the name.",
+      "aliases": [],
+      "definition_status": "unsupported",
+      "sources": [
+        "outputs/category_filtering/category_inventory.csv"
+      ]
+    }
+  ]
+}

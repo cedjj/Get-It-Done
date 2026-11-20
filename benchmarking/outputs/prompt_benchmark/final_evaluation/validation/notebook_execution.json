@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "finished_at": "2026-11-20T09:45:13.892559+00:00",
+  "wall_seconds": 26.01305660000071,
+  "code_cells_executed": 13,
+  "error_outputs": 0,
+  "notebook": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\final_evaluation\\notebook\\Final_Evaluation.ipynb",
+  "html": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\final_evaluation\\notebook\\Final_Evaluation.html",
+  "notebook_sha256": "384310c4efcca9b200c2716d92bf55bd7b2bbd4b0ae95d60504432856e51fa1c",
+  "html_sha256": "1e1abbe2b4e859c0e73cd6e8b9c7817614b9589c7c4708f3946dc863ee52161a",
+  "paid_api_calls": 0,
+  "notebook_performs_model_inference": false
+}

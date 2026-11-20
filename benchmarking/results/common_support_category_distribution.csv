@@ -1,0 +1,33 @@
+ORIGINAL_TYPE,paired_negative_count,paired_positive_count,paired_negative_percent,paired_positive_percent,paired_difference_percentage_points,paired_has_both_classes
+ADA Compliance,20,20,2.4479804161566707,2.4479804161566707,0.0,True
+Bicycle Related Issue,0,0,0.0,0.0,0.0,False
+Bicycle-Related Issue,1,1,0.12239902080783352,0.12239902080783352,0.0,True
+Container Left Out,0,0,0.0,0.0,0.0,False
+Containers Left Out Beyond Collection Hours,0,0,0.0,0.0,0.0,False
+Curb,0,0,0.0,0.0,0.0,False
+Damaged Guardrail,0,0,0.0,0.0,0.0,False
+Dead Animal,2,2,0.24479804161566704,0.24479804161566704,0.0,True
+Dumpster Encroaching on Public Right of Way,0,0,0.0,0.0,0.0,False
+Dumpster Encroachment,0,0,0.0,0.0,0.0,False
+Dumpster Overflow,0,0,0.0,0.0,0.0,False
+Encampment,163,163,19.951040391676866,19.951040391676866,0.0,True
+Faded Striping,0,0,0.0,0.0,0.0,False
+Graffiti,0,0,0.0,0.0,0.0,False
+Illegal Discharge,0,0,0.0,0.0,0.0,False
+Illegal Dumping,301,301,36.84210526315789,36.84210526315789,0.0,True
+Missed Collection,13,13,1.591187270501836,1.591187270501836,0.0,True
+Missed Trash,0,0,0.0,0.0,0.0,False
+Outreach,0,0,0.0,0.0,0.0,False
+Over Irrigation,0,0,0.0,0.0,0.0,False
+Parking,0,0,0.0,0.0,0.0,False
+Parking Issue,0,0,0.0,0.0,0.0,False
+Pothole,20,20,2.4479804161566707,2.4479804161566707,0.0,True
+Sidewalk,0,0,0.0,0.0,0.0,False
+Storm Drain,0,0,0.0,0.0,0.0,False
+Street Flooded,16,16,1.9583843329253363,1.9583843329253363,0.0,True
+Street Light,0,0,0.0,0.0,0.0,False
+Street Sweeping,69,69,8.445532435740514,8.445532435740514,0.0,True
+Traffic Sign,0,0,0.0,0.0,0.0,False
+Traffic Signal,0,0,0.0,0.0,0.0,False
+Tree Maintenance,198,198,24.23500611995104,24.23500611995104,0.0,True
+Vegetation Encroachment,14,14,1.7135862913096693,1.7135862913096693,0.0,True

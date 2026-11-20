@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.local_runtime/
+*.sqlite
+*.sqlite-*
+*.log
+Get_it_done_data/*
+!Get_it_done_data/README.md
+outputs/prompt_benchmark/reproduced/
+outputs/prompt_benchmark/smoke/
+outputs/category_filtering/*.csv
+!outputs/category_filtering/filter_counts.csv
+!outputs/category_filtering/mapping_relation_counts.csv
+!outputs/category_filtering/category_mapping.csv
+
+# Dataset screening implementations excluded from publication
+audit_category_eligibility.py
+build_exact_agreement_notebook.py
+build_labeled_routing.py
+build_labeled_routing_v2.py
+build_misroute_notebook.py
+build_semantic_notebook.py
+semantic_labeling.py
+semantic_mismatch_labeling.ipynb

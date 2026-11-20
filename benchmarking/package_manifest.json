@@ -1,0 +1,1396 @@
+{
+  "copied_files": [
+    {
+      "source": "scripts/project_paths.py",
+      "package": "scripts/project_paths.py",
+      "sha256": "d2cc2b97e1c4b470c38b721e6cb619cb461792d048fb36c5745389308511e548"
+    },
+    {
+      "source": "scripts/run_prompt_benchmark.py",
+      "package": "scripts/run_prompt_benchmark.py",
+      "sha256": "41528b83f519c4e5becae6abc27e44cc5759b33fc4095719ffeb28f5561df1c7"
+    },
+    {
+      "source": "scripts/prepare_blinded_benchmark.py",
+      "package": "scripts/prepare_blinded_benchmark.py",
+      "sha256": "0895116daa1cb069be2323ce6e6a7c7a78f6a4cea599aeff2e3153919cb74aa6"
+    },
+    {
+      "source": "scripts/final_benchmark_analysis.py",
+      "package": "scripts/final_benchmark_analysis.py",
+      "sha256": "640333a09610b0d2986310f0877b98e05ff0265a931ac04b527428e0bf18b500"
+    },
+    {
+      "source": "tests/test_prompt_benchmark.py",
+      "package": "tests/test_prompt_benchmark.py",
+      "sha256": "eaa0cbd9d53c14c83490dc6011eb47cdb6a0cc58031354418e918984772c492c",
+      "original_source_sha256": "538fd8e87caeba3c7f4f5d8342cfde24b2375c59f05016f14e60683c165b9cc6",
+      "change": "Extracted benchmark HTTP transport; removed dependency on dataset-screening code."
+    },
+    {
+      "source": "tests/test_multimodal_extensions.py",
+      "package": "tests/test_multimodal_extensions.py",
+      "sha256": "dff241d8b3c2772d523732acdd09b825cb0a3c3dea75f246ce8c013bc5e73c9b",
+      "original_source_sha256": "03ca04a239f26edf9cc1ae94bc11b0ce0f5b1139f70ead93bca197edd270ec48",
+      "change": "Extracted benchmark HTTP transport; removed dependency on dataset-screening code."
+    },
+    {
+      "source": "tests/test_final_benchmark_analysis.py",
+      "package": "tests/test_final_benchmark_analysis.py",
+      "sha256": "d8e3d9ac018b5574dc276ce561237c22edeb22e7ff3cec4259eab00ad9ad8dc6",
+      "original_source_sha256": "605f8907b4e8400251071de2c89f71e0eebcf96bdcc39544dc140b65d1f48e37",
+      "change": "Extracted benchmark HTTP transport; removed dependency on dataset-screening code."
+    },
+    {
+      "source": "results/labeling_summary.md",
+      "package": "results/labeling_summary.md",
+      "sha256": "daefd53b02dd576d11086035d97b662d12a5dc1cb430b8f03987d2d680f42f5c"
+    },
+    {
+      "source": "results/model_input_policy.json",
+      "package": "results/model_input_policy.json",
+      "sha256": "000dcb850af3fc2d5383033a443519d96943ab5359c948a996f6cc76ea720e37"
+    },
+    {
+      "source": "results/field_roles.csv",
+      "package": "results/field_roles.csv",
+      "sha256": "a75e03d92b7be5e32b40efe9827057869b8032a8838cb59b468d353d491581c3"
+    },
+    {
+      "source": "results/common_support_category_distribution.csv",
+      "package": "results/common_support_category_distribution.csv",
+      "sha256": "ffb39c98bdcf868febce23a0bd8b336eee1d0d6d00d4802af55fdd285533b1b8"
+    },
+    {
+      "source": "outputs/category_filtering/filter_counts.csv",
+      "package": "outputs/category_filtering/filter_counts.csv",
+      "sha256": "774ba1c055d852a1b12fc699e7ef87d60b1edb6b06063c6a8ec699f29777cbed"
+    },
+    {
+      "source": "outputs/category_filtering/mapping_relation_counts.csv",
+      "package": "outputs/category_filtering/mapping_relation_counts.csv",
+      "sha256": "23184844bb1c6dd68bbbb2b7f702602a48883867cc83abb0b69b6df262c8f381"
+    },
+    {
+      "source": "outputs/category_filtering/category_mapping.csv",
+      "package": "outputs/category_filtering/category_mapping.csv",
+      "sha256": "d8a0ac9f3d97802cbae394c1e1aecedf4ea0ceadb7c3bd06aa481a400a08df90"
+    },
+    {
+      "source": "outputs/category_filtering/run_manifest.json",
+      "package": "outputs/category_filtering/run_manifest.json",
+      "sha256": "3bddd5fd0472134499f4328c178eb55ab7e39888d4223ef312645a99bba186a4"
+    },
+    {
+      "source": "scripts/prompt_benchmark/cloud.py",
+      "package": "scripts/prompt_benchmark/cloud.py",
+      "sha256": "31c4afec9d679bab523b22a6197e4a626da4c4f177b28b608e1156c25b87a4dc"
+    },
+    {
+      "source": "scripts/prompt_benchmark/core.py",
+      "package": "scripts/prompt_benchmark/core.py",
+      "sha256": "effa401a8502643021bc4e616ad4b3a7683a61d3adcccdbbe7464478889a31f6"
+    },
+    {
+      "source": "scripts/prompt_benchmark/evaluate.py",
+      "package": "scripts/prompt_benchmark/evaluate.py",
+      "sha256": "af56ef5316e0674ed229c030887b1681f64b03f3472ed4f4efa9e3ce982e8cdd"
+    },
+    {
+      "source": "scripts/prompt_benchmark/FINAL_EVALUATION.md",
+      "package": "reference/benchmark_guides/FINAL_EVALUATION.md",
+      "sha256": "906b13b9da4def4741e82b912cd041a95a427a9f5a71f5f65c0f7d49725aad68"
+    },
+    {
+      "source": "scripts/prompt_benchmark/models.apis.example.json",
+      "package": "scripts/prompt_benchmark/models.apis.example.json",
+      "sha256": "cc8e77ff377db3927c7ff039c8300bec9519f5a866125064c40ecf4ddc735e21"
+    },
+    {
+      "source": "scripts/prompt_benchmark/models.blinded.json",
+      "package": "scripts/prompt_benchmark/models.blinded.json",
+      "sha256": "6a54274dd7bdee54fdb3578b6fbff8a5888d3e3c4cb7efd692cd9c335a854070"
+    },
+    {
+      "source": "scripts/prompt_benchmark/models.local.json",
+      "package": "scripts/prompt_benchmark/models.local.json",
+      "sha256": "524633689f345f1f678fb8b2047d7797498f9e4b439984b731ebc5a10f18c71e"
+    },
+    {
+      "source": "scripts/prompt_benchmark/models.multimodal.json",
+      "package": "scripts/prompt_benchmark/models.multimodal.json",
+      "sha256": "1706802fce114aec59fc84c66d4b103d683f9005cffe8a93cac674216d636bfd"
+    },
+    {
+      "source": "scripts/prompt_benchmark/MULTIMODAL.md",
+      "package": "reference/benchmark_guides/MULTIMODAL.md",
+      "sha256": "83bbc293a2094ef29c6559caa2065fac6a4a3085ddff98bf44cf913228947c68"
+    },
+    {
+      "source": "scripts/prompt_benchmark/photos.py",
+      "package": "scripts/prompt_benchmark/photos.py",
+      "sha256": "1d5ad51a4a11de31655b0d961dd8621a06012d5b25e7e40633be5f044dbe8c8b"
+    },
+    {
+      "source": "scripts/prompt_benchmark/README.md",
+      "package": "reference/benchmark_guides/README.md",
+      "sha256": "00819872fca0144254663fe62d263f9fec7e23cf01f1a5e1ab4009b55a126dc1"
+    },
+    {
+      "source": "scripts/prompt_benchmark/runner.py",
+      "package": "scripts/prompt_benchmark/runner.py",
+      "sha256": "169769d211432a8efe7f0bb6a329d4073ed0ccaaf51d5479de1c7c0d97004dfb",
+      "original_source_sha256": "beff24064f495e48cf1f3c0d7e25706216b6eb140eda8116c77447d9ab4014ef",
+      "change": "Extracted benchmark HTTP transport; removed dependency on dataset-screening code."
+    },
+    {
+      "source": "scripts/prompt_benchmark/__init__.py",
+      "package": "scripts/prompt_benchmark/__init__.py",
+      "sha256": "ba1fba9856e317b5b07d320695a1fe77920e7e1cc1bfc433fc13d795b0fa684f"
+    },
+    {
+      "source": "scripts/prompt_benchmark/templates/detailed.txt",
+      "package": "scripts/prompt_benchmark/templates/detailed.txt",
+      "sha256": "ff03ec830a080bd29a6051a9eb613fe0ab8d8e9021dfa899eb3cd809197a1605"
+    },
+    {
+      "source": "scripts/prompt_benchmark/templates/detailed_blinded.txt",
+      "package": "scripts/prompt_benchmark/templates/detailed_blinded.txt",
+      "sha256": "c5ed480ab9e0673c6d28c92ac707339efb07f62a716684da8a44221a3040c6e0"
+    },
+    {
+      "source": "scripts/prompt_benchmark/templates/detailed_blinded_v2.txt",
+      "package": "scripts/prompt_benchmark/templates/detailed_blinded_v2.txt",
+      "sha256": "a57977fdca58decf5f14fdc164f090545fb25e15ace385ec616e64ef4e09559f"
+    },
+    {
+      "source": "scripts/prompt_benchmark/templates/simple.txt",
+      "package": "scripts/prompt_benchmark/templates/simple.txt",
+      "sha256": "512bb5f67505a8758bf1f5b6217c37ea772100ee665315dd2cf6878893d7b23b"
+    },
+    {
+      "source": "scripts/prompt_benchmark/templates/simple_blinded_v2.txt",
+      "package": "scripts/prompt_benchmark/templates/simple_blinded_v2.txt",
+      "sha256": "3903fbb60a8e794a37221a04d885202a18cef673efc0b2c318cb3c06c0c0db88"
+    },
+    {
+      "source": "scripts/build_category_notebook.py",
+      "package": "reference/labeling_source/build_category_notebook.py",
+      "sha256": "2509460ae80a9752217abd3300b6d23b8c11efb0e7cd4f24efe4d4832ee9d6be"
+    },
+    {
+      "source": "scripts/enrich_common_support_attachments.py",
+      "package": "reference/labeling_source/enrich_common_support_attachments.py",
+      "sha256": "3de0bb0dd53dd6bd9e2d714d4649b93fe2030be3eac10168f681a46f6a7a4847"
+    },
+    {
+      "source": "outputs/labeled_routing/run_manifest.json",
+      "package": "reference/labeling_evidence/run_manifest.json",
+      "sha256": "f25d991578d5ef2b3c4c75300f93e57865ac9553184210bcd504dd0e1304504a"
+    },
+    {
+      "source": "outputs/labeled_routing/filter_counts.csv",
+      "package": "reference/labeling_evidence/filter_counts.csv",
+      "sha256": "cb54d5b51cd85071b8ad682544244a4cac2ceb6392e0055cf17af608dc4250a9"
+    },
+    {
+      "source": "outputs/labeled_routing/full_category_audit_manifest.json",
+      "package": "reference/labeling_evidence/full_category_audit_manifest.json",
+      "sha256": "c3c99735e6488a92e5db3dcfbdb7f8901c13093342638fa7f7e6f0441bfb418d"
+    },
+    {
+      "source": "outputs/labeled_routing/full_category_eligibility_audit.csv",
+      "package": "reference/labeling_evidence/full_category_eligibility_audit.csv",
+      "sha256": "b35672b77aa1bc86da578bf8a01742b41a4de3bdd21134f2770e80a8d55910e6"
+    },
+    {
+      "source": "outputs/labeled_routing/v2_qa_50_review.csv",
+      "package": "reference/labeling_evidence/v2_qa_50_review.csv",
+      "sha256": "3e117308209f8f82448593af1cd0dd4b2045229b8c267bc0f7f7dc63eced1c74"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/detailed_prompt.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/detailed_prompt.txt",
+      "sha256": "3e96da1049ee2397bfaac5dfc8489c8120157daaa055941f5621d955478510d2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/plan.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/plan.json",
+      "sha256": "d2252f991e28a3fe73c624367695fa41c1700dc8d82421777a37b2cbc9d99bb5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/progress.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/progress.json",
+      "sha256": "3366182cf9b35dad39006624d8c3ac01ae16713490f89f47f22e0ca9b0d7b6b5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/README.md",
+      "package": "outputs/prompt_benchmark/final_evaluation/README.md",
+      "sha256": "ba0760b39e58cc8e38660a285c4e4879551754191e75cd370805b95f8f787bc4"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/run_summary.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/run_summary.json",
+      "sha256": "c33e9eb29e9da94f8a6a7610313298a9e75cd3066323f091675f6b04f316e525"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/simple_prompt.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/simple_prompt.txt",
+      "sha256": "672ec80ece0c13c295ed516c482f8a09abd5a1768f112f75b2a458d60b680e79"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/analysis/paired_modality_ablations.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/analysis/paired_modality_ablations.csv",
+      "sha256": "0c7c6cb5ed11d0686e431065cffe95aa5ee5e6af4022bf51771f4b71ff7345c6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/analysis/photo_available_subset.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/analysis/photo_available_subset.csv",
+      "sha256": "20e98e6f1e7d3a3e9cc498f021b28e95fb71872fd3cff6a95667ed11d1b3decb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/analysis/selected_configuration.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/analysis/selected_configuration.json",
+      "sha256": "63ce5bccb566df40a8c0640b753c9eee46fe3839bd1a6c4fe47466a03f2c3dfb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photo_ownership.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photo_ownership.json",
+      "sha256": "5b94fd47524809b85fbb852563a4da0a3dc4944409238f0cabcfcac8806c0e51"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/config/models.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/config/models.json",
+      "sha256": "b65217d478796a47beccf697aa267ff129d9438cf8c41a1d5e0fdb3c2eb10726"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/config/output_schema.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/config/output_schema.json",
+      "sha256": "ff02f38ad8932031e8ab9e2ed7a7655ba25bcf62d53799d4dcf9fcfe3a317aa7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/config/service_definitions.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/config/service_definitions.json",
+      "sha256": "89d068e89c70438f0dabce2b6168a6d82e7c1878036cbd0eb00f00b0dd68cff0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/data/blinded_cases.jsonl",
+      "package": "outputs/prompt_benchmark/final_evaluation/data/blinded_cases.jsonl",
+      "sha256": "c635f4b5d1c42a1c367f775f5577a54eec5eccf0411496d80469be78938756a7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/data/scoring_labels.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/data/scoring_labels.csv",
+      "sha256": "7d95d838193fbf2c17d2e076bc79f80d18a6fa5465d8f8f07b3095b5e328da72"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/data/source_manifest.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/data/source_manifest.json",
+      "sha256": "f96cf5208fe0062bcb3622891ba9985d160a7d0c95ae7689517cc7b56dd4ba38"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/01_common_text_ranking.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/01_common_text_ranking.png",
+      "sha256": "bf5b499016a254e651b31c53d95d34ff4b5a6b2118c2758abf6112b7b827e7e6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/01_common_text_ranking.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/01_common_text_ranking.svg",
+      "sha256": "73b2e6e4226c67a29049b29fb8fc415344b466c81babd33cd1b1c6fe14483cd4"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/02_all_configurations_heatmap.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/02_all_configurations_heatmap.png",
+      "sha256": "38e145abf9aa8e78b38d941a14f48942c28c1c4045936ff8ff3ff9e217717b15"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/02_all_configurations_heatmap.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/02_all_configurations_heatmap.svg",
+      "sha256": "f6031a7a16ac2b0b9ce7ff36232fa40f7bfcb21399273555a10cb04406dc3815"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/03_prompt_cost.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/03_prompt_cost.png",
+      "sha256": "817872a6b87a4d25379547f25d9fef26aa50e1ede2b4d73d2ea530234253a109"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/03_prompt_cost.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/03_prompt_cost.svg",
+      "sha256": "ffa233ae8ed22ee2c0e0c5b3b76182acf6413b2cefadb20dd37abb1d5a15fbc8"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/04_category_agreement.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/04_category_agreement.png",
+      "sha256": "e74d33b79f356b006e58c70dbba6b28384160e46ae3346467b7fdb8bb619e0ed"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/04_category_agreement.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/04_category_agreement.svg",
+      "sha256": "1f99e71346405ded95899eae36a09857993519b7f7d9f90d6ef8029278f10119"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/05_modality_ablations.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/05_modality_ablations.png",
+      "sha256": "cd7310ee4d6a87514d79789f59557f0fc67e4574401554694948d5b92ba98917"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/05_modality_ablations.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/05_modality_ablations.svg",
+      "sha256": "cd403865404541050b5272e096b45211c7b28f8a30422efc2362257c9e4d035f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/06_prompt_differences.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/06_prompt_differences.png",
+      "sha256": "5a4adc0bd2d01a33139824821f792f4750be5c9fa75d16bb43312eb8e4153ff1"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/06_prompt_differences.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/06_prompt_differences.svg",
+      "sha256": "5c9c367ff8cc0fb7111b7cf92570bc6f1989f908dce79f80f38e42745791896b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/07_latency_tradeoff.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/07_latency_tradeoff.png",
+      "sha256": "4a0e1bac89d67b9ed1a43dad75308cc788fc6075b505f2dd504e17990fd7e044"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/figures/07_latency_tradeoff.svg",
+      "package": "outputs/prompt_benchmark/final_evaluation/figures/07_latency_tradeoff.svg",
+      "sha256": "4be255f5b7a8e2b19e5ecaf3ec41dcf5afa53a23605c1e4d309bee7963915bfa"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/notebook/Final_Evaluation.html",
+      "package": "outputs/prompt_benchmark/final_evaluation/notebook/Final_Evaluation.html",
+      "sha256": "1e1abbe2b4e859c0e73cd6e8b9c7817614b9589c7c4708f3946dc863ee52161a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/notebook/Final_Evaluation.ipynb",
+      "package": "outputs/prompt_benchmark/final_evaluation/notebook/Final_Evaluation.ipynb",
+      "sha256": "384310c4efcca9b200c2716d92bf55bd7b2bbd4b0ae95d60504432856e51fa1c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/import.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/import.json",
+      "sha256": "a9a17bd75cbca747dd22aa14ac1d01ca1bc563e6601e2bfc1c0a67ca1cd1d2c7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/source_files.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/source_files.json",
+      "sha256": "21e24e92eb3fd32e52d450a50862cd737fb305301516e0d11f111c4e91b46eea"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/by_batch.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/by_batch.csv",
+      "sha256": "cf266087fb0312c381a0e99d974bff1f2a2963c94c5f64c8204e56a5e70b5160"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/false_positives.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/false_positives.csv",
+      "sha256": "ef88d31d9a2770101ec88f0fa6764e488d4067eeb1efb746d121b03c25ff678e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/index.html",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/index.html",
+      "sha256": "e7e7f8e5ea822983b458493c10792dd949c2b07678a6f0a02684862e95cf55a3"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/modality_differences.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/modality_differences.csv",
+      "sha256": "86826a859e1cd26e73c24b46d3cfa97e2b2d5e2bc6dbc3810b10cb68bbfa2356"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/model_comparisons.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/model_comparisons.csv",
+      "sha256": "8f68971ad42f9c08220088547dcc7c35e5ecabf4c75785970679dc1a797617ef"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/overhead.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/overhead.png",
+      "sha256": "563b26ce228234c58e6715009aa193f0cf17bd034bae4600fc1b42f4604b86b3"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/paired_cases.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/paired_cases.csv",
+      "sha256": "c625f81495f100b09f64d55652cf40c662295ec4faab245aa70e7f06ab6a4a60"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/paired_differences.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/paired_differences.csv",
+      "sha256": "e3ecf9de1bfba5eed8a2bfd47b081ae8571382ec184594703aba99111a220fe0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/paired_f1.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/paired_f1.png",
+      "sha256": "f651443835a792cb0d10acfe77d92a0f173ceda42f7c414ecd0cc55673a971bb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/paired_weak_f1.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/paired_weak_f1.png",
+      "sha256": "7e7b6b4f31b8ffef06206d7caeab3f4ff5ba611eba84a70337d8b74391a6fdb8"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/performance.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/performance.csv",
+      "sha256": "ea8dd262272d4de9f5da856c2800bb0fab5af3a14600da9c3cc5dd8a4d34fd4a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/performance.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/performance.png",
+      "sha256": "7663bad3dd2caaa98f24c99b7c2f3f31fe1006e32cc04708806df063678ae867"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/photo_availability.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/photo_availability.csv",
+      "sha256": "8834732792029fa2c9ce05bedc8245a53e9a7c5b51e7f884ce52bc38e2e6b7be"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/predictions.csv",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/predictions.csv",
+      "sha256": "6d812a60ba099284c89583f143f842ccb27dc4621cc97c9944b0e538d2065786"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/report/report.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/report/report.json",
+      "sha256": "6bc40663651b313657487cce8b130834dda43a18c7a5851cb8d9258d73aa123c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/environment.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/environment.json",
+      "sha256": "83a505560e50175bddd81da74ce6e55496d707e6e76a1b4976c4594fc5ef9003"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/final_benchmark_analysis.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/final_benchmark_analysis.py",
+      "sha256": "640333a09610b0d2986310f0877b98e05ff0265a931ac04b527428e0bf18b500"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/requirements.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/requirements.txt",
+      "sha256": "fcb1432c18b650b1c48fef4fabdff24c074139f51d0808cbaf6fb7020b5742d1"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source_hashes.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source_hashes.json",
+      "sha256": "ba9cf739546fb16cf822ba653e6acefab685858388f79cdbc25c32cbf4c13794"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/runtime/model_downloads.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/runtime/model_downloads.json",
+      "sha256": "49b7b983014966598131d12ed46ec22c91c815701158976fa63603264b70ce07"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/runtime/new_models_execution.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/runtime/new_models_execution.json",
+      "sha256": "c86a676be093858a4fee8b369e20cefbc4b285deaa224f2a6ce625037cfbef4b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/runtime/new_models_summary.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/runtime/new_models_summary.json",
+      "sha256": "4e334c3887e86067e10179744099d5af8adb822e265c28a3786cf6983f728a80"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/runtime/server_cleanup.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/runtime/server_cleanup.json",
+      "sha256": "d985ed75a2c4fa3f58d94bee79de64c14f5e3006c663c10128c5a93b4395d8ac"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/runtime/server_configuration.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/runtime/server_configuration.json",
+      "sha256": "a8ce86a30cde24270d851b257f5dcdbafb1ae3b9f46cba33eb4547aedb532493"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/validation/cleanup.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/validation/cleanup.json",
+      "sha256": "bd5ab318003f48a3f2c7cf09da30fb705867754ea0b2cf8a96db52e3be3ec939"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/validation/independent_audit.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/validation/independent_audit.json",
+      "sha256": "7a5ada3f34abe780df9300136a1a37a884bbc285b2e41bb1a74f301bda6e87a0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/validation/notebook_cover.png",
+      "package": "outputs/prompt_benchmark/final_evaluation/validation/notebook_cover.png",
+      "sha256": "adf7c9e4142bf64007f96d086d1057256127214c0580cbe3903615e1ee9d3250"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/validation/notebook_execution.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/validation/notebook_execution.json",
+      "sha256": "810e5675c56372047d4410a0fa54eaa8ba2ac961b8b4cdf1f85379c88a29c484"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/02a5827793f41faa7d889e4c3b0a00423fb5c02b6b1ceb0c1e819e0d181f3093.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/02a5827793f41faa7d889e4c3b0a00423fb5c02b6b1ceb0c1e819e0d181f3093.jpg",
+      "sha256": "02a5827793f41faa7d889e4c3b0a00423fb5c02b6b1ceb0c1e819e0d181f3093"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/045454b67bacd6b0eae88cc7f84f12f3c4cd596f7c575a182593a885c65fc9fa.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/045454b67bacd6b0eae88cc7f84f12f3c4cd596f7c575a182593a885c65fc9fa.jpg",
+      "sha256": "045454b67bacd6b0eae88cc7f84f12f3c4cd596f7c575a182593a885c65fc9fa"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/050ac6cf1887fe3ead6ef3963fba1366f8a7921025e0078d69bae8affabadfb6.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/050ac6cf1887fe3ead6ef3963fba1366f8a7921025e0078d69bae8affabadfb6.jpg",
+      "sha256": "050ac6cf1887fe3ead6ef3963fba1366f8a7921025e0078d69bae8affabadfb6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/058b4f39f0b24b66feb7b7aa6191972ddbdcc2a4383b2ea0aa9122a04438ef90.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/058b4f39f0b24b66feb7b7aa6191972ddbdcc2a4383b2ea0aa9122a04438ef90.jpg",
+      "sha256": "058b4f39f0b24b66feb7b7aa6191972ddbdcc2a4383b2ea0aa9122a04438ef90"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/0675e9a78170086cd775483f6db8cce3d2a30360ba3dd62b65504c846444f105.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/0675e9a78170086cd775483f6db8cce3d2a30360ba3dd62b65504c846444f105.jpg",
+      "sha256": "0675e9a78170086cd775483f6db8cce3d2a30360ba3dd62b65504c846444f105"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/07ae9d84ccf5eb086a715854398f12e9ed2e2f11ac93f883feff90859f58822e.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/07ae9d84ccf5eb086a715854398f12e9ed2e2f11ac93f883feff90859f58822e.jpg",
+      "sha256": "07ae9d84ccf5eb086a715854398f12e9ed2e2f11ac93f883feff90859f58822e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/07e8044739989646e2974a0deae3d38f56acd984db1675a6ace6b66886f06ecd.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/07e8044739989646e2974a0deae3d38f56acd984db1675a6ace6b66886f06ecd.jpg",
+      "sha256": "07e8044739989646e2974a0deae3d38f56acd984db1675a6ace6b66886f06ecd"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/091a29674471da2e9c0dfa2c8373afc97b6fa9a1fb37a99f47df7e3404ce5c1c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/091a29674471da2e9c0dfa2c8373afc97b6fa9a1fb37a99f47df7e3404ce5c1c.jpg",
+      "sha256": "091a29674471da2e9c0dfa2c8373afc97b6fa9a1fb37a99f47df7e3404ce5c1c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/09803932bc9534f1a9a41cbe4c573b211f9d291008ae868eb89fe504020a2d6c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/09803932bc9534f1a9a41cbe4c573b211f9d291008ae868eb89fe504020a2d6c.jpg",
+      "sha256": "09803932bc9534f1a9a41cbe4c573b211f9d291008ae868eb89fe504020a2d6c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/0a3e7e7a45ace1853e9401ebf10f56ee210638acd7dbf250cf7e44699ea63ae5.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/0a3e7e7a45ace1853e9401ebf10f56ee210638acd7dbf250cf7e44699ea63ae5.jpg",
+      "sha256": "0a3e7e7a45ace1853e9401ebf10f56ee210638acd7dbf250cf7e44699ea63ae5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/0cc873c165a899f7e309d24cab42b7c6cf309f2bc17ab4cbec7f868cfb658ffb.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/0cc873c165a899f7e309d24cab42b7c6cf309f2bc17ab4cbec7f868cfb658ffb.jpg",
+      "sha256": "0cc873c165a899f7e309d24cab42b7c6cf309f2bc17ab4cbec7f868cfb658ffb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/16c5781ca023d6ef44f759909c5568d2ca9d8b21034cce2698425ad5e9dad94a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/16c5781ca023d6ef44f759909c5568d2ca9d8b21034cce2698425ad5e9dad94a.jpg",
+      "sha256": "16c5781ca023d6ef44f759909c5568d2ca9d8b21034cce2698425ad5e9dad94a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/174f277b9e38fc889594829d85dc2a88727acb29629b91a6a1daece48a1bbee2.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/174f277b9e38fc889594829d85dc2a88727acb29629b91a6a1daece48a1bbee2.jpg",
+      "sha256": "174f277b9e38fc889594829d85dc2a88727acb29629b91a6a1daece48a1bbee2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/1875c3d4fc172503007376002c2b4a354a70b38b39c776899f1631f896aa4081.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/1875c3d4fc172503007376002c2b4a354a70b38b39c776899f1631f896aa4081.jpg",
+      "sha256": "1875c3d4fc172503007376002c2b4a354a70b38b39c776899f1631f896aa4081"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/18f2701db4dea3f11ec0d972b1051acd706569c43ceb4bbf77bbb77e8d3dbdba.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/18f2701db4dea3f11ec0d972b1051acd706569c43ceb4bbf77bbb77e8d3dbdba.jpg",
+      "sha256": "18f2701db4dea3f11ec0d972b1051acd706569c43ceb4bbf77bbb77e8d3dbdba"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/19b9c5b11f8f05ff7dc1ea6de544732320adc8d6e6bfa61e9491a4fd5a3b4f03.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/19b9c5b11f8f05ff7dc1ea6de544732320adc8d6e6bfa61e9491a4fd5a3b4f03.jpg",
+      "sha256": "19b9c5b11f8f05ff7dc1ea6de544732320adc8d6e6bfa61e9491a4fd5a3b4f03"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/1a90d78782f0838d9a879aa31257a916ca2d54a591147ef919e68f5dc377ded6.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/1a90d78782f0838d9a879aa31257a916ca2d54a591147ef919e68f5dc377ded6.jpg",
+      "sha256": "1a90d78782f0838d9a879aa31257a916ca2d54a591147ef919e68f5dc377ded6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/1ed23e27413af3dfbd2d7d42b92bd0dc7b6182f83def5f3103353c9bacf1bd4a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/1ed23e27413af3dfbd2d7d42b92bd0dc7b6182f83def5f3103353c9bacf1bd4a.jpg",
+      "sha256": "1ed23e27413af3dfbd2d7d42b92bd0dc7b6182f83def5f3103353c9bacf1bd4a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/2212632b9db1c2677d701ea268270418f6246dde0ef7b5103fc951771dc1f115.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/2212632b9db1c2677d701ea268270418f6246dde0ef7b5103fc951771dc1f115.jpg",
+      "sha256": "2212632b9db1c2677d701ea268270418f6246dde0ef7b5103fc951771dc1f115"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/23aee0e3884d314dfea6920f2966ae6c5878dd0e0f0da8c315c5eb00e62b3e7e.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/23aee0e3884d314dfea6920f2966ae6c5878dd0e0f0da8c315c5eb00e62b3e7e.jpg",
+      "sha256": "23aee0e3884d314dfea6920f2966ae6c5878dd0e0f0da8c315c5eb00e62b3e7e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/24a3476205797d1be198fa394f9be2112bce8032b840c19c44a3df85ea00544b.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/24a3476205797d1be198fa394f9be2112bce8032b840c19c44a3df85ea00544b.jpg",
+      "sha256": "24a3476205797d1be198fa394f9be2112bce8032b840c19c44a3df85ea00544b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/24f62f9fa6adac13164282bd8a8c06214ad52d4686d5e02b34d9a2fd3e8bf937.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/24f62f9fa6adac13164282bd8a8c06214ad52d4686d5e02b34d9a2fd3e8bf937.jpg",
+      "sha256": "24f62f9fa6adac13164282bd8a8c06214ad52d4686d5e02b34d9a2fd3e8bf937"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/263bdb0976997f2e9d9bbd61069aae21b29113ddf93bcdb2f3ca488c7360b888.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/263bdb0976997f2e9d9bbd61069aae21b29113ddf93bcdb2f3ca488c7360b888.jpg",
+      "sha256": "263bdb0976997f2e9d9bbd61069aae21b29113ddf93bcdb2f3ca488c7360b888"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/29026385f5de19f55c877becdcb09dfd72f032e445cccafaa9a00918681c8644.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/29026385f5de19f55c877becdcb09dfd72f032e445cccafaa9a00918681c8644.jpg",
+      "sha256": "29026385f5de19f55c877becdcb09dfd72f032e445cccafaa9a00918681c8644"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/2a0d40e8135529e5eb0adebe9cd1c323e1b8d606dabb5bb8010fe15d373cd32d.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/2a0d40e8135529e5eb0adebe9cd1c323e1b8d606dabb5bb8010fe15d373cd32d.jpg",
+      "sha256": "2a0d40e8135529e5eb0adebe9cd1c323e1b8d606dabb5bb8010fe15d373cd32d"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/2cacee877080182b8c9c4bb7a8560c005e1f911884546a3c3c3051e5df9e533f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/2cacee877080182b8c9c4bb7a8560c005e1f911884546a3c3c3051e5df9e533f.jpg",
+      "sha256": "2cacee877080182b8c9c4bb7a8560c005e1f911884546a3c3c3051e5df9e533f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/2ce242a8791b4fefaa14f38d0f7be1b86530c5c9aa11b717b5e378feaefee334.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/2ce242a8791b4fefaa14f38d0f7be1b86530c5c9aa11b717b5e378feaefee334.jpg",
+      "sha256": "2ce242a8791b4fefaa14f38d0f7be1b86530c5c9aa11b717b5e378feaefee334"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/2da271bb902bb705b2ba232121b9ebabc977099c759fa8edc3276aaac526c19a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/2da271bb902bb705b2ba232121b9ebabc977099c759fa8edc3276aaac526c19a.jpg",
+      "sha256": "2da271bb902bb705b2ba232121b9ebabc977099c759fa8edc3276aaac526c19a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/31759f82e422ee19068daa2c7928e41e3a9d4eeeb8113c31333fb5a4319e8edc.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/31759f82e422ee19068daa2c7928e41e3a9d4eeeb8113c31333fb5a4319e8edc.jpg",
+      "sha256": "31759f82e422ee19068daa2c7928e41e3a9d4eeeb8113c31333fb5a4319e8edc"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/339412f3ef5127413496e797b7f94f27aefaaa85e9a86b83c3492267c9fec736.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/339412f3ef5127413496e797b7f94f27aefaaa85e9a86b83c3492267c9fec736.jpg",
+      "sha256": "339412f3ef5127413496e797b7f94f27aefaaa85e9a86b83c3492267c9fec736"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/33b46ebfc28297f706e7d0971e3a62ace9f6bbce6900281454c8c62a8bdd7cf2.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/33b46ebfc28297f706e7d0971e3a62ace9f6bbce6900281454c8c62a8bdd7cf2.jpg",
+      "sha256": "33b46ebfc28297f706e7d0971e3a62ace9f6bbce6900281454c8c62a8bdd7cf2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/3627590f378c8d13a891a0415388a2e2a4619450a617ef14ec59de9a0ea76679.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/3627590f378c8d13a891a0415388a2e2a4619450a617ef14ec59de9a0ea76679.jpg",
+      "sha256": "3627590f378c8d13a891a0415388a2e2a4619450a617ef14ec59de9a0ea76679"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/38ce8607a921d751e43b8112359f0a4b44f890f4df9d9d1540a51fe04241cce7.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/38ce8607a921d751e43b8112359f0a4b44f890f4df9d9d1540a51fe04241cce7.jpg",
+      "sha256": "38ce8607a921d751e43b8112359f0a4b44f890f4df9d9d1540a51fe04241cce7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/3c0113446c1f89d556877a1f37c11647fadeedfb65cdbba460ce718ee9b83bb4.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/3c0113446c1f89d556877a1f37c11647fadeedfb65cdbba460ce718ee9b83bb4.jpg",
+      "sha256": "3c0113446c1f89d556877a1f37c11647fadeedfb65cdbba460ce718ee9b83bb4"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/3c1c339fbe141903321497a922cfeb0828f14e874ec838415eb9ed86635e6926.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/3c1c339fbe141903321497a922cfeb0828f14e874ec838415eb9ed86635e6926.jpg",
+      "sha256": "3c1c339fbe141903321497a922cfeb0828f14e874ec838415eb9ed86635e6926"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/406b423ca808d75c21898bbcbc1f94fac733e99471c1ab34f2a0ee1205d4fcea.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/406b423ca808d75c21898bbcbc1f94fac733e99471c1ab34f2a0ee1205d4fcea.jpg",
+      "sha256": "406b423ca808d75c21898bbcbc1f94fac733e99471c1ab34f2a0ee1205d4fcea"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/41e59d8b190e3b6ef73c474c8e7538f98cd6613e1aed8de970abdb79fe2dd352.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/41e59d8b190e3b6ef73c474c8e7538f98cd6613e1aed8de970abdb79fe2dd352.jpg",
+      "sha256": "41e59d8b190e3b6ef73c474c8e7538f98cd6613e1aed8de970abdb79fe2dd352"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4228ffc8fa20c00b745452886e130e008e884f7192cfb866459cea9b4530ce02.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4228ffc8fa20c00b745452886e130e008e884f7192cfb866459cea9b4530ce02.jpg",
+      "sha256": "4228ffc8fa20c00b745452886e130e008e884f7192cfb866459cea9b4530ce02"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/44d5b3dc0d74466f67da6c4bfa2361f268896822de480febc775079976f43a8c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/44d5b3dc0d74466f67da6c4bfa2361f268896822de480febc775079976f43a8c.jpg",
+      "sha256": "44d5b3dc0d74466f67da6c4bfa2361f268896822de480febc775079976f43a8c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/469c433fda1119e3ce6ae765cc8d68ab844f573cb1d3569440176c9cd59567e3.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/469c433fda1119e3ce6ae765cc8d68ab844f573cb1d3569440176c9cd59567e3.jpg",
+      "sha256": "469c433fda1119e3ce6ae765cc8d68ab844f573cb1d3569440176c9cd59567e3"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/48366d079ca41c435dc83606f5a170ede6ca1c37ffe6c84cb1dabf67c330086b.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/48366d079ca41c435dc83606f5a170ede6ca1c37ffe6c84cb1dabf67c330086b.jpg",
+      "sha256": "48366d079ca41c435dc83606f5a170ede6ca1c37ffe6c84cb1dabf67c330086b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4974a74ab5799993e744caf963465e66b35bf6734bb5f662576e3614be6fa9d6.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4974a74ab5799993e744caf963465e66b35bf6734bb5f662576e3614be6fa9d6.jpg",
+      "sha256": "4974a74ab5799993e744caf963465e66b35bf6734bb5f662576e3614be6fa9d6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4aedf32bd0a7fa61081687721d65610b88c8b7227d0bd5a68094b15422b2cb45.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4aedf32bd0a7fa61081687721d65610b88c8b7227d0bd5a68094b15422b2cb45.jpg",
+      "sha256": "4aedf32bd0a7fa61081687721d65610b88c8b7227d0bd5a68094b15422b2cb45"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4b6981676b62fdb5de4acbca3ddb17fc03adf6ee3460e9b43b9ef76c47b57a1f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4b6981676b62fdb5de4acbca3ddb17fc03adf6ee3460e9b43b9ef76c47b57a1f.jpg",
+      "sha256": "4b6981676b62fdb5de4acbca3ddb17fc03adf6ee3460e9b43b9ef76c47b57a1f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4c4fc363fab93da322a5b7afa57c0b061ea879e554b301e5fa0b65e48a555bdf.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4c4fc363fab93da322a5b7afa57c0b061ea879e554b301e5fa0b65e48a555bdf.jpg",
+      "sha256": "4c4fc363fab93da322a5b7afa57c0b061ea879e554b301e5fa0b65e48a555bdf"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4e9cfd99ef153aeedd5056f533741244f36517c49cc2e9fdd1c71c8a57fbac68.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4e9cfd99ef153aeedd5056f533741244f36517c49cc2e9fdd1c71c8a57fbac68.jpg",
+      "sha256": "4e9cfd99ef153aeedd5056f533741244f36517c49cc2e9fdd1c71c8a57fbac68"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4ecd879ce619845ea93aa0eaf3d068f336c94f70c1406b457079120920771fa0.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4ecd879ce619845ea93aa0eaf3d068f336c94f70c1406b457079120920771fa0.jpg",
+      "sha256": "4ecd879ce619845ea93aa0eaf3d068f336c94f70c1406b457079120920771fa0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/4f09ea818cc57129eec1b97e227ce49cab50115ffdbc00307ebc8d9f83925b30.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/4f09ea818cc57129eec1b97e227ce49cab50115ffdbc00307ebc8d9f83925b30.jpg",
+      "sha256": "4f09ea818cc57129eec1b97e227ce49cab50115ffdbc00307ebc8d9f83925b30"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/508cdffbb2aff5d3c735b3c9fb73daa8b9869669398d57b022cb60a167f5ce0f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/508cdffbb2aff5d3c735b3c9fb73daa8b9869669398d57b022cb60a167f5ce0f.jpg",
+      "sha256": "508cdffbb2aff5d3c735b3c9fb73daa8b9869669398d57b022cb60a167f5ce0f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/50a978a48ecad2ba5c713d1a197384e8030bbf6610d4792b4f94ff4c136adcd4.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/50a978a48ecad2ba5c713d1a197384e8030bbf6610d4792b4f94ff4c136adcd4.jpg",
+      "sha256": "50a978a48ecad2ba5c713d1a197384e8030bbf6610d4792b4f94ff4c136adcd4"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/52a2b465c19567b8027f0038263736ed485016240a05f1d3bf2cee7da6f1b6e1.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/52a2b465c19567b8027f0038263736ed485016240a05f1d3bf2cee7da6f1b6e1.jpg",
+      "sha256": "52a2b465c19567b8027f0038263736ed485016240a05f1d3bf2cee7da6f1b6e1"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/586b08a123a08fd4657bc58bcfcacab2d29b21a951f4fe27e37e38a7d3b7b33f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/586b08a123a08fd4657bc58bcfcacab2d29b21a951f4fe27e37e38a7d3b7b33f.jpg",
+      "sha256": "586b08a123a08fd4657bc58bcfcacab2d29b21a951f4fe27e37e38a7d3b7b33f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/591aa4bc5d410d8789c3006e6c041f23176112a507ed36037418e0d07d7c933f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/591aa4bc5d410d8789c3006e6c041f23176112a507ed36037418e0d07d7c933f.jpg",
+      "sha256": "591aa4bc5d410d8789c3006e6c041f23176112a507ed36037418e0d07d7c933f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/5b79b751d7e37b8563305a201e1ea399ec994c743f0341d023773de8b9ca346f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/5b79b751d7e37b8563305a201e1ea399ec994c743f0341d023773de8b9ca346f.jpg",
+      "sha256": "5b79b751d7e37b8563305a201e1ea399ec994c743f0341d023773de8b9ca346f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/5c411bc97db6ae26b99cdbdeb5b90307380e82062440e26652476aec38c72727.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/5c411bc97db6ae26b99cdbdeb5b90307380e82062440e26652476aec38c72727.jpg",
+      "sha256": "5c411bc97db6ae26b99cdbdeb5b90307380e82062440e26652476aec38c72727"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/5cd77d5386dfa2e5cb7643147f48cc83906cedcc424ec455d57a62c0d79502d5.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/5cd77d5386dfa2e5cb7643147f48cc83906cedcc424ec455d57a62c0d79502d5.jpg",
+      "sha256": "5cd77d5386dfa2e5cb7643147f48cc83906cedcc424ec455d57a62c0d79502d5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/5ec0c6ac98a71821530b40cce32226d4a62a03f0b2f6a6f52c1c65811d5ae481.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/5ec0c6ac98a71821530b40cce32226d4a62a03f0b2f6a6f52c1c65811d5ae481.jpg",
+      "sha256": "5ec0c6ac98a71821530b40cce32226d4a62a03f0b2f6a6f52c1c65811d5ae481"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/5f4b1e8e2d5c66c1daf04a2febf97bc460c63af083940516a8f72137977d1a6d.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/5f4b1e8e2d5c66c1daf04a2febf97bc460c63af083940516a8f72137977d1a6d.jpg",
+      "sha256": "5f4b1e8e2d5c66c1daf04a2febf97bc460c63af083940516a8f72137977d1a6d"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/61e0c590891f7f400340e834cf20e9cf5af42c57d95fde6284e649c1f3a73997.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/61e0c590891f7f400340e834cf20e9cf5af42c57d95fde6284e649c1f3a73997.jpg",
+      "sha256": "61e0c590891f7f400340e834cf20e9cf5af42c57d95fde6284e649c1f3a73997"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/63ed39010888e4a79cab782681bff174c17d01d339aacb6819a3ddffc99d0792.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/63ed39010888e4a79cab782681bff174c17d01d339aacb6819a3ddffc99d0792.jpg",
+      "sha256": "63ed39010888e4a79cab782681bff174c17d01d339aacb6819a3ddffc99d0792"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/65122dc2fa62913452d931921be791ba8ce591487665d00c6dfc2560525f3ceb.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/65122dc2fa62913452d931921be791ba8ce591487665d00c6dfc2560525f3ceb.jpg",
+      "sha256": "65122dc2fa62913452d931921be791ba8ce591487665d00c6dfc2560525f3ceb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/67edeb34b0ab1004da7515529130b8aabefc863443eec84ac2eef9f72c395d22.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/67edeb34b0ab1004da7515529130b8aabefc863443eec84ac2eef9f72c395d22.jpg",
+      "sha256": "67edeb34b0ab1004da7515529130b8aabefc863443eec84ac2eef9f72c395d22"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/6bcff7dc9f840cdfc7cd15255b2e14d8b469c9b924f18491a9edec69d9fe4fca.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/6bcff7dc9f840cdfc7cd15255b2e14d8b469c9b924f18491a9edec69d9fe4fca.jpg",
+      "sha256": "6bcff7dc9f840cdfc7cd15255b2e14d8b469c9b924f18491a9edec69d9fe4fca"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/6d6c4415abdb409b15dfa6eaa3f43eafc1faec2c86285ac3c6cf8d475a77df7d.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/6d6c4415abdb409b15dfa6eaa3f43eafc1faec2c86285ac3c6cf8d475a77df7d.jpg",
+      "sha256": "6d6c4415abdb409b15dfa6eaa3f43eafc1faec2c86285ac3c6cf8d475a77df7d"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/6ec615bf0e65c2ea7fe2667e5dde229ce3df64e75cbec4b65dda5c5a7add5299.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/6ec615bf0e65c2ea7fe2667e5dde229ce3df64e75cbec4b65dda5c5a7add5299.jpg",
+      "sha256": "6ec615bf0e65c2ea7fe2667e5dde229ce3df64e75cbec4b65dda5c5a7add5299"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/721642667e11bedec16d6865fdb8225fc3d71d71033355bea5736d1b0eb579d1.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/721642667e11bedec16d6865fdb8225fc3d71d71033355bea5736d1b0eb579d1.jpg",
+      "sha256": "721642667e11bedec16d6865fdb8225fc3d71d71033355bea5736d1b0eb579d1"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7440520a26c6ca975b2fc7c5115e39f9ba69390ff04584da1e8cce3ba701f167.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7440520a26c6ca975b2fc7c5115e39f9ba69390ff04584da1e8cce3ba701f167.jpg",
+      "sha256": "7440520a26c6ca975b2fc7c5115e39f9ba69390ff04584da1e8cce3ba701f167"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/750f44455096cf2062a96e59867c6c0468976808ab50b566d5f82784ada7a3b2.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/750f44455096cf2062a96e59867c6c0468976808ab50b566d5f82784ada7a3b2.jpg",
+      "sha256": "750f44455096cf2062a96e59867c6c0468976808ab50b566d5f82784ada7a3b2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/752ea44881551af4548e4b077c62c4778e7d151f2e90132ddef492047c0cb978.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/752ea44881551af4548e4b077c62c4778e7d151f2e90132ddef492047c0cb978.jpg",
+      "sha256": "752ea44881551af4548e4b077c62c4778e7d151f2e90132ddef492047c0cb978"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/753aa2aa9cb53688b74dfecde4b40590aa67cafa6b7d40a46146eefd80c3ebf8.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/753aa2aa9cb53688b74dfecde4b40590aa67cafa6b7d40a46146eefd80c3ebf8.jpg",
+      "sha256": "753aa2aa9cb53688b74dfecde4b40590aa67cafa6b7d40a46146eefd80c3ebf8"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7679db520dfbb3bff64ded2bf7426496ce77607d5a2ab6dff18092f4471de07f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7679db520dfbb3bff64ded2bf7426496ce77607d5a2ab6dff18092f4471de07f.jpg",
+      "sha256": "7679db520dfbb3bff64ded2bf7426496ce77607d5a2ab6dff18092f4471de07f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7bd8dd4eb96cb2db42783b529db1dd09a973ddb3740ea7bb836aca4e2e0ef8d9.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7bd8dd4eb96cb2db42783b529db1dd09a973ddb3740ea7bb836aca4e2e0ef8d9.jpg",
+      "sha256": "7bd8dd4eb96cb2db42783b529db1dd09a973ddb3740ea7bb836aca4e2e0ef8d9"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7c7452fd13dc41278728253d5669690690019a374de6e4e64c79c304c5b59a14.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7c7452fd13dc41278728253d5669690690019a374de6e4e64c79c304c5b59a14.jpg",
+      "sha256": "7c7452fd13dc41278728253d5669690690019a374de6e4e64c79c304c5b59a14"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7d7dee1bb64a08145826df48f48f3622ca2bf839a68b787fc81422c46cce2944.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7d7dee1bb64a08145826df48f48f3622ca2bf839a68b787fc81422c46cce2944.jpg",
+      "sha256": "7d7dee1bb64a08145826df48f48f3622ca2bf839a68b787fc81422c46cce2944"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/7ecd24768fa2c7228e80ae943313f83d79727752c16bb2a9bbbb99fbb64ed309.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/7ecd24768fa2c7228e80ae943313f83d79727752c16bb2a9bbbb99fbb64ed309.jpg",
+      "sha256": "7ecd24768fa2c7228e80ae943313f83d79727752c16bb2a9bbbb99fbb64ed309"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/842343a220d380c60ab7ece449d2057c1a19f543856a5b117c0dfd0ae15d2bcd.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/842343a220d380c60ab7ece449d2057c1a19f543856a5b117c0dfd0ae15d2bcd.jpg",
+      "sha256": "842343a220d380c60ab7ece449d2057c1a19f543856a5b117c0dfd0ae15d2bcd"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/877a3065203419062d268a3971908aa597a40eafa712419bfe462a044f727e41.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/877a3065203419062d268a3971908aa597a40eafa712419bfe462a044f727e41.jpg",
+      "sha256": "877a3065203419062d268a3971908aa597a40eafa712419bfe462a044f727e41"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/88fe9b4bb9f29e0175419d68882226ea979c8e1549db3566df7ebceae5a59755.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/88fe9b4bb9f29e0175419d68882226ea979c8e1549db3566df7ebceae5a59755.jpg",
+      "sha256": "88fe9b4bb9f29e0175419d68882226ea979c8e1549db3566df7ebceae5a59755"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/8ae87ed0f72baeb9dea434f4b66ccc3fe229cb12d3ecbd06baa551bd3708739d.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/8ae87ed0f72baeb9dea434f4b66ccc3fe229cb12d3ecbd06baa551bd3708739d.jpg",
+      "sha256": "8ae87ed0f72baeb9dea434f4b66ccc3fe229cb12d3ecbd06baa551bd3708739d"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/8c6865aff37292abb98ff55581d482911143920d2815849a456597fc028c87f8.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/8c6865aff37292abb98ff55581d482911143920d2815849a456597fc028c87f8.jpg",
+      "sha256": "8c6865aff37292abb98ff55581d482911143920d2815849a456597fc028c87f8"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/929f686ddc411746f7c7fc13a1a28beac1eb78a70daf5544eccded9cabed94f7.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/929f686ddc411746f7c7fc13a1a28beac1eb78a70daf5544eccded9cabed94f7.jpg",
+      "sha256": "929f686ddc411746f7c7fc13a1a28beac1eb78a70daf5544eccded9cabed94f7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/95b22afead9d97a3ab9262598a2e4e373e331f1bee85ac8664e635b47aede25a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/95b22afead9d97a3ab9262598a2e4e373e331f1bee85ac8664e635b47aede25a.jpg",
+      "sha256": "95b22afead9d97a3ab9262598a2e4e373e331f1bee85ac8664e635b47aede25a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/9c2d60fa9ac106d2f25e900fba611396a240ea9156cb673c71d4407d95b4271f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/9c2d60fa9ac106d2f25e900fba611396a240ea9156cb673c71d4407d95b4271f.jpg",
+      "sha256": "9c2d60fa9ac106d2f25e900fba611396a240ea9156cb673c71d4407d95b4271f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/9ca04402c20d296fbeabc73c5f7a58cb1508d6f0c91de23eb10f7a85922d6fcf.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/9ca04402c20d296fbeabc73c5f7a58cb1508d6f0c91de23eb10f7a85922d6fcf.jpg",
+      "sha256": "9ca04402c20d296fbeabc73c5f7a58cb1508d6f0c91de23eb10f7a85922d6fcf"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/9ffd55ac9d4bba7ddf69615d926afc489cc1881c8352bf00615dc4331f8b19b5.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/9ffd55ac9d4bba7ddf69615d926afc489cc1881c8352bf00615dc4331f8b19b5.jpg",
+      "sha256": "9ffd55ac9d4bba7ddf69615d926afc489cc1881c8352bf00615dc4331f8b19b5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/a0c15311572f161b89160f9cef918ebb72f9f62cba801df3a843c552ee7862c3.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/a0c15311572f161b89160f9cef918ebb72f9f62cba801df3a843c552ee7862c3.jpg",
+      "sha256": "a0c15311572f161b89160f9cef918ebb72f9f62cba801df3a843c552ee7862c3"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/a2bc27fb31a1c3a785c8d8ffcafb8668909aad38d4830fb9491bda0e5e5b07f2.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/a2bc27fb31a1c3a785c8d8ffcafb8668909aad38d4830fb9491bda0e5e5b07f2.jpg",
+      "sha256": "a2bc27fb31a1c3a785c8d8ffcafb8668909aad38d4830fb9491bda0e5e5b07f2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/a3922281279cbbc746e1862438a95ab8267fa0a30fc013923eaabada1d7ef0b0.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/a3922281279cbbc746e1862438a95ab8267fa0a30fc013923eaabada1d7ef0b0.jpg",
+      "sha256": "a3922281279cbbc746e1862438a95ab8267fa0a30fc013923eaabada1d7ef0b0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/a608df98f689744a352efe095fd5f3273ab61af89bf6f0980712921cfae2e85d.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/a608df98f689744a352efe095fd5f3273ab61af89bf6f0980712921cfae2e85d.jpg",
+      "sha256": "a608df98f689744a352efe095fd5f3273ab61af89bf6f0980712921cfae2e85d"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/b02df52eec0f55dc3bc4b32cf5fdf7915716bedc6b3d7ab800e5b270db9aeac5.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/b02df52eec0f55dc3bc4b32cf5fdf7915716bedc6b3d7ab800e5b270db9aeac5.jpg",
+      "sha256": "b02df52eec0f55dc3bc4b32cf5fdf7915716bedc6b3d7ab800e5b270db9aeac5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/b09a9b820d18be71a11ca6cba81117f4db51a24c153c535d5bacf0499aa30496.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/b09a9b820d18be71a11ca6cba81117f4db51a24c153c535d5bacf0499aa30496.jpg",
+      "sha256": "b09a9b820d18be71a11ca6cba81117f4db51a24c153c535d5bacf0499aa30496"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/b5c267a5f08df03e509bf410d33d38474ebcd5652b769144138195616071c372.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/b5c267a5f08df03e509bf410d33d38474ebcd5652b769144138195616071c372.jpg",
+      "sha256": "b5c267a5f08df03e509bf410d33d38474ebcd5652b769144138195616071c372"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/b87d8501cf1b83c7c7aa42c34689ac861dc072c8c10f2f0fd3b345c05c87fdcf.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/b87d8501cf1b83c7c7aa42c34689ac861dc072c8c10f2f0fd3b345c05c87fdcf.jpg",
+      "sha256": "b87d8501cf1b83c7c7aa42c34689ac861dc072c8c10f2f0fd3b345c05c87fdcf"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/b97840c048f4a76742b152eb6ccc264d864f3f1c1060bf1067c7bcc584c0d293.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/b97840c048f4a76742b152eb6ccc264d864f3f1c1060bf1067c7bcc584c0d293.jpg",
+      "sha256": "b97840c048f4a76742b152eb6ccc264d864f3f1c1060bf1067c7bcc584c0d293"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/ba9b1802f184a143b04d239a836eba84303680452d76571ae44dca96f54592f2.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/ba9b1802f184a143b04d239a836eba84303680452d76571ae44dca96f54592f2.jpg",
+      "sha256": "ba9b1802f184a143b04d239a836eba84303680452d76571ae44dca96f54592f2"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/bc6db2afc38dd8768f08fce685a9eaa05ad1898e04a9fd6da44bc6d7096362d9.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/bc6db2afc38dd8768f08fce685a9eaa05ad1898e04a9fd6da44bc6d7096362d9.jpg",
+      "sha256": "bc6db2afc38dd8768f08fce685a9eaa05ad1898e04a9fd6da44bc6d7096362d9"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c0d36841968cbe2521f74245ee8960da4b5f0124957ee0c56ce1dd503d63c5f7.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c0d36841968cbe2521f74245ee8960da4b5f0124957ee0c56ce1dd503d63c5f7.jpg",
+      "sha256": "c0d36841968cbe2521f74245ee8960da4b5f0124957ee0c56ce1dd503d63c5f7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c1d9b0b2c7614d4d526f3677afc2ef560a00dcbec13bdafe38fa21a90b0747c1.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c1d9b0b2c7614d4d526f3677afc2ef560a00dcbec13bdafe38fa21a90b0747c1.jpg",
+      "sha256": "c1d9b0b2c7614d4d526f3677afc2ef560a00dcbec13bdafe38fa21a90b0747c1"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c2bd6c8ddbd6282e25e299dc93be5d04d2f4a7ee86b4119b19d58f1bb9501adc.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c2bd6c8ddbd6282e25e299dc93be5d04d2f4a7ee86b4119b19d58f1bb9501adc.jpg",
+      "sha256": "c2bd6c8ddbd6282e25e299dc93be5d04d2f4a7ee86b4119b19d58f1bb9501adc"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c53f924e7f8becb739d61af27221746dfd594d7d79c94dce7edbe85620edde5b.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c53f924e7f8becb739d61af27221746dfd594d7d79c94dce7edbe85620edde5b.jpg",
+      "sha256": "c53f924e7f8becb739d61af27221746dfd594d7d79c94dce7edbe85620edde5b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c5bd23b17acc66b189ff04bbfdf1112066ed66028c9b2d368242046a51ef916c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c5bd23b17acc66b189ff04bbfdf1112066ed66028c9b2d368242046a51ef916c.jpg",
+      "sha256": "c5bd23b17acc66b189ff04bbfdf1112066ed66028c9b2d368242046a51ef916c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/c87b6f8dc5374b3f10ceb266aab8ff2c39911630ea5bc3e756f4d9506d8b2b76.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/c87b6f8dc5374b3f10ceb266aab8ff2c39911630ea5bc3e756f4d9506d8b2b76.jpg",
+      "sha256": "c87b6f8dc5374b3f10ceb266aab8ff2c39911630ea5bc3e756f4d9506d8b2b76"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/ca6b4d8f6646f117e42bf57814dca12dfa17c4fb6d1d55c5897f7f45c874b322.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/ca6b4d8f6646f117e42bf57814dca12dfa17c4fb6d1d55c5897f7f45c874b322.jpg",
+      "sha256": "ca6b4d8f6646f117e42bf57814dca12dfa17c4fb6d1d55c5897f7f45c874b322"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfc01ad6a8850a6714d2db6cf5934d7a445ea5d779e67f1e37a1e4cf4d362efc.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfc01ad6a8850a6714d2db6cf5934d7a445ea5d779e67f1e37a1e4cf4d362efc.jpg",
+      "sha256": "cfc01ad6a8850a6714d2db6cf5934d7a445ea5d779e67f1e37a1e4cf4d362efc"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfccb35e2fe3f27a386a7491c119578806c067643b6ecc2e68313f23d135be5a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfccb35e2fe3f27a386a7491c119578806c067643b6ecc2e68313f23d135be5a.jpg",
+      "sha256": "cfccb35e2fe3f27a386a7491c119578806c067643b6ecc2e68313f23d135be5a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfdcca751b32182493c932ffd548d4d91b5dd3f84fe2812ef10a26a58f4c7151.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/cfdcca751b32182493c932ffd548d4d91b5dd3f84fe2812ef10a26a58f4c7151.jpg",
+      "sha256": "cfdcca751b32182493c932ffd548d4d91b5dd3f84fe2812ef10a26a58f4c7151"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/d3e95b932f2191181c55b1968d69937f76e7925265d134f7b59268180e07f038.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/d3e95b932f2191181c55b1968d69937f76e7925265d134f7b59268180e07f038.jpg",
+      "sha256": "d3e95b932f2191181c55b1968d69937f76e7925265d134f7b59268180e07f038"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/d5165077be05cb9c37f418f569fba877a2df349680fae0a3263286c845fbdc19.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/d5165077be05cb9c37f418f569fba877a2df349680fae0a3263286c845fbdc19.jpg",
+      "sha256": "d5165077be05cb9c37f418f569fba877a2df349680fae0a3263286c845fbdc19"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/d8fc6926f8aed8c03aadabbe86271081ef2239d9e8d624b0e2d6fa1e452e3d10.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/d8fc6926f8aed8c03aadabbe86271081ef2239d9e8d624b0e2d6fa1e452e3d10.jpg",
+      "sha256": "d8fc6926f8aed8c03aadabbe86271081ef2239d9e8d624b0e2d6fa1e452e3d10"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/d99c6fff04acda00b28614d7487f75dce6384b17f7d142dc019bdc067acd49d5.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/d99c6fff04acda00b28614d7487f75dce6384b17f7d142dc019bdc067acd49d5.jpg",
+      "sha256": "d99c6fff04acda00b28614d7487f75dce6384b17f7d142dc019bdc067acd49d5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/da51d3ec024e1dfad1b355617bd5968a2a6563eb5a391270c61a84bcfde0a38f.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/da51d3ec024e1dfad1b355617bd5968a2a6563eb5a391270c61a84bcfde0a38f.jpg",
+      "sha256": "da51d3ec024e1dfad1b355617bd5968a2a6563eb5a391270c61a84bcfde0a38f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/db52f02db0d35623532a32fa471936c471b5cead4ec59ba9ac74442c33a4a5dc.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/db52f02db0d35623532a32fa471936c471b5cead4ec59ba9ac74442c33a4a5dc.jpg",
+      "sha256": "db52f02db0d35623532a32fa471936c471b5cead4ec59ba9ac74442c33a4a5dc"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/dbddb07b1a1da0becaef8cd04f04697e20f3f98e251756220971754e032b8386.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/dbddb07b1a1da0becaef8cd04f04697e20f3f98e251756220971754e032b8386.jpg",
+      "sha256": "dbddb07b1a1da0becaef8cd04f04697e20f3f98e251756220971754e032b8386"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/dc335490ad278c296340c860100c0da7e9b0bde73081c49578788a2916c6a18a.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/dc335490ad278c296340c860100c0da7e9b0bde73081c49578788a2916c6a18a.jpg",
+      "sha256": "dc335490ad278c296340c860100c0da7e9b0bde73081c49578788a2916c6a18a"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/dde764fbb56b01f244b8b9cb6df86f44723dd23eb4775941cb1ad88d67f4fadb.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/dde764fbb56b01f244b8b9cb6df86f44723dd23eb4775941cb1ad88d67f4fadb.jpg",
+      "sha256": "dde764fbb56b01f244b8b9cb6df86f44723dd23eb4775941cb1ad88d67f4fadb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/de3bc818013d8a37d3acb9151de21d2bae67333d71e1bbace1cc147d2ff7fdca.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/de3bc818013d8a37d3acb9151de21d2bae67333d71e1bbace1cc147d2ff7fdca.jpg",
+      "sha256": "de3bc818013d8a37d3acb9151de21d2bae67333d71e1bbace1cc147d2ff7fdca"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/de90d5331a114ac6e80aa9fdc3a0d1d3ac862d7bcea21237df08199ef5985ddb.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/de90d5331a114ac6e80aa9fdc3a0d1d3ac862d7bcea21237df08199ef5985ddb.jpg",
+      "sha256": "de90d5331a114ac6e80aa9fdc3a0d1d3ac862d7bcea21237df08199ef5985ddb"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/df2607b13fa45158267e67b164c924669088e01b190bc38983ae4542451f5553.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/df2607b13fa45158267e67b164c924669088e01b190bc38983ae4542451f5553.jpg",
+      "sha256": "df2607b13fa45158267e67b164c924669088e01b190bc38983ae4542451f5553"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/e1ac9adeaafc3c2e7e9c1f11a0944014c9a88b8235f77a2f78fde96f4965cd54.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/e1ac9adeaafc3c2e7e9c1f11a0944014c9a88b8235f77a2f78fde96f4965cd54.jpg",
+      "sha256": "e1ac9adeaafc3c2e7e9c1f11a0944014c9a88b8235f77a2f78fde96f4965cd54"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/e4082ff546c0b455b5c7c1af073de984cfe342d4ca3283dde9e44679807f789c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/e4082ff546c0b455b5c7c1af073de984cfe342d4ca3283dde9e44679807f789c.jpg",
+      "sha256": "e4082ff546c0b455b5c7c1af073de984cfe342d4ca3283dde9e44679807f789c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/e6244f4d679d8883ab750f3090b77fa79027136f9d9b6150d80206d46fee5bc0.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/e6244f4d679d8883ab750f3090b77fa79027136f9d9b6150d80206d46fee5bc0.jpg",
+      "sha256": "e6244f4d679d8883ab750f3090b77fa79027136f9d9b6150d80206d46fee5bc0"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/ebc97cae8228cf000ab3afe5ca5756db0c954a9172f57e36ea35e617b0613109.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/ebc97cae8228cf000ab3afe5ca5756db0c954a9172f57e36ea35e617b0613109.jpg",
+      "sha256": "ebc97cae8228cf000ab3afe5ca5756db0c954a9172f57e36ea35e617b0613109"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/ecbb7ba39a1298cfb316579715cc0ec7478bcedc61e6466b6c67698c1752311b.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/ecbb7ba39a1298cfb316579715cc0ec7478bcedc61e6466b6c67698c1752311b.jpg",
+      "sha256": "ecbb7ba39a1298cfb316579715cc0ec7478bcedc61e6466b6c67698c1752311b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/ecc6421b92e6c59edab5a8849279e9437b991daefe8141ea4398a47f9a86e88e.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/ecc6421b92e6c59edab5a8849279e9437b991daefe8141ea4398a47f9a86e88e.jpg",
+      "sha256": "ecc6421b92e6c59edab5a8849279e9437b991daefe8141ea4398a47f9a86e88e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/f1043be966ec8fe7e6eebc0e4fe3b6a65e2bfa4195a48cbe46727c96ca7c973e.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/f1043be966ec8fe7e6eebc0e4fe3b6a65e2bfa4195a48cbe46727c96ca7c973e.jpg",
+      "sha256": "f1043be966ec8fe7e6eebc0e4fe3b6a65e2bfa4195a48cbe46727c96ca7c973e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/f1fbedb0221cde6bb94197f3d7e4e760393fac4c0f1c17657ae8c8b2715a99ea.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/f1fbedb0221cde6bb94197f3d7e4e760393fac4c0f1c17657ae8c8b2715a99ea.jpg",
+      "sha256": "f1fbedb0221cde6bb94197f3d7e4e760393fac4c0f1c17657ae8c8b2715a99ea"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/f3577276b211be342c56ce7e18429aca9bf75bb694d669407db8bc1f6f4159f6.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/f3577276b211be342c56ce7e18429aca9bf75bb694d669407db8bc1f6f4159f6.jpg",
+      "sha256": "f3577276b211be342c56ce7e18429aca9bf75bb694d669407db8bc1f6f4159f6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/f42b9166eeeb78ba6c12685c59352a1dd3f3ae38b0e56151673f54d1b5701d99.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/f42b9166eeeb78ba6c12685c59352a1dd3f3ae38b0e56151673f54d1b5701d99.jpg",
+      "sha256": "f42b9166eeeb78ba6c12685c59352a1dd3f3ae38b0e56151673f54d1b5701d99"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/f666564538fe918eaa53e91e36f47060ee6163f59f36dcbd8293a5120152d353.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/f666564538fe918eaa53e91e36f47060ee6163f59f36dcbd8293a5120152d353.jpg",
+      "sha256": "f666564538fe918eaa53e91e36f47060ee6163f59f36dcbd8293a5120152d353"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/fa7b07c05bb907d5257fdeaf89c656b4e6afd1b86d2bc2ed65f78e473f1a7519.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/fa7b07c05bb907d5257fdeaf89c656b4e6afd1b86d2bc2ed65f78e473f1a7519.jpg",
+      "sha256": "fa7b07c05bb907d5257fdeaf89c656b4e6afd1b86d2bc2ed65f78e473f1a7519"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/faebb5a12a4a500c19018f9118d1fd819ece3be2c122dc4026f86ad17c7a9b54.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/faebb5a12a4a500c19018f9118d1fd819ece3be2c122dc4026f86ad17c7a9b54.jpg",
+      "sha256": "faebb5a12a4a500c19018f9118d1fd819ece3be2c122dc4026f86ad17c7a9b54"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/fc567f2a8b4452e2d70f0aa5b2e75bc2165f2ca7fcbf1e141afea4b10447e9b7.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/fc567f2a8b4452e2d70f0aa5b2e75bc2165f2ca7fcbf1e141afea4b10447e9b7.jpg",
+      "sha256": "fc567f2a8b4452e2d70f0aa5b2e75bc2165f2ca7fcbf1e141afea4b10447e9b7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/fddc858c3acfa30b245eaeb3a359c8e7933092e438b779c42f482b0d7c37eafa.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/fddc858c3acfa30b245eaeb3a359c8e7933092e438b779c42f482b0d7c37eafa.jpg",
+      "sha256": "fddc858c3acfa30b245eaeb3a359c8e7933092e438b779c42f482b0d7c37eafa"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/assets/photos/fe2d5f4794a675a13076a800757d69cab10d3609d4e068442c3a7ce0deac7a3c.jpg",
+      "package": "outputs/prompt_benchmark/final_evaluation/assets/photos/fe2d5f4794a675a13076a800757d69cab10d3609d4e068442c3a7ce0deac7a3c.jpg",
+      "sha256": "fe2d5f4794a675a13076a800757d69cab10d3609d4e068442c3a7ce0deac7a3c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/config/templates/detailed_blinded_v2.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/config/templates/detailed_blinded_v2.txt",
+      "sha256": "9cc83a4cc06c0a1e1ebfa23662be6826b0f20aac12f3636083d1abfeaaec0432"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/config/templates/simple_blinded_v2.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/config/templates/simple_blinded_v2.txt",
+      "sha256": "4108636585bf454a3e55f1bb0c242938be99a314b0bf515a6e10c140da2eae5b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/abstention_investigation.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/abstention_investigation.json",
+      "sha256": "7427304e99f6f850506ab5d2cf2105114bbd4c133365897d544591b9a12f88ed"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/execution_summary.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/execution_summary.json",
+      "sha256": "129428668ad87e543726c233011272049562ce78a52ad79656dc516176624610"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/independent_audit.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/independent_audit.json",
+      "sha256": "2df5292521931962c7138f9240ceef701b52486efbb1947ee91b4dff103ae557"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/model_downloads.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/model_downloads.json",
+      "sha256": "0038983917bddb1551db2a5ca3a963f05d2dc6ca01ffc10925146efe52e7a04b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/model_execution.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/model_execution.json",
+      "sha256": "a5c23758c24c08cd19fc8cc0ddc33c12949c17f6f5d38c6d01627125481dcc38"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/MULTIMODAL.md",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/MULTIMODAL.md",
+      "sha256": "83bbc293a2094ef29c6559caa2065fac6a4a3085ddff98bf44cf913228947c68"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/postrun_validation.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/postrun_validation.json",
+      "sha256": "bc33c8cb2bca3198a2f84983d4941faef121f3765e9e14f9405bf1cf363c85b5"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/server_configuration.json",
+      "package": "outputs/prompt_benchmark/final_evaluation/provenance/existing_four/server_configuration.json",
+      "sha256": "b23d74ed102936d3ed91b46437841da40195370b37d3af543296797f79b5c734"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/results/labeling_summary.md",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/results/labeling_summary.md",
+      "sha256": "daefd53b02dd576d11086035d97b662d12a5dc1cb430b8f03987d2d680f42f5c"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/build_final_evaluation_notebook.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/build_final_evaluation_notebook.py",
+      "sha256": "79275d46308563c8589285ea1d2db2265588e31877baa8e082e27d4e457cbd3e"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/clean_final_evaluation_caches.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/clean_final_evaluation_caches.py",
+      "sha256": "5722af02c0c13de2a19673733e326c0ffdb3f22f92ae118f94a0892d996704ac"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/consolidate_final_benchmark.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/consolidate_final_benchmark.py",
+      "sha256": "1bfed5d03ec104b3d8510c57b17000d14d27e96786555ac35d7c3c225f523086"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/download_benchmark_models.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/download_benchmark_models.py",
+      "sha256": "15ac97da114ab8226085a4ae0c176e114486c60b67ad40d14fb6d5b23ebbce1b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/execute_final_benchmark.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/execute_final_benchmark.py",
+      "sha256": "301d4f1764a5aaf09f795d975015c28979e19d98912e7ff8edc9319f929c6fc9"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/execute_multimodal_benchmark.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/execute_multimodal_benchmark.py",
+      "sha256": "ceb0e8902b29a6b7b526c938b39fccec230589919130764a8fc65d74a0f8a5ae"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/finalize_final_evaluation.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/finalize_final_evaluation.py",
+      "sha256": "33e82a42799ecabe86c42b4731afe8f4faf272f29d479f595f6c96590fe0f9ca"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/final_benchmark_analysis.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/final_benchmark_analysis.py",
+      "sha256": "640333a09610b0d2986310f0877b98e05ff0265a931ac04b527428e0bf18b500"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prepare_final_assets.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prepare_final_assets.py",
+      "sha256": "60020d79af829d7507a3a35e3b21976c681ee71d8ec4d46fde189a4c105fb2a4"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/project_paths.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/project_paths.py",
+      "sha256": "d2cc2b97e1c4b470c38b721e6cb619cb461792d048fb36c5745389308511e548"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/run_prompt_benchmark.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/run_prompt_benchmark.py",
+      "sha256": "41528b83f519c4e5becae6abc27e44cc5759b33fc4095719ffeb28f5561df1c7"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/tests/test_final_benchmark_analysis.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/tests/test_final_benchmark_analysis.py",
+      "sha256": "605f8907b4e8400251071de2c89f71e0eebcf96bdcc39544dc140b65d1f48e37"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/tests/test_prompt_benchmark.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/tests/test_prompt_benchmark.py",
+      "sha256": "538fd8e87caeba3c7f4f5d8342cfde24b2375c59f05016f14e60683c165b9cc6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/cloud.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/cloud.py",
+      "sha256": "31c4afec9d679bab523b22a6197e4a626da4c4f177b28b608e1156c25b87a4dc"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/core.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/core.py",
+      "sha256": "effa401a8502643021bc4e616ad4b3a7683a61d3adcccdbbe7464478889a31f6"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/evaluate.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/evaluate.py",
+      "sha256": "af56ef5316e0674ed229c030887b1681f64b03f3472ed4f4efa9e3ce982e8cdd"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/photos.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/photos.py",
+      "sha256": "1d5ad51a4a11de31655b0d961dd8621a06012d5b25e7e40633be5f044dbe8c8b"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/runner.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/runner.py",
+      "sha256": "beff24064f495e48cf1f3c0d7e25706216b6eb140eda8116c77447d9ab4014ef"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/__init__.py",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/__init__.py",
+      "sha256": "ba1fba9856e317b5b07d320695a1fe77920e7e1cc1bfc433fc13d795b0fa684f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/templates/detailed_blinded_v2.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/templates/detailed_blinded_v2.txt",
+      "sha256": "a57977fdca58decf5f14fdc164f090545fb25e15ace385ec616e64ef4e09559f"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/templates/simple_blinded_v2.txt",
+      "package": "outputs/prompt_benchmark/final_evaluation/reproducibility/source/scripts/prompt_benchmark/templates/simple_blinded_v2.txt",
+      "sha256": "3903fbb60a8e794a37221a04d885202a18cef673efc0b2c318cb3c06c0c0db88"
+    },
+    {
+      "source": "outputs/prompt_benchmark/final_evaluation/reproducibility/requirements.txt",
+      "package": "requirements.txt",
+      "sha256": "fcb1432c18b650b1c48fef4fabdff24c074139f51d0808cbaf6fb7020b5742d1"
+    },
+    {
+      "source": "notebooks/category_mapping_and_resolution_filtering.ipynb",
+      "package": "notebooks/category_mapping_and_resolution_filtering.ipynb",
+      "change": "Optional referral companion may be absent; retained original saved outputs.",
+      "sha256": "fef0a6bb12e1ef419bf2bbd83deeadc7c2483cf97c25bdb0ca7b9be8332219e8"
+    },
+    {
+      "source": "outputs/semantic_review/service_definitions.json",
+      "package": "outputs/semantic_review/service_definitions.json",
+      "sha256": "89d068e89c70438f0dabce2b6168a6d82e7c1878036cbd0eb00f00b0dd68cff0"
+    }
+  ],
+  "local_evidence": {
+    "path": "outputs\\prompt_benchmark\\final_evaluation\\checkpoint.sqlite",
+    "git_ignored": true,
+    "method": "SQLite read-only source backup; raw rows preserved"
+  },
+  "new_files": [
+    "LABELING.md",
+    "PIPELINE.md",
+    "README.md",
+    "scripts/prepare_capstone_benchmark.py",
+    "scripts/prompt_benchmark/README.md",
+    "scripts/prompt_benchmark/local_transport.py"
+  ],
+  "original_workspace_modified": false,
+  "publication_exclusions": {
+    "implementation_filenames": [
+      "audit_category_eligibility.py",
+      "build_exact_agreement_notebook.py",
+      "build_labeled_routing.py",
+      "build_labeled_routing_v2.py",
+      "build_misroute_notebook.py",
+      "build_semantic_notebook.py",
+      "semantic_labeling.py"
+    ],
+    "semantic_notebook_excluded": true,
+    "data_and_historical_reports_unchanged": true,
+    "note": "Historical methodology/provenance disclosures remain; dataset-screening implementations are not distributed."
+  }
+}

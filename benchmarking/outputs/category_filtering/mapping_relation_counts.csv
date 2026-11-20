@@ -1,0 +1,15 @@
+﻿population,mapping_relation,all_cases,closed_approved_reason_cases,retained_for_review
+full_export,conditional_routing,165891,64656,True
+full_export,current_other,45,4,True
+full_export,equivalent,1251914,572739,False
+full_export,missing_category,2080831,705206,False
+full_export,original_other,146456,37508,False
+full_export,routine_refinement,621352,112134,False
+full_export,unexplained_category_difference,70795,19417,True
+three_plus_referrals,conditional_routing,843,302,True
+three_plus_referrals,current_other,7,1,True
+three_plus_referrals,equivalent,419,174,False
+three_plus_referrals,missing_category,444,161,False
+three_plus_referrals,original_other,1172,430,False
+three_plus_referrals,routine_refinement,411,70,False
+three_plus_referrals,unexplained_category_difference,756,162,True

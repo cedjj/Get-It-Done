@@ -1,0 +1,56 @@
+{
+  "event": "progress",
+  "phase": "full_100",
+  "model": "ministral3-8b",
+  "seconds": 887.3240904999984,
+  "counts": [
+    [
+      "detailed",
+      "text",
+      "completed",
+      100
+    ],
+    [
+      "detailed",
+      "text_location",
+      "completed",
+      100
+    ],
+    [
+      "detailed",
+      "text_location_photos",
+      "completed",
+      92
+    ],
+    [
+      "detailed",
+      "text_photos",
+      "completed",
+      100
+    ],
+    [
+      "simple",
+      "text",
+      "completed",
+      100
+    ],
+    [
+      "simple",
+      "text_location",
+      "completed",
+      100
+    ],
+    [
+      "simple",
+      "text_location_photos",
+      "completed",
+      100
+    ],
+    [
+      "simple",
+      "text_photos",
+      "completed",
+      100
+    ]
+  ]
+}

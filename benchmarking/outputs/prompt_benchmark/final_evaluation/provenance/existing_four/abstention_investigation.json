@@ -1,0 +1,612 @@
+{
+  "diagnosis": "Old prompt emphasized positive misroute evidence and uncertainty without explicitly defining the false decision. Raw old outputs frequently described a reasonable category fit while emitting null. New prompt defines all three states; no response coercion is performed.",
+  "old_actual_case_predictions": 200,
+  "old_false_n": 0,
+  "old_null_n": 116,
+  "same_case_baseline_transitions": [
+    {
+      "modality": "text",
+      "old_flag": null,
+      "new_flag": false,
+      "n": 57
+    },
+    {
+      "modality": "text",
+      "old_flag": null,
+      "new_flag": true,
+      "n": 1
+    },
+    {
+      "modality": "text",
+      "old_flag": true,
+      "new_flag": false,
+      "n": 18
+    },
+    {
+      "modality": "text",
+      "old_flag": true,
+      "new_flag": true,
+      "n": 24
+    },
+    {
+      "modality": "text_location",
+      "old_flag": null,
+      "new_flag": false,
+      "n": 57
+    },
+    {
+      "modality": "text_location",
+      "old_flag": null,
+      "new_flag": true,
+      "n": 1
+    },
+    {
+      "modality": "text_location",
+      "old_flag": true,
+      "new_flag": false,
+      "n": 18
+    },
+    {
+      "modality": "text_location",
+      "old_flag": true,
+      "new_flag": true,
+      "n": 24
+    }
+  ],
+  "old_null_new_false_examples": [
+    {
+      "case_id": "5008z000005FA2MAAW",
+      "modality": "text",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The description indicates a missed collection of recyclables, which directly aligns with the 'Missed Collection' category.",
+        "recommended_category": "Missed Collection"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The description clearly indicates a missed collection of recycling containers, which aligns with the Missed Collection category.",
+        "recommended_category": "Missed Collection"
+      }
+    },
+    {
+      "case_id": "5008z000007b2x2AAA",
+      "modality": "text",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The original type 'Tree Maintenance' is appropriate for the issue involving a tree, as the description indicates a tree-related problem. There is no clear evidence that the original routing was incorrect.",
+        "recommended_category": "Tree Maintenance"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The original category 'Tree Maintenance' reasonably fits the reported issue of a tree problem, even if the Parks & Recreation staff has not yet taken action. The issue is related to a tree, which falls under the 'Tree Maintenance' category.",
+        "recommended_category": "Tree Maintenance"
+      }
+    },
+    {
+      "case_id": "500cs00001ipZI5AAM",
+      "modality": "text",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The description clearly indicates illegal dumping with discarded trash cans, abandoned vehicles, and associated encampment activities. While the presence of a homeless encampment could overlap with 'Encampment,' the primary issue is the illegal dumping, which is explicitly supported by the evidence.",
+        "recommended_category": "Illegal Dumping"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The description clearly identifies multiple instances of illegal dumping, including discarded trash cans, abandoned vehicles, and a homeless encampment with associated waste. These elements align with the Illegal Dumping category, which includes discarded waste, bulky items, and camp-related debris.",
+        "recommended_category": "Illegal Dumping"
+      }
+    },
+    {
+      "case_id": "500cs00000BwOekAAF",
+      "modality": "text",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The description 'Homeless' aligns with the Outreach category, which covers non-emergency homelessness assistance or camp concerns. While 'Encampment' is also relevant, 'Outreach' is more directly associated with the described issue.",
+        "recommended_category": "Outreach"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The description 'Homeless' reasonably fits the Encampment category, which includes occupied or abandoned camps and associated non-emergency homelessness concerns.",
+        "recommended_category": "Encampment"
+      }
+    },
+    {
+      "case_id": "500cs00000Li8ViAAJ",
+      "modality": "text",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The description clearly indicates a concern about street sweeping, specifically the accumulation of sand and debris on the street. This aligns directly with the 'Street Sweeping' category.",
+        "recommended_category": "Street Sweeping"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The description clearly relates to street sweeping issues, including accumulated debris and sand being dragged into homes, which aligns with the Street Sweeping category.",
+        "recommended_category": "Street Sweeping"
+      }
+    },
+    {
+      "case_id": "5008z000005FA2MAAW",
+      "modality": "text_location",
+      "old_prediction": {
+        "misroute": null,
+        "reason": "The description explicitly states that the recycle container was not picked up, which directly aligns with the 'Missed Collection' category.",
+        "recommended_category": "Missed Collection"
+      },
+      "new_prediction": {
+        "misroute": false,
+        "reason": "The description explicitly states that the recycling container was not picked up, which directly aligns with the Missed Collection category.",
+        "recommended_category": "Missed Collection"
+      }
+    }
+  ],
+  "prompt_comparison_limit": "Both v2 instructions and server/model options changed from the preserved prior run; transitions are descriptive and do not isolate a single causal change or establish accuracy.",
+  "calibration_fixtures_are_not_verified_dataset_labels": true,
+  "probes": [
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "old_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Street Light",
+        "DESCRIPTION": "The street lamp outside is out every night; please repair it."
+      },
+      "expected_for_fixture": false,
+      "prediction": {
+        "misroute": null,
+        "recommended_category": "Street Light",
+        "reason": "The description clearly indicates a malfunctioning street light, which directly matches the 'Street Light' service category."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:34.4762207Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 45,
+        "eval_duration": 496430000,
+        "load_duration": 7090929000,
+        "message": {
+          "content": "{\n  \"misroute\": null,\n  \"recommended_category\": \"Street Light\",\n  \"reason\": \"The description clearly indicates a malfunctioning street light, which directly matches the 'Street Light' service category.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_count": 1669,
+        "prompt_eval_duration": 539581000,
+        "total_duration": 8141521800
+      }
+    },
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "old_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Traffic Signal",
+        "DESCRIPTION": "Someone discarded a large sofa in the alley. Please remove this dumped furniture."
+      },
+      "expected_for_fixture": true,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Illegal Dumping",
+        "reason": "The description indicates discarded furniture in an alley, which aligns with the definition of illegal dumping. The original type 'Traffic Signal' is unrelated to the issue described."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:35.1096058Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 58,
+        "eval_duration": 559294000,
+        "load_duration": 5396000,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Illegal Dumping\",\n  \"reason\": \"The description indicates discarded furniture in an alley, which aligns with the definition of illegal dumping. The original type 'Traffic Signal' is unrelated to the issue described.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 1637,
+        "prompt_eval_count": 1671,
+        "prompt_eval_duration": 25426000,
+        "total_duration": 604618800
+      }
+    },
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "old_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Curb",
+        "DESCRIPTION": "There is an unspecified problem here. Could someone look into it?"
+      },
+      "expected_for_fixture": null,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Other",
+        "reason": "The description is too vague and does not provide specific details about the curb issue, making it incompatible with the 'Curb' category. The lack of specific information supports the 'Other' category as the most appropriate."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:35.8086122Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 66,
+        "eval_duration": 642698000,
+        "load_duration": 3933400,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Other\",\n  \"reason\": \"The description is too vague and does not provide specific details about the curb issue, making it incompatible with the 'Curb' category. The lack of specific information supports the 'Other' category as the most appropriate.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 1637,
+        "prompt_eval_count": 1670,
+        "prompt_eval_duration": 23985000,
+        "total_duration": 680637400
+      }
+    },
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Street Light",
+        "DESCRIPTION": "The street lamp outside is out every night; please repair it."
+      },
+      "expected_for_fixture": false,
+      "prediction": {
+        "misroute": false,
+        "recommended_category": "Street Light",
+        "reason": "The description clearly reports a malfunctioning street light, which aligns with the 'Street Light' category."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:36.7739294Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 45,
+        "eval_duration": 436010000,
+        "load_duration": 4245400,
+        "message": {
+          "content": "{\n  \"misroute\": false,\n  \"recommended_category\": \"Street Light\",\n  \"reason\": \"The description clearly reports a malfunctioning street light, which aligns with the 'Street Light' category.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 3,
+        "prompt_eval_count": 1812,
+        "prompt_eval_duration": 436804000,
+        "total_duration": 943684300
+      }
+    },
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Traffic Signal",
+        "DESCRIPTION": "Someone discarded a large sofa in the alley. Please remove this dumped furniture."
+      },
+      "expected_for_fixture": true,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Illegal Dumping",
+        "reason": "The description clearly identifies discarded furniture in an alley, which is a classic case of illegal dumping. The original category 'Traffic Signal' is incompatible with the reported issue."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:37.39686Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 58,
+        "eval_duration": 581054000,
+        "load_duration": 5099800,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Illegal Dumping\",\n  \"reason\": \"The description clearly identifies discarded furniture in an alley, which is a classic case of illegal dumping. The original category 'Traffic Signal' is incompatible with the reported issue.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1814,
+        "prompt_eval_duration": 23818000,
+        "total_duration": 620255500
+      }
+    },
+    {
+      "model": "qwen3-8b-v2",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Curb",
+        "DESCRIPTION": "There is an unspecified problem here. Could someone look into it?"
+      },
+      "expected_for_fixture": null,
+      "prediction": {
+        "misroute": null,
+        "recommended_category": "Other",
+        "reason": "The description is too vague to determine the correct category. No specific issue is mentioned, making it impossible to assess whether the original category of 'Curb' is reasonable."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:38.05582Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 57,
+        "eval_duration": 599655000,
+        "load_duration": 3618000,
+        "message": {
+          "content": "{\n  \"misroute\": null,\n  \"recommended_category\": \"Other\",\n  \"reason\": \"The description is too vague to determine the correct category. No specific issue is mentioned, making it impossible to assess whether the original category of 'Curb' is reasonable.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3:8b",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1813,
+        "prompt_eval_duration": 25148000,
+        "total_duration": 639298000
+      }
+    },
+    {
+      "model": "qwen3-vl-8b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Street Light",
+        "DESCRIPTION": "The street lamp outside is out every night; please repair it."
+      },
+      "expected_for_fixture": false,
+      "prediction": {
+        "misroute": false,
+        "recommended_category": "Street Light",
+        "reason": "The description explicitly reports a street lamp that is out every night, which directly matches the 'Street Light' category for malfunctioning or non-operational lighting."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:46.8762715Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 55,
+        "eval_duration": 554632000,
+        "load_duration": 7699674500,
+        "message": {
+          "content": "{\n  \"misroute\": false,\n  \"recommended_category\": \"Street Light\",\n  \"reason\": \"The description explicitly reports a street lamp that is out every night, which directly matches the 'Street Light' category for malfunctioning or non-operational lighting.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:8b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_count": 1804,
+        "prompt_eval_duration": 508704000,
+        "total_duration": 8777981600
+      }
+    },
+    {
+      "model": "qwen3-vl-8b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Traffic Signal",
+        "DESCRIPTION": "Someone discarded a large sofa in the alley. Please remove this dumped furniture."
+      },
+      "expected_for_fixture": true,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Illegal Dumping",
+        "reason": "The description explicitly reports discarded furniture in an alley, which constitutes illegal dumping. The original category 'Traffic Signal' is incompatible with this evidence."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:47.4561899Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 53,
+        "eval_duration": 520188999,
+        "load_duration": 4241600,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Illegal Dumping\",\n  \"reason\": \"The description explicitly reports discarded furniture in an alley, which constitutes illegal dumping. The original category 'Traffic Signal' is incompatible with this evidence.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:8b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1806,
+        "prompt_eval_duration": 23389000,
+        "total_duration": 558385000
+      }
+    },
+    {
+      "model": "qwen3-vl-8b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Curb",
+        "DESCRIPTION": "There is an unspecified problem here. Could someone look into it?"
+      },
+      "expected_for_fixture": null,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Other",
+        "reason": "The description 'There is an unspecified problem here. Could someone look into it?' lacks specific details to justify routing to 'Curb'. Without evidence of curb damage or paint issues, the original category is incompatible with the reported problem."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:48.184938Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 69,
+        "eval_duration": 673921000,
+        "load_duration": 5607200,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Other\",\n  \"reason\": \"The description 'There is an unspecified problem here. Could someone look into it?' lacks specific details to justify routing to 'Curb'. Without evidence of curb damage or paint issues, the original category is incompatible with the reported problem.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:8b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1805,
+        "prompt_eval_duration": 21979000,
+        "total_duration": 712524300
+      }
+    },
+    {
+      "model": "gemma3-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Street Light",
+        "DESCRIPTION": "The street lamp outside is out every night; please repair it."
+      },
+      "expected_for_fixture": false,
+      "prediction": {
+        "misroute": false,
+        "recommended_category": "Street Light",
+        "reason": "The description explicitly reports a malfunctioning street lamp, aligning with the definition of a Street Light service. There is no evidence to suggest an alternative routing is appropriate."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:54.5334982Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 48,
+        "eval_duration": 448345000,
+        "load_duration": 5456552200,
+        "message": {
+          "content": "{\"misroute\":false,\"recommended_category\":\"Street Light\",\"reason\":\"The description explicitly reports a malfunctioning street lamp, aligning with the definition of a Street Light service. There is no evidence to suggest an alternative routing is appropriate.\"}",
+          "role": "assistant"
+        },
+        "model": "gemma3:4b",
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_count": 1836,
+        "prompt_eval_duration": 393296000,
+        "total_duration": 6317710600
+      }
+    },
+    {
+      "model": "gemma3-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Traffic Signal",
+        "DESCRIPTION": "Someone discarded a large sofa in the alley. Please remove this dumped furniture."
+      },
+      "expected_for_fixture": true,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Illegal Dumping",
+        "reason": "The description clearly reports the dumping of furniture, which aligns with the 'Illegal Dumping' category. A traffic signal does not relate to this issue."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:55.0517167Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 46,
+        "eval_duration": 387454000,
+        "load_duration": 3721600,
+        "message": {
+          "content": "{\"misroute\":true,\"recommended_category\":\"Illegal Dumping\",\"reason\":\"The description clearly reports the dumping of furniture, which aligns with the 'Illegal Dumping' category. A traffic signal does not relate to this issue.\"}",
+          "role": "assistant"
+        },
+        "model": "gemma3:4b",
+        "prompt_eval_cached_count": 1808,
+        "prompt_eval_count": 1838,
+        "prompt_eval_duration": 92902000,
+        "total_duration": 498969200
+      }
+    },
+    {
+      "model": "gemma3-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Curb",
+        "DESCRIPTION": "There is an unspecified problem here. Could someone look into it?"
+      },
+      "expected_for_fixture": null,
+      "prediction": {
+        "misroute": null,
+        "recommended_category": null,
+        "reason": "The description is too vague to determine a reasonable routing. It does not provide enough information to determine if it is a curb issue or any other service."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:52:55.6265981Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 49,
+        "eval_duration": 446705000,
+        "load_duration": 4293400,
+        "message": {
+          "content": "{\"misroute\":null, \"recommended_category\":null, \"reason\": \"The description is too vague to determine a reasonable routing. It does not provide enough information to determine if it is a curb issue or any other service.\"}",
+          "role": "assistant"
+        },
+        "model": "gemma3:4b",
+        "prompt_eval_cached_count": 1808,
+        "prompt_eval_count": 1836,
+        "prompt_eval_duration": 91176000,
+        "total_duration": 558035300
+      }
+    },
+    {
+      "model": "qwen3-vl-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Street Light",
+        "DESCRIPTION": "The street lamp outside is out every night; please repair it."
+      },
+      "expected_for_fixture": false,
+      "prediction": {
+        "misroute": false,
+        "recommended_category": "Street Light",
+        "reason": "The description clearly indicates a malfunctioning street lamp that is out every night, which directly matches the definition of Street Light as a service for street lighting malfunctions, including outages."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:53:01.3423427Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 60,
+        "eval_duration": 432531000,
+        "load_duration": 4929083100,
+        "message": {
+          "content": "{\n  \"misroute\": false,\n  \"recommended_category\": \"Street Light\",\n  \"reason\": \"The description clearly indicates a malfunctioning street lamp that is out every night, which directly matches the definition of Street Light as a service for street lighting malfunctions, including outages.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:4b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 0,
+        "prompt_eval_count": 1804,
+        "prompt_eval_duration": 320054000,
+        "total_duration": 5693678500
+      }
+    },
+    {
+      "model": "qwen3-vl-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Traffic Signal",
+        "DESCRIPTION": "Someone discarded a large sofa in the alley. Please remove this dumped furniture."
+      },
+      "expected_for_fixture": true,
+      "prediction": {
+        "misroute": true,
+        "recommended_category": "Illegal Dumping",
+        "reason": "The description explicitly states a large sofa was discarded in an alley, which is a clear case of illegal dumping. This is incompatible with Traffic Signal, which pertains to malfunctioning traffic control devices."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:53:01.8606908Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 64,
+        "eval_duration": 460016000,
+        "load_duration": 4333400,
+        "message": {
+          "content": "{\n  \"misroute\": true,\n  \"recommended_category\": \"Illegal Dumping\",\n  \"reason\": \"The description explicitly states a large sofa was discarded in an alley, which is a clear case of illegal dumping. This is incompatible with Traffic Signal, which pertains to malfunctioning traffic control devices.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:4b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1806,
+        "prompt_eval_duration": 21743000,
+        "total_duration": 497173300
+      }
+    },
+    {
+      "model": "qwen3-vl-4b",
+      "prompt": "new_detailed",
+      "fixture": {
+        "ORIGINAL_TYPE": "Curb",
+        "DESCRIPTION": "There is an unspecified problem here. Could someone look into it?"
+      },
+      "expected_for_fixture": null,
+      "prediction": {
+        "misroute": null,
+        "recommended_category": "Other",
+        "reason": "The description is vague and lacks specific details about the issue, making it impossible to determine if the original category (Curb) is appropriate. No photographic or contextual evidence is provided to support or refute the claim, and the issue is not clearly aligned with any specific supported category. Therefore, the most appropriate valid category is 'Other' for non-emergency, unspecified municipal issues."
+      },
+      "raw_response": {
+        "created_at": "2026-11-20T08:53:02.6085402Z",
+        "done": true,
+        "done_reason": "stop",
+        "eval_count": 98,
+        "eval_duration": 710228000,
+        "load_duration": 5395100,
+        "message": {
+          "content": "{\n  \"misroute\": null,\n  \"recommended_category\": \"Other\",\n  \"reason\": \"The description is vague and lacks specific details about the issue, making it impossible to determine if the original category (Curb) is appropriate. No photographic or contextual evidence is provided to support or refute the claim, and the issue is not clearly aligned with any specific supported category. Therefore, the most appropriate valid category is 'Other' for non-emergency, unspecified municipal issues.\"\n}",
+          "role": "assistant"
+        },
+        "model": "qwen3-vl:4b-instruct-q4_K_M",
+        "prompt_eval_cached_count": 1780,
+        "prompt_eval_count": 1805,
+        "prompt_eval_duration": 18698000,
+        "total_duration": 745720300
+      }
+    }
+  ],
+  "new_fixtures_passed": false
+}

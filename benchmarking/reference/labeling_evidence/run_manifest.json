@@ -1,0 +1,55 @@
+{
+  "version": "strict-no-redistribution-v2",
+  "seed": 42,
+  "full_distribution_match_feasible": false,
+  "full_distribution_match_status": "INFEASIBLE_WITH_STRICT_EQUALITY_AND_ALL_2777_POSITIVES",
+  "requested_negative_count": 3000,
+  "actual_negative_count": 883,
+  "positive_count": 2777,
+  "combined_count": 3660,
+  "paired_count": 1634,
+  "paired_per_class": 817,
+  "paired_category_total_variation_distance": 0.0,
+  "main_category_total_variation_distance": 0.7050252213315085,
+  "missing_negative_category_count": 21,
+  "positives_in_missing_negative_categories": 1956,
+  "theoretical_total_variation_lower_bound": 0.7043572200216061,
+  "unfilled_negative_quota": 2117,
+  "quota_redistribution": false,
+  "duplicate_case_ids": 0,
+  "conflicting_case_labels": 0,
+  "positive_fields_unchanged": true,
+  "max_negative_description_similarity": 0.8721071336510916,
+  "max_cross_class_description_similarity": 0.8975274678557507,
+  "semantic_verification": "reused both cached local Qwen text-only screens for unchanged input cases",
+  "new_llm_calls": 0,
+  "paid_api_calls": 0,
+  "source_integrity_verified": true,
+  "audit_50_consistent": true,
+  "sources": [
+    {
+      "path": "Get_it_done_data\\cases_2026_11_16.csv",
+      "bytes": 5591785806,
+      "mtime_ns": 1794967593732119800,
+      "sha256": "b46d6294ce408e06dc91b1d6d62c1078a80bce24d4b29320042111e155e416be"
+    },
+    {
+      "path": "Get_it_done_data\\referral data for UCSD-2026-11-02-23-09-16.csv",
+      "bytes": 154576378,
+      "mtime_ns": 1794968021803155500,
+      "sha256": "668e4fb1f940011bcd583d48fc07aa174cbe279f57b3ecd186043c909ff15fda"
+    },
+    {
+      "path": "outputs\\misroute_eda\\eda_2777_exact_matches\\exact_agreement_cases.csv",
+      "bytes": 1375151,
+      "mtime_ns": 1794994355000788300,
+      "sha256": "8aa96a7c45a0e9a2b7a0049fff30bbff0b35d2c24f98260b940a0efb25337284"
+    }
+  ],
+  "build_script_sha256": "b0274c8ab70936c1aa3e52029c03d82b7d0345cd77ac7477d13d54ae551c6919",
+  "outputs": {
+    "correctly_routed.csv": "46836b9153169434a32fb5793da1af8c7da69fdb56434ce911355b293680965c",
+    "labeled_routing_dataset.csv": "b08da878bc0a22838d6619a5ac5a49f157f8ed915a2269f2032e99909820b458",
+    "category_matched_common_support.csv": "53da1b67f34155364237a1eed92e36164762b4d7b14dbf6a02669253b0d7b471"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "models": [
+    {
+      "id": "qwen3-8b-v2",
+      "adapter": "ollama",
+      "model": "qwen3:8b",
+      "supports_photos": false,
+      "supports_thinking": true,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    },
+    {
+      "id": "qwen3-vl-8b",
+      "adapter": "ollama",
+      "model": "qwen3-vl:8b-instruct-q4_K_M",
+      "supports_photos": true,
+      "supports_thinking": false,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    },
+    {
+      "id": "gemma3-4b",
+      "adapter": "ollama",
+      "model": "gemma3:4b",
+      "supports_photos": true,
+      "supports_thinking": false,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    },
+    {
+      "id": "qwen3-vl-4b",
+      "adapter": "ollama",
+      "model": "qwen3-vl:4b-instruct-q4_K_M",
+      "supports_photos": true,
+      "supports_thinking": false,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    },
+    {
+      "id": "llama3.1-8b",
+      "adapter": "ollama",
+      "model": "llama3.1:8b",
+      "supports_photos": false,
+      "supports_thinking": false,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    },
+    {
+      "id": "ministral3-8b",
+      "adapter": "ollama",
+      "model": "ministral-3:8b",
+      "supports_photos": true,
+      "supports_thinking": false,
+      "options": {
+        "temperature": 0,
+        "seed": 42,
+        "num_ctx": 16384,
+        "num_predict": 384
+      },
+      "pricing": {
+        "input_per_million": 0,
+        "output_per_million": 0
+      }
+    }
+  ],
+  "prompts": {
+    "simple": {
+      "version": "simple-blinded-v2",
+      "template": "templates/simple_blinded_v2.txt"
+    },
+    "detailed": {
+      "version": "detailed-blinded-v2",
+      "template": "templates/detailed_blinded_v2.txt"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+    "max_loaded_models":  1,
+    "pid":  35988,
+    "models":  "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\.local_runtime\\models",
+    "parallel":  1,
+    "kv_cache":  "q8_0",
+    "no_cloud":  1,
+    "executable":  "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\.local_runtime\\ollama\\ollama.exe"
+}

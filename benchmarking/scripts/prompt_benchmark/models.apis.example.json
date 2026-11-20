@@ -1,0 +1,11 @@
+{
+  "models":[
+    {"id":"gemini-flash","adapter":"gemini","model":"gemini-flash-latest","supports_photos":true,"api_key_env":"GEMINI_API_KEY","requests_per_minute":15,"max_concurrency":2},
+    {"id":"claude-sonnet","adapter":"anthropic","model":"YOUR_AUTHORIZED_SONNET_MODEL","supports_photos":true,"api_key_env":"ANTHROPIC_API_KEY","requests_per_minute":15,"max_concurrency":2},
+    {"id":"openai-vision","adapter":"openai","model":"YOUR_AUTHORIZED_OPENAI_VISION_MODEL","supports_photos":true,"api_key_env":"OPENAI_API_KEY","requests_per_minute":15,"max_concurrency":2}
+  ],
+  "prompts":{
+    "simple":{"version":"simple-blinded-v2","template":"templates/simple_blinded_v2.txt"},
+    "detailed":{"version":"detailed-blinded-v2","template":"templates/detailed_blinded_v2.txt"}
+  }
+}

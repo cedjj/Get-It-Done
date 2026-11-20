@@ -1,0 +1,243 @@
+[
+  {
+    "model": "qwen3-8b-v2",
+    "smoke": {
+      "counts": {
+        "completed": 40,
+        "skipped": 40
+      },
+      "wall_seconds": 39.86528310000722
+    },
+    "verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 40,
+        "skipped": 40
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "full": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 360,
+        "skipped": 360
+      },
+      "wall_seconds": 232.06977259999258
+    },
+    "full_verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 400,
+        "skipped": 400
+      },
+      "resume": {
+        "unchanged": 800
+      }
+    },
+    "runtime": {
+      "models": [
+        {
+          "name": "qwen3:8b",
+          "model": "qwen3:8b",
+          "size": 6281599384,
+          "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "qwen3",
+            "families": [
+              "qwen3"
+            ],
+            "parameter_size": "8.2B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T00:43:22.2128613-08:00",
+          "size_vram": 6281599384,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  },
+  {
+    "model": "qwen3-vl-8b",
+    "smoke": {
+      "counts": {
+        "completed": 80
+      },
+      "wall_seconds": 119.87870829999156
+    },
+    "verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 80
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "full": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 720
+      },
+      "wall_seconds": 968.9496139999974
+    },
+    "full_verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 800
+      },
+      "resume": {
+        "unchanged": 800
+      }
+    },
+    "runtime": {
+      "models": [
+        {
+          "name": "qwen3-vl:8b-instruct-q4_K_M",
+          "model": "qwen3-vl:8b-instruct-q4_K_M",
+          "size": 6591610878,
+          "digest": "70e58e37beb15464e19aa903dedb2cba828b89c0fb186f75ff2738c7347b96eb",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "qwen3vl",
+            "families": [
+              "qwen3vl",
+              "clip"
+            ],
+            "parameter_size": "8.2B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T00:59:31.3379774-08:00",
+          "size_vram": 6591610878,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  },
+  {
+    "model": "gemma3-4b",
+    "smoke": {
+      "counts": {
+        "completed": 80
+      },
+      "wall_seconds": 86.85027879998961
+    },
+    "verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 80
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "full": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 720
+      },
+      "wall_seconds": 627.2152713000105
+    },
+    "full_verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 800
+      },
+      "resume": {
+        "unchanged": 800
+      }
+    },
+    "runtime": {
+      "models": [
+        {
+          "name": "gemma3:4b",
+          "model": "gemma3:4b",
+          "size": 2953240902,
+          "digest": "68ceab7e468a31c988b44d5a4984a0e21f58c4f7158c6ce29c1804babac38df7",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "gemma3",
+            "families": [
+              "gemma3",
+              "clip"
+            ],
+            "parameter_size": "3.9B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T01:09:58.8065044-08:00",
+          "size_vram": 2953240902,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  },
+  {
+    "model": "qwen3-vl-4b",
+    "smoke": {
+      "counts": {
+        "completed": 80
+      },
+      "wall_seconds": 91.55497569999716
+    },
+    "verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 80
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "full": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 719,
+        "failed": 1
+      },
+      "wall_seconds": 708.8724477000069
+    },
+    "full_verification": {
+      "passed": false,
+      "statuses": {
+        "completed": 799,
+        "failed": 1
+      },
+      "errors": [
+        "AdapterError: Truncated or incomplete response"
+      ]
+    },
+    "runtime": {
+      "models": [
+        {
+          "name": "qwen3-vl:4b-instruct-q4_K_M",
+          "model": "qwen3-vl:4b-instruct-q4_K_M",
+          "size": 4422107135,
+          "digest": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "qwen3vl",
+            "families": [
+              "qwen3vl",
+              "clip"
+            ],
+            "parameter_size": "4.0B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T01:21:47.9251878-08:00",
+          "size_vram": 4422107135,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  }
+]

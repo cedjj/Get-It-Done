@@ -1,0 +1,33 @@
+STRATUM,ORIGINAL_TYPE,positive_count,all_original_rows,literal_equal,normalized_equal,equal_known_referral,equal_explicit_zero_referrals,equal_zero_closed,equal_zero_closed_successful,equal_zero_closed_successful_nonempty_description,zero_closed_successful_ignoring_category_equality,current_name_occurrences_any_original
+ada compliance,ADA Compliance,20,3502,1524,1524,1461,1384,746,130,130,132,2555
+bicycle related issue,Bicycle Related Issue,13,2487,0,0,0,0,0,0,0,9,0
+bicycle-related issue,Bicycle-Related Issue,5,720,567,567,562,504,416,3,3,3,2251
+container left out,Container Left Out,43,12563,0,0,0,0,0,0,0,7680,0
+containers left out beyond collection hours,Containers Left Out Beyond Collection Hours,7,3805,0,0,0,0,0,0,0,1906,0
+curb,Curb,111,15340,0,0,0,0,0,0,0,6317,0
+damaged guardrail,Damaged Guardrail,8,2477,0,0,0,0,0,0,0,1176,0
+dead animal,Dead Animal,2,18095,18055,18055,17084,17079,16885,13706,13706,13711,37790
+dumpster encroaching on public right of way,Dumpster Encroaching on Public Right of Way,22,494,0,0,0,0,0,0,0,263,0
+dumpster encroachment,Dumpster Encroachment,144,2440,0,0,0,0,0,0,0,1314,0
+dumpster overflow,Dumpster Overflow,212,4909,0,0,0,0,0,0,0,2741,0
+encampment,Encampment,163,226583,221280,221280,218611,215298,198352,19280,19280,21640,362739
+faded striping,Faded Striping,11,6454,0,0,0,0,0,0,0,2147,0
+graffiti,Graffiti,111,183003,0,0,0,0,0,0,0,77088,33408
+illegal discharge,Illegal Discharge,412,7220,0,0,0,0,0,0,0,789,0
+illegal dumping,Illegal Dumping,301,389001,362033,362033,101086,97174,91392,74066,74065,84757,515665
+missed collection,Missed Collection,13,41676,41323,41323,41323,41321,40960,5173,5173,5244,308467
+missed trash,Missed Trash,2,107355,0,0,0,0,0,0,0,10109,0
+outreach,Outreach,138,40275,0,0,0,0,0,0,0,3409,0
+over irrigation,Over Irrigation,27,8747,0,0,0,0,0,0,0,910,0
+parking,Parking,13,165422,23,23,23,2,2,0,0,111,71712
+parking issue,Parking Issue,6,234376,0,0,0,0,0,0,0,176,0
+pothole,Pothole,20,98489,94356,94356,93867,93674,91167,63365,63365,66081,181395
+sidewalk,Sidewalk,537,46902,0,0,0,0,0,0,0,12736,0
+storm drain,Storm Drain,29,8050,0,0,0,0,0,0,0,3966,0
+street flooded,Street Flooded,16,9730,4746,4746,4746,4401,2707,788,788,1110,9088
+street light,Street Light,30,49061,0,0,0,0,0,0,0,29542,0
+street sweeping,Street Sweeping,69,9640,8371,8371,8309,8121,7311,5347,5347,5606,22319
+traffic sign,Traffic Sign,68,30684,0,0,0,0,0,0,0,17596,0
+traffic signal,Traffic Signal,12,42219,0,0,0,0,0,0,0,24353,0
+tree maintenance,Tree Maintenance,198,36957,29335,29335,29010,28419,24114,17155,17155,17969,73360
+vegetation encroachment,Vegetation Encroachment,14,12351,10683,10683,10553,10369,7954,7133,7133,7143,23833

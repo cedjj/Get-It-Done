@@ -1,0 +1,9 @@
+﻿{
+    "max_loaded_models":  1,
+    "context_length":  8192,
+    "pid":  9252,
+    "parallel":  1,
+    "kv_cache":  "q8_0",
+    "no_cloud":  "1",
+    "models":  "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\.local_runtime\\models"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "model": "llama3.1:8b",
+    "seconds": 85.6169596999971
+  },
+  {
+    "model": "ministral-3:8b",
+    "seconds": 101.16992260000552
+  }
+]

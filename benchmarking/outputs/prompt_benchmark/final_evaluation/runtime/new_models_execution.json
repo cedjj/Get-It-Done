@@ -1,0 +1,170 @@
+[
+  {
+    "model": "llama3.1-8b",
+    "smoke_10": {
+      "counts": {
+        "completed": 40,
+        "skipped": 40
+      },
+      "wall_seconds": 33.52229800001078
+    },
+    "smoke_10_verification": {
+      "passed": true,
+      "statuses": {
+        "skipped": 40,
+        "completed": 40
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "smoke_10_runtime": {
+      "models": [
+        {
+          "name": "llama3.1:8b",
+          "model": "llama3.1:8b",
+          "size": 5899288575,
+          "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "llama",
+            "families": [
+              "llama"
+            ],
+            "parameter_size": "8.0B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T01:49:23.5910644-08:00",
+          "size_vram": 5899288575,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    },
+    "full_100": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 360,
+        "skipped": 360
+      },
+      "wall_seconds": 232.35042999999132
+    },
+    "full_100_verification": {
+      "passed": true,
+      "statuses": {
+        "skipped": 400,
+        "completed": 400
+      },
+      "resume": {
+        "unchanged": 800
+      }
+    },
+    "full_100_runtime": {
+      "models": [
+        {
+          "name": "llama3.1:8b",
+          "model": "llama3.1:8b",
+          "size": 5899288575,
+          "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "llama",
+            "families": [
+              "llama"
+            ],
+            "parameter_size": "8.0B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T01:55:00.2334551-08:00",
+          "size_vram": 5899288575,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  },
+  {
+    "model": "ministral3-8b",
+    "smoke_10": {
+      "counts": {
+        "completed": 80
+      },
+      "wall_seconds": 103.61836980000953
+    },
+    "smoke_10_verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 80
+      },
+      "resume": {
+        "unchanged": 80
+      }
+    },
+    "smoke_10_runtime": {
+      "models": [
+        {
+          "name": "ministral-3:8b",
+          "model": "ministral-3:8b",
+          "size": 6308495358,
+          "digest": "1922accd5827ebe6829e536369195db25eaf664528dc66206d646ea3bb386b71",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "mistral3",
+            "families": [
+              "mistral3"
+            ],
+            "parameter_size": "8.9B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T01:51:08.6618723-08:00",
+          "size_vram": 6308495358,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    },
+    "full_100": {
+      "counts": {
+        "unchanged": 80,
+        "completed": 720
+      },
+      "wall_seconds": 897.4356463000004
+    },
+    "full_100_verification": {
+      "passed": true,
+      "statuses": {
+        "completed": 800
+      },
+      "resume": {
+        "unchanged": 800
+      }
+    },
+    "full_100_runtime": {
+      "models": [
+        {
+          "name": "ministral-3:8b",
+          "model": "ministral-3:8b",
+          "size": 6308495358,
+          "digest": "1922accd5827ebe6829e536369195db25eaf664528dc66206d646ea3bb386b71",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "mistral3",
+            "families": [
+              "mistral3"
+            ],
+            "parameter_size": "8.9B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-20T02:09:59.2875443-08:00",
+          "size_vram": 6308495358,
+          "context_length": 16384,
+          "runner": "llamacpp"
+        }
+      ]
+    }
+  }
+]

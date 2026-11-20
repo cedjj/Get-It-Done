@@ -1,0 +1,29 @@
+{
+  "full_historical_rows_rescanned": 4337284,
+  "all_positive_categories_searched": 32,
+  "semantic_or_keyword_filters_applied": false,
+  "category_mapping_applied": false,
+  "normalization": "NFKC + casefold + collapse/trim whitespace; no alias equivalence",
+  "unknown_referral_count_not_zero": true,
+  "invalid_referral_source_rows": 0,
+  "sources": [
+    {
+      "path": "Get_it_done_data\\cases_2026_11_16.csv",
+      "bytes": 5591785806,
+      "mtime_ns": 1794967593732119800,
+      "sha256": "b46d6294ce408e06dc91b1d6d62c1078a80bce24d4b29320042111e155e416be"
+    },
+    {
+      "path": "Get_it_done_data\\referral data for UCSD-2026-11-02-23-09-16.csv",
+      "bytes": 154576378,
+      "mtime_ns": 1794968021803155500,
+      "sha256": "668e4fb1f940011bcd583d48fc07aa174cbe279f57b3ecd186043c909ff15fda"
+    },
+    {
+      "path": "outputs\\misroute_eda\\eda_2777_exact_matches\\exact_agreement_cases.csv",
+      "bytes": 1375151,
+      "mtime_ns": 1794994355000788300,
+      "sha256": "8aa96a7c45a0e9a2b7a0049fff30bbff0b35d2c24f98260b940a0efb25337284"
+    }
+  ]
+}

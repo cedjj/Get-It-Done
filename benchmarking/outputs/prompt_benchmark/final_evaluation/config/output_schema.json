@@ -1,0 +1,68 @@
+{
+  "type": "object",
+  "properties": {
+    "misroute": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "recommended_category": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null,
+        "Curb",
+        "Damaged Guardrail",
+        "Faded Striping",
+        "Pothole",
+        "Sidewalk",
+        "Street Light",
+        "Traffic Sign",
+        "Traffic Signal",
+        "Street Sweeping",
+        "Tree Maintenance",
+        "Vegetation Encroachment",
+        "Storm Drain",
+        "Street Flooded",
+        "Illegal Discharge",
+        "Over Irrigation",
+        "Illegal Dumping",
+        "Graffiti",
+        "Container Left Out",
+        "Dumpster Encroachment",
+        "Dumpster Overflow",
+        "Missed Collection",
+        "Dead Animal",
+        "ADA Assisted Collection",
+        "Outreach",
+        "Encampment",
+        "Parking Issue",
+        "Bicycle Related Issue",
+        "ADA Compliance",
+        "STRO Violation",
+        "Parks Issue",
+        "Park Equipment",
+        "Sprinkler/Irrigation",
+        "Park Trash or Litter",
+        "Brush Management",
+        "Other",
+        "ESD Code",
+        "Biohazard",
+        "Scavenging of Blue Recycling or Black Trash Containers",
+        "Parking Meter"
+      ]
+    },
+    "reason": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "misroute",
+    "recommended_category",
+    "reason"
+  ],
+  "additionalProperties": false
+}

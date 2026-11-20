@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-20T08:54:58.165819+00:00",
+  "final_statuses": {
+    "completed": 2799,
+    "failed": 1,
+    "skipped": 400
+  },
+  "qwen3_vl_4b_completed_resume": {
+    "unchanged": 799
+  },
+  "predictions_and_attempt_history_unchanged": true,
+  "checkpoint_hashes": [
+    "5de36b494ce4d3286d4f90a162661169514bb9fa94aa3897de6a4b461be5bc88",
+    "18fee7aa2689bc25e169e42089e116dd87d7d675150077481af7b8458b66e02b"
+  ],
+  "failed_only_cold_retry": {
+    "unchanged": 799,
+    "failed": 1,
+    "settings_unchanged": true
+  },
+  "remaining_errors": [
+    {
+      "case_id": "5008z000002hQxgAAE",
+      "experiment_id": "cd3a7e925d8ede1649a1cc416fb68d4843d43a8a18260d78d4d3127866618e4d",
+      "error": "AdapterError: Truncated or incomplete response",
+      "attempts": 3
+    }
+  ],
+  "paid_api_calls": 0
+}

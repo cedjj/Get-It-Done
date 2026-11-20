@@ -19,6 +19,10 @@
 
 ---
 
+## Routing benchmark
+
+The [benchmarking project](benchmarking/README.md) adds original/current-category preprocessing, the six-model routing evaluation pipeline, and the completed [evaluation report](benchmarking/outputs/prompt_benchmark/final_evaluation/notebook/Final_Evaluation.html). Start with its [labeling methodology](benchmarking/LABELING.md) and [reproduction guide](benchmarking/PIPELINE.md). Dataset-screening implementations, raw historical exports, model weights, and the large raw-evidence checkpoint are excluded. The benchmark uses provisional proxy labels; its findings do not establish independently verified routing accuracy.
+
 ## Quick start
 
 ```bash
@@ -85,7 +89,7 @@ All paths are relative to the repository root. Put downloaded files in `data/`.
 
 **Photo links.** `img_link` is built as
 `https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=<attachment Id>`.
-The links are publicly reachable, and in a test of 200 sampled links all returned images. Photos are never stored in the repo.
+The links are publicly reachable, and in a test of 200 sampled links all returned images. The EDA notebooks use photo links. The separate `benchmarking/` project includes the normalized public photo inputs used for its frozen evaluation cohort.
 
 **If a file is missing,** the notebook that needs it says so in its first cell. File 5 is restricted. Without it, run only the notebooks marked "public data only" in the table below.
 
@@ -126,7 +130,7 @@ The final cell sends web requests to the City's photo server. It is optional, so
 - **Misroutes are not directly observable.** Referral, reclassification, and "send back to intake" show that a routing change happened, not that it was an error. "Send back to intake" applies only to cases that passed through Parks and Recreation. The `Case Reason` field is overwritten when a case closes.
 - **Photos are not always resident-taken.** Some categories, such as parking, may have photos taken by staff.
 - **Counts depend on cleaning choices,** such as dropping child records and keeping the earliest closure for duplicated case IDs. The notebooks state each choice where it is made.
-- **No model results are reported here.** The photo-based designs we propose have not been trained or tested.
+- **Exploratory model results.** The six-model routing evaluation is in [benchmarking/](benchmarking/README.md). Its dataset uses proxy labels and does not establish independently verified routing accuracy.
 - **Restricted data.** Do not commit files 5 without the City's permission.
 
 ---
@@ -139,6 +143,7 @@ The final cell sends web requests to the City's photo server. It is optional, so
 | `gid_intake_rework_analysis.ipynb` | had AI (ChatGPT) help write and debug the intake-return analysis (data cleaning, matched comparisons, plots); we chose what to analyze, questioned its assumptions, and checked it with case counts and assertions |
 | `img-link-eda.ipynb` | had AI help with regex, coding and improving plots, and how to show images in the notebook |
 | `referrals-data-eda.ipynb` | had AI help code the plots and load the data and interpret OLS models summary |
+| `benchmarking/` | ChatGPT/Codex assisted with implementation, packaging, documentation and validation; includes 44 offline tests. The method, saved results and limitations are documented in the project. |
 | Repository | Helped with git issues |
 | `README.md` | Helped order the sections and come up with the first 3 sections (Quick Start, Repository Structure, and Setup) |
 

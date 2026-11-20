@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "qwen3-8b-local",
+      "adapter": "ollama",
+      "model": "qwen3:8b",
+      "supports_photos": false,
+      "options": {"temperature": 0, "seed": 42, "num_ctx": 16384, "num_predict": 512},
+      "pricing": {"input_per_million": 0, "output_per_million": 0}
+    }
+  ],
+  "prompts": {
+    "simple": {"version": "simple-blinded-v1", "template": "templates/simple.txt"},
+    "detailed": {"version": "detailed-blinded-v1", "template": "templates/detailed_blinded.txt"}
+  }
+}

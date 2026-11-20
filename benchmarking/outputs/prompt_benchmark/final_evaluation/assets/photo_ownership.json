@@ -1,0 +1,3486 @@
+[
+  {
+    "case_id": "5008z000001Q4VbAAK",
+    "case_number": "3677984",
+    "filename": "photo_20220220_164810.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000bDCoEAM",
+    "attachment_id": "00P8z000000bDCoEAM",
+    "retrieved_at": "2026-11-20T07:58:36.738754+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000bDCoEAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      512,
+      384
+    ],
+    "normalized_dimensions": [
+      512,
+      384
+    ],
+    "original_sha256": "601104a6b32eba559cdf7fd127a78924904241539e16cb67200c5f19ab9956c8",
+    "sha256": "63ed39010888e4a79cab782681bff174c17d01d339aacb6819a3ddffc99d0792",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000000bDCoEAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/63ed39010888e4a79cab782681bff174c17d01d339aacb6819a3ddffc99d0792.jpg"
+  },
+  {
+    "case_id": "5008z0000017bxiAAA",
+    "case_number": "3615319",
+    "filename": "photo_20211227_111249.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000KZsJEAW",
+    "attachment_id": "00P8z000000KZsJEAW",
+    "retrieved_at": "2026-11-20T07:58:36.787947+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000KZsJEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      384,
+      512
+    ],
+    "normalized_dimensions": [
+      384,
+      512
+    ],
+    "original_sha256": "b79705e3981f440ecad5ac6e291945850922e7507e879f111c9e7bcccc3eaa46",
+    "sha256": "f666564538fe918eaa53e91e36f47060ee6163f59f36dcbd8293a5120152d353",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000000KZsJEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/f666564538fe918eaa53e91e36f47060ee6163f59f36dcbd8293a5120152d353.jpg"
+  },
+  {
+    "case_id": "5008z000001nCJ9AAM",
+    "case_number": "3732493",
+    "filename": "photo_20220411_9530.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000rIl2EAE",
+    "attachment_id": "00P8z000000rIl2EAE",
+    "retrieved_at": "2026-11-20T07:58:36.948524+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000rIl2EAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "3e1a23d442a48dae3b3486061cdcf6e5882f096cd6c23066a25823fa7ee77c1c",
+    "sha256": "9ca04402c20d296fbeabc73c5f7a58cb1508d6f0c91de23eb10f7a85922d6fcf",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000000rIl2EAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/9ca04402c20d296fbeabc73c5f7a58cb1508d6f0c91de23eb10f7a85922d6fcf.jpg"
+  },
+  {
+    "case_id": "5008z000001uiyCAAQ",
+    "case_number": "3745544",
+    "filename": "photo_20220422_112149.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000vN1hEAE",
+    "attachment_id": "00P8z000000vN1hEAE",
+    "retrieved_at": "2026-11-20T07:58:37.465442+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000000vN1hEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "f84d37f469a89c55385af9930126aadf2c829539283dfa13a930c3368558ec3c",
+    "sha256": "44d5b3dc0d74466f67da6c4bfa2361f268896822de480febc775079976f43a8c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000000vN1hEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/44d5b3dc0d74466f67da6c4bfa2361f268896822de480febc775079976f43a8c.jpg"
+  },
+  {
+    "case_id": "5008z000002hQxgAAE",
+    "case_number": "3818878",
+    "filename": "photo_20220626_8536.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001Hu26EAC",
+    "attachment_id": "00P8z000001Hu26EAC",
+    "retrieved_at": "2026-11-20T07:58:38.218285+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001Hu26EAC",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "bc9816a09a8821d3e0f2576f010c2c2223cd49b347f6151928b3bdbc44fb9281",
+    "sha256": "7c7452fd13dc41278728253d5669690690019a374de6e4e64c79c304c5b59a14",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001Hu26EAC.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7c7452fd13dc41278728253d5669690690019a374de6e4e64c79c304c5b59a14.jpg"
+  },
+  {
+    "case_id": "5008z000002oNWlAAM",
+    "case_number": "3832107",
+    "filename": "photo_20220707_83344.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001LxBvEAK",
+    "attachment_id": "00P8z000001LxBvEAK",
+    "retrieved_at": "2026-11-20T07:58:38.222821+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001LxBvEAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "d07bb06a2b1a95367e334e82e5f1ff83deda7e1ab0c785443548a3323887b4a2",
+    "sha256": "4aedf32bd0a7fa61081687721d65610b88c8b7227d0bd5a68094b15422b2cb45",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001LxBvEAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4aedf32bd0a7fa61081687721d65610b88c8b7227d0bd5a68094b15422b2cb45.jpg"
+  },
+  {
+    "case_id": "5008z000002KvR6AAK",
+    "case_number": "3788490",
+    "filename": "photo_20220601_134838.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000019JpqEAE",
+    "attachment_id": "00P8z0000019JpqEAE",
+    "retrieved_at": "2026-11-20T07:58:38.346639+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000019JpqEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "84e58078a6807116c4cb5594d522f601eff3bdb4b9ae25c6172099ce3c78afa3",
+    "sha256": "41e59d8b190e3b6ef73c474c8e7538f98cd6613e1aed8de970abdb79fe2dd352",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000019JpqEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/41e59d8b190e3b6ef73c474c8e7538f98cd6613e1aed8de970abdb79fe2dd352.jpg"
+  },
+  {
+    "case_id": "5008z000002oNWlAAM",
+    "case_number": "3832107",
+    "filename": "photo_20220707_83344.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001LxBuEAK",
+    "attachment_id": "00P8z000001LxBuEAK",
+    "retrieved_at": "2026-11-20T07:58:38.683688+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001LxBuEAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "2954f082f7e3823e981bc31cafaf3f00bd8db8e3243b24a591ce8a1f646f8812",
+    "sha256": "a3922281279cbbc746e1862438a95ab8267fa0a30fc013923eaabada1d7ef0b0",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001LxBuEAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/a3922281279cbbc746e1862438a95ab8267fa0a30fc013923eaabada1d7ef0b0.jpg"
+  },
+  {
+    "case_id": "5008z000003GriTAAS",
+    "case_number": "3881835",
+    "filename": "03881835_PXL_20220815_152045214.MP.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ZoozEAC",
+    "attachment_id": "00P8z000001ZoozEAC",
+    "retrieved_at": "2026-11-20T07:58:38.978742+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ZoozEAC",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      450
+    ],
+    "normalized_dimensions": [
+      600,
+      450
+    ],
+    "original_sha256": "4b5015dcdbf944118b9e2e5bba79653635b8daf4a749768cca1a4bf54079045c",
+    "sha256": "dbddb07b1a1da0becaef8cd04f04697e20f3f98e251756220971754e032b8386",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ZoozEAC.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/dbddb07b1a1da0becaef8cd04f04697e20f3f98e251756220971754e032b8386.jpg"
+  },
+  {
+    "case_id": "5008z000003JiYCAA0",
+    "case_number": "3886959",
+    "filename": "03886959_IMG_5923.JPG",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001bIB8EAM",
+    "attachment_id": "00P8z000001bIB8EAM",
+    "retrieved_at": "2026-11-20T07:58:39.074664+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001bIB8EAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      448
+    ],
+    "normalized_dimensions": [
+      600,
+      448
+    ],
+    "original_sha256": "dee462382d609b759e96d30050a935fa1e00803dab3ba1ecad35b6fd271f1a25",
+    "sha256": "da51d3ec024e1dfad1b355617bd5968a2a6563eb5a391270c61a84bcfde0a38f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001bIB8EAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/da51d3ec024e1dfad1b355617bd5968a2a6563eb5a391270c61a84bcfde0a38f.jpg"
+  },
+  {
+    "case_id": "5008z000003PfncAAC",
+    "case_number": "3899366",
+    "filename": "03899366_IMG_0084.JPG",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ePaEEAU",
+    "attachment_id": "00P8z000001ePaEEAU",
+    "retrieved_at": "2026-11-20T07:58:39.316684+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ePaEEAU",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "348c22819ffb42367f58391313683172c8f99b47843a2653437917e3e0556cd2",
+    "sha256": "c87b6f8dc5374b3f10ceb266aab8ff2c39911630ea5bc3e756f4d9506d8b2b76",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ePaEEAU.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c87b6f8dc5374b3f10ceb266aab8ff2c39911630ea5bc3e756f4d9506d8b2b76.jpg"
+  },
+  {
+    "case_id": "5008z000002p5lFAAQ",
+    "case_number": "3833433",
+    "filename": "photo_20220708_7712.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001MMJnEAO",
+    "attachment_id": "00P8z000001MMJnEAO",
+    "retrieved_at": "2026-11-20T07:58:39.811609+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001MMJnEAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "8dbba30f31d7afbf95df0acc8b92173185a13771e635ed40343b4ebd56b26045",
+    "sha256": "2cacee877080182b8c9c4bb7a8560c005e1f911884546a3c3c3051e5df9e533f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001MMJnEAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/2cacee877080182b8c9c4bb7a8560c005e1f911884546a3c3c3051e5df9e533f.jpg"
+  },
+  {
+    "case_id": "5008z000003U0rtAAC",
+    "case_number": "3907588",
+    "filename": "photo_20220906_8824.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ga5GEAQ",
+    "attachment_id": "00P8z000001ga5GEAQ",
+    "retrieved_at": "2026-11-20T07:58:39.923036+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ga5GEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      512,
+      384
+    ],
+    "normalized_dimensions": [
+      512,
+      384
+    ],
+    "original_sha256": "34e692f5b24c213acd9e75d7b6b63a91174eddf6768727da9b49979da6cfc5ca",
+    "sha256": "406b423ca808d75c21898bbcbc1f94fac733e99471c1ab34f2a0ee1205d4fcea",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ga5GEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/406b423ca808d75c21898bbcbc1f94fac733e99471c1ab34f2a0ee1205d4fcea.jpg"
+  },
+  {
+    "case_id": "5008z000003T3XrAAK",
+    "case_number": "3905510",
+    "filename": "photo_20220903_71046.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001g02iEAA",
+    "attachment_id": "00P8z000001g02iEAA",
+    "retrieved_at": "2026-11-20T07:58:40.027029+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001g02iEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "ba824b0b4bfe30c90973465b7decc3fb2f085914a493c19927c0efb59d385589",
+    "sha256": "fa7b07c05bb907d5257fdeaf89c656b4e6afd1b86d2bc2ed65f78e473f1a7519",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001g02iEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/fa7b07c05bb907d5257fdeaf89c656b4e6afd1b86d2bc2ed65f78e473f1a7519.jpg"
+  },
+  {
+    "case_id": "5008z000003U0rtAAC",
+    "case_number": "3907588",
+    "filename": "photo_20220906_8824.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ga5FEAQ",
+    "attachment_id": "00P8z000001ga5FEAQ",
+    "retrieved_at": "2026-11-20T07:58:40.518147+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ga5FEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      384,
+      512
+    ],
+    "normalized_dimensions": [
+      384,
+      512
+    ],
+    "original_sha256": "adfb1046d77670a82dc6479663bc09600a322703a3e1590247bd6e48a8a84f0e",
+    "sha256": "cfc01ad6a8850a6714d2db6cf5934d7a445ea5d779e67f1e37a1e4cf4d362efc",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ga5FEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/cfc01ad6a8850a6714d2db6cf5934d7a445ea5d779e67f1e37a1e4cf4d362efc.jpg"
+  },
+  {
+    "case_id": "5008z000003X3kfAAC",
+    "case_number": "3913652",
+    "filename": "photo_20220910_125619.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001iHtxEAE",
+    "attachment_id": "00P8z000001iHtxEAE",
+    "retrieved_at": "2026-11-20T07:58:40.802426+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001iHtxEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "0d825d8f2d4e78ad6e808e1340236d8d45f02f5a10b92393e9d9145e3de35ba2",
+    "sha256": "bc6db2afc38dd8768f08fce685a9eaa05ad1898e04a9fd6da44bc6d7096362d9",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001iHtxEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/bc6db2afc38dd8768f08fce685a9eaa05ad1898e04a9fd6da44bc6d7096362d9.jpg"
+  },
+  {
+    "case_id": "5008z00000401MmAAI",
+    "case_number": "3975432",
+    "filename": "photo_20221101_75322.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ynkEEAQ",
+    "attachment_id": "00P8z000001ynkEEAQ",
+    "retrieved_at": "2026-11-20T07:58:41.034813+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ynkEEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "e0e4586d9a525dfacba9cb33b9ce2453d15b4a4c57aa2515b491d8fe8fba1655",
+    "sha256": "6bcff7dc9f840cdfc7cd15255b2e14d8b469c9b924f18491a9edec69d9fe4fca",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ynkEEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/6bcff7dc9f840cdfc7cd15255b2e14d8b469c9b924f18491a9edec69d9fe4fca.jpg"
+  },
+  {
+    "case_id": "5008z0000045GjbAAE",
+    "case_number": "3984857",
+    "filename": "photo_20221108_133625.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000021IT5EAM",
+    "attachment_id": "00P8z0000021IT5EAM",
+    "retrieved_at": "2026-11-20T07:58:41.404250+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000021IT5EAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "8f1fcf7152955a7da7c3054036abfc3a59316f5eef405ca3c078d3d3f86b5a01",
+    "sha256": "752ea44881551af4548e4b077c62c4778e7d151f2e90132ddef492047c0cb978",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000021IT5EAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/752ea44881551af4548e4b077c62c4778e7d151f2e90132ddef492047c0cb978.jpg"
+  },
+  {
+    "case_id": "5008z00000401MmAAI",
+    "case_number": "3975432",
+    "filename": "photo_20221101_75322.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ynkFEAQ",
+    "attachment_id": "00P8z000001ynkFEAQ",
+    "retrieved_at": "2026-11-20T07:58:41.404757+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000001ynkFEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "faf01f73ba5878ae7150341e9e570556d002a3e53e7c362b353cbe7e270d317c",
+    "sha256": "ecbb7ba39a1298cfb316579715cc0ec7478bcedc61e6466b6c67698c1752311b",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000001ynkFEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/ecbb7ba39a1298cfb316579715cc0ec7478bcedc61e6466b6c67698c1752311b.jpg"
+  },
+  {
+    "case_id": "5008z0000045GjbAAE",
+    "case_number": "3984857",
+    "filename": "photo_20221108_133625.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000021IT4EAM",
+    "attachment_id": "00P8z0000021IT4EAM",
+    "retrieved_at": "2026-11-20T07:58:41.804871+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000021IT4EAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "032b8b226ce92f1cc353285857af263a9bc6722315be2a6a3bacdf420a4c8068",
+    "sha256": "f1043be966ec8fe7e6eebc0e4fe3b6a65e2bfa4195a48cbe46727c96ca7c973e",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000021IT4EAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/f1043be966ec8fe7e6eebc0e4fe3b6a65e2bfa4195a48cbe46727c96ca7c973e.jpg"
+  },
+  {
+    "case_id": "5008z00000471GhAAI",
+    "case_number": "3987886",
+    "filename": "03987886_79B1C96A-02E8-4D8C-A560-F55290F24837.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F2EAI",
+    "attachment_id": "00P8z00000227F2EAI",
+    "retrieved_at": "2026-11-20T07:58:42.062770+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F2EAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      340
+    ],
+    "normalized_dimensions": [
+      600,
+      340
+    ],
+    "original_sha256": "9ca814c781cbbe59b8d2b2ad9f27aefbcb99f33aac8bda374e34ee841017b9ec",
+    "sha256": "c53f924e7f8becb739d61af27221746dfd594d7d79c94dce7edbe85620edde5b",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z00000227F2EAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c53f924e7f8becb739d61af27221746dfd594d7d79c94dce7edbe85620edde5b.jpg"
+  },
+  {
+    "case_id": "5008z00000471GhAAI",
+    "case_number": "3987886",
+    "filename": "03987886_DA5820FA-8FBD-4B86-9EC7-4606550373D2.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F0EAI",
+    "attachment_id": "00P8z00000227F0EAI",
+    "retrieved_at": "2026-11-20T07:58:42.171910+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F0EAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      325
+    ],
+    "normalized_dimensions": [
+      600,
+      325
+    ],
+    "original_sha256": "ded1146bb05f1000265fd35924066d1fffda113018ff3fe1ff012141033844e9",
+    "sha256": "6ec615bf0e65c2ea7fe2667e5dde229ce3df64e75cbec4b65dda5c5a7add5299",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z00000227F0EAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/6ec615bf0e65c2ea7fe2667e5dde229ce3df64e75cbec4b65dda5c5a7add5299.jpg"
+  },
+  {
+    "case_id": "5008z00000471GhAAI",
+    "case_number": "3987886",
+    "filename": "03987886_5DC04C76-19B8-41C8-BA3A-32B895A82EF3.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F1EAI",
+    "attachment_id": "00P8z00000227F1EAI",
+    "retrieved_at": "2026-11-20T07:58:42.543795+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227F1EAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      381
+    ],
+    "normalized_dimensions": [
+      600,
+      381
+    ],
+    "original_sha256": "2c128168b973f72cc1c4a2c96f8410ac2495bcd6ae5321d3f8929bee31f5f69f",
+    "sha256": "16c5781ca023d6ef44f759909c5568d2ca9d8b21034cce2698425ad5e9dad94a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z00000227F1EAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/16c5781ca023d6ef44f759909c5568d2ca9d8b21034cce2698425ad5e9dad94a.jpg"
+  },
+  {
+    "case_id": "5008z00000471GhAAI",
+    "case_number": "3987886",
+    "filename": "03987886_5A0AD7E3-C4D2-4439-97AE-B34C8AB32D60.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227EzEAI",
+    "attachment_id": "00P8z00000227EzEAI",
+    "retrieved_at": "2026-11-20T07:58:42.656564+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000227EzEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      381
+    ],
+    "normalized_dimensions": [
+      600,
+      381
+    ],
+    "original_sha256": "1d3bd90ba2e54491f323589d0069fcf35c358f5e3bb2c144208b1a6c1ebfcd79",
+    "sha256": "65122dc2fa62913452d931921be791ba8ce591487665d00c6dfc2560525f3ceb",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z00000227EzEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/65122dc2fa62913452d931921be791ba8ce591487665d00c6dfc2560525f3ceb.jpg"
+  },
+  {
+    "case_id": "5008z000004SFXmAAO",
+    "case_number": "4024782",
+    "filename": "photo_20221214_104730.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8NEAW",
+    "attachment_id": "00P8z000002CE8NEAW",
+    "retrieved_at": "2026-11-20T07:58:43.068376+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8NEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      659
+    ],
+    "normalized_dimensions": [
+      1024,
+      586
+    ],
+    "original_sha256": "7f747b25dfe49571aae9bbeabe3004f3ad1921df378cb1af0aa90237a038eb96",
+    "sha256": "4ecd879ce619845ea93aa0eaf3d068f336c94f70c1406b457079120920771fa0",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002CE8NEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4ecd879ce619845ea93aa0eaf3d068f336c94f70c1406b457079120920771fa0.jpg"
+  },
+  {
+    "case_id": "5008z000004mJMaAAM",
+    "case_number": "4060434",
+    "filename": "04060434_image.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002L8IZEA0",
+    "attachment_id": "00P8z000002L8IZEA0",
+    "retrieved_at": "2026-11-20T07:58:43.323457+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002L8IZEA0",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "8ff420bdc32d461bc5694f083337286501f94481d20143ddefb4bbfe0b3e1884",
+    "sha256": "091a29674471da2e9c0dfa2c8373afc97b6fa9a1fb37a99f47df7e3404ce5c1c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002L8IZEA0.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/091a29674471da2e9c0dfa2c8373afc97b6fa9a1fb37a99f47df7e3404ce5c1c.jpg"
+  },
+  {
+    "case_id": "5008z000004SFXmAAO",
+    "case_number": "4024782",
+    "filename": "photo_20221214_104730.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8MEAW",
+    "attachment_id": "00P8z000002CE8MEAW",
+    "retrieved_at": "2026-11-20T07:58:43.418238+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8MEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      653
+    ],
+    "normalized_dimensions": [
+      1024,
+      580
+    ],
+    "original_sha256": "6aa1106b4880e214695ad7d729a5348bec60102656629e4d3d4bc52399020334",
+    "sha256": "469c433fda1119e3ce6ae765cc8d68ab844f573cb1d3569440176c9cd59567e3",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002CE8MEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/469c433fda1119e3ce6ae765cc8d68ab844f573cb1d3569440176c9cd59567e3.jpg"
+  },
+  {
+    "case_id": "5008z000004SFXmAAO",
+    "case_number": "4024782",
+    "filename": "photo_20221214_104730.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8OEAW",
+    "attachment_id": "00P8z000002CE8OEAW",
+    "retrieved_at": "2026-11-20T07:58:43.488817+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002CE8OEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      651
+    ],
+    "normalized_dimensions": [
+      1024,
+      579
+    ],
+    "original_sha256": "4c5576398448213a8044355b31e421fe5d9ea512ac9ee95d60bdf83f3b9346a9",
+    "sha256": "508cdffbb2aff5d3c735b3c9fb73daa8b9869669398d57b022cb60a167f5ce0f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002CE8OEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/508cdffbb2aff5d3c735b3c9fb73daa8b9869669398d57b022cb60a167f5ce0f.jpg"
+  },
+  {
+    "case_id": "5008z000004oLUtAAM",
+    "case_number": "4064217",
+    "filename": "photo_20230115_81549.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002LmJ9EAK",
+    "attachment_id": "00P8z000002LmJ9EAK",
+    "retrieved_at": "2026-11-20T07:58:43.968948+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002LmJ9EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "35af261cf161117feb5cee8adc5d774b2775842636c9f8200a90e4e2767e9bd7",
+    "sha256": "929f686ddc411746f7c7fc13a1a28beac1eb78a70daf5544eccded9cabed94f7",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002LmJ9EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/929f686ddc411746f7c7fc13a1a28beac1eb78a70daf5544eccded9cabed94f7.jpg"
+  },
+  {
+    "case_id": "5008z000004oLUtAAM",
+    "case_number": "4064217",
+    "filename": "photo_20230115_81549.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002LmJ8EAK",
+    "attachment_id": "00P8z000002LmJ8EAK",
+    "retrieved_at": "2026-11-20T07:58:44.228448+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002LmJ8EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "b29cc1d39ae355e21e2241eeda5dd7103aef936ff88f0f357c16685b55498b3c",
+    "sha256": "2da271bb902bb705b2ba232121b9ebabc977099c759fa8edc3276aaac526c19a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002LmJ8EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/2da271bb902bb705b2ba232121b9ebabc977099c759fa8edc3276aaac526c19a.jpg"
+  },
+  {
+    "case_id": "5008z000004p5FpAAI",
+    "case_number": "4066635",
+    "filename": "photo_20230117_61715.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002M5SyEAK",
+    "attachment_id": "00P8z000002M5SyEAK",
+    "retrieved_at": "2026-11-20T07:58:44.277976+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002M5SyEAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "02b908fa5cbe3b2106fd3c3cd36c3022781f9d9bd30913f97e163a7b759d7e24",
+    "sha256": "5c411bc97db6ae26b99cdbdeb5b90307380e82062440e26652476aec38c72727",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002M5SyEAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/5c411bc97db6ae26b99cdbdeb5b90307380e82062440e26652476aec38c72727.jpg"
+  },
+  {
+    "case_id": "5008z000004p5FpAAI",
+    "case_number": "4066635",
+    "filename": "photo_20230117_61714.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002M5SxEAK",
+    "attachment_id": "00P8z000002M5SxEAK",
+    "retrieved_at": "2026-11-20T07:58:44.348712+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002M5SxEAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "d150a53cf7524b0737aca0bc25ab6ab0834d8dff78ad9c7127f6e30f757bab25",
+    "sha256": "8ae87ed0f72baeb9dea434f4b66ccc3fe229cb12d3ecbd06baa551bd3708739d",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002M5SxEAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/8ae87ed0f72baeb9dea434f4b66ccc3fe229cb12d3ecbd06baa551bd3708739d.jpg"
+  },
+  {
+    "case_id": "5008z000005UoI7AAK",
+    "case_number": "4204703",
+    "filename": "photo_20230422_75247.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002fSLcEAM",
+    "attachment_id": "00P8z000002fSLcEAM",
+    "retrieved_at": "2026-11-20T07:58:45.021741+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002fSLcEAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      649
+    ],
+    "normalized_dimensions": [
+      1024,
+      577
+    ],
+    "original_sha256": "96d9f96ee38c50ce312cc0cbfc1522facbd1bbc480fdd9b7b904778c7bb590ed",
+    "sha256": "de90d5331a114ac6e80aa9fdc3a0d1d3ac862d7bcea21237df08199ef5985ddb",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002fSLcEAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/de90d5331a114ac6e80aa9fdc3a0d1d3ac862d7bcea21237df08199ef5985ddb.jpg"
+  },
+  {
+    "case_id": "5008z000005fAyBAAU",
+    "case_number": "4252047",
+    "filename": "photo_20230524_11246.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002mCtrEAE",
+    "attachment_id": "00P8z000002mCtrEAE",
+    "retrieved_at": "2026-11-20T07:58:45.229765+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002mCtrEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "4ee230a0f7624724224b82081e75aedc1b4b18cc7aa284faa7b0cab3c0230a76",
+    "sha256": "88fe9b4bb9f29e0175419d68882226ea979c8e1549db3566df7ebceae5a59755",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002mCtrEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/88fe9b4bb9f29e0175419d68882226ea979c8e1549db3566df7ebceae5a59755.jpg"
+  },
+  {
+    "case_id": "5008z000005FA2MAAW",
+    "case_number": "4128355",
+    "filename": "photo_20230302_91233.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002WPNXEA4",
+    "attachment_id": "00P8z000002WPNXEA4",
+    "retrieved_at": "2026-11-20T07:58:45.231070+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002WPNXEA4",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "9585e3233a1051a0aceb0a126b2d1167e90e040d960b13433d98ac9cca609139",
+    "sha256": "d3e95b932f2191181c55b1968d69937f76e7925265d134f7b59268180e07f038",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002WPNXEA4.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/d3e95b932f2191181c55b1968d69937f76e7925265d134f7b59268180e07f038.jpg"
+  },
+  {
+    "case_id": "5008z000005XMcyAAG",
+    "case_number": "4216030",
+    "filename": "photo_20230429_231125.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002h0WsEAI",
+    "attachment_id": "00P8z000002h0WsEAI",
+    "retrieved_at": "2026-11-20T07:58:45.670220+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002h0WsEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "a12403b8f00c841f9fbb0b0068524323b0caf3f77cafae43c7ddd5c30b374a0c",
+    "sha256": "52a2b465c19567b8027f0038263736ed485016240a05f1d3bf2cee7da6f1b6e1",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002h0WsEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/52a2b465c19567b8027f0038263736ed485016240a05f1d3bf2cee7da6f1b6e1.jpg"
+  },
+  {
+    "case_id": "5008z000005hA08AAE",
+    "case_number": "4261576",
+    "filename": "photo_20230531_172856.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWMEA2",
+    "attachment_id": "00P8z000002nVWMEA2",
+    "retrieved_at": "2026-11-20T07:58:45.906133+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWMEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      814
+    ],
+    "normalized_dimensions": [
+      1024,
+      724
+    ],
+    "original_sha256": "4e0b4b6d903c37702cfbe21e34baffd7f5634c59515fdb9695d79ebeff0088d9",
+    "sha256": "7440520a26c6ca975b2fc7c5115e39f9ba69390ff04584da1e8cce3ba701f167",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002nVWMEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7440520a26c6ca975b2fc7c5115e39f9ba69390ff04584da1e8cce3ba701f167.jpg"
+  },
+  {
+    "case_id": "5008z000005hA08AAE",
+    "case_number": "4261576",
+    "filename": "photo_20230531_172856.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWCEA2",
+    "attachment_id": "00P8z000002nVWCEA2",
+    "retrieved_at": "2026-11-20T07:58:46.121853+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWCEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "175b3658ecb42446e96047ccd9563c8603c16a9b0e5558b7fac3feaf879505ba",
+    "sha256": "1875c3d4fc172503007376002c2b4a354a70b38b39c776899f1631f896aa4081",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002nVWCEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/1875c3d4fc172503007376002c2b4a354a70b38b39c776899f1631f896aa4081.jpg"
+  },
+  {
+    "case_id": "5008z000005q7X6AAI",
+    "case_number": "4302301",
+    "filename": "04302301_54th st & Chollas pkwy - 2.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002tUeIEAU",
+    "attachment_id": "00P8z000002tUeIEAU",
+    "retrieved_at": "2026-11-20T07:58:46.349668+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002tUeIEAU",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      480,
+      640
+    ],
+    "normalized_dimensions": [
+      480,
+      640
+    ],
+    "original_sha256": "da4f1a3ce76e92f6970e80c633bb41ee52389edc1455127dff6d1407adccbade",
+    "sha256": "4c4fc363fab93da322a5b7afa57c0b061ea879e554b301e5fa0b65e48a555bdf",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002tUeIEAU.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4c4fc363fab93da322a5b7afa57c0b061ea879e554b301e5fa0b65e48a555bdf.jpg"
+  },
+  {
+    "case_id": "5008z000005hA08AAE",
+    "case_number": "4261576",
+    "filename": "photo_20230531_172856.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWHEA2",
+    "attachment_id": "00P8z000002nVWHEA2",
+    "retrieved_at": "2026-11-20T07:58:46.471826+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002nVWHEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "926242777fe5b915b0161b0ab3a63fce34e8dcba9ca8c745ed17e41108a5c668",
+    "sha256": "4f09ea818cc57129eec1b97e227ce49cab50115ffdbc00307ebc8d9f83925b30",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002nVWHEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4f09ea818cc57129eec1b97e227ce49cab50115ffdbc00307ebc8d9f83925b30.jpg"
+  },
+  {
+    "case_id": "5008z000005q7X6AAI",
+    "case_number": "4302301",
+    "filename": "04302301_54th st & Chollas pkwy - 1.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002tUeHEAU",
+    "attachment_id": "00P8z000002tUeHEAU",
+    "retrieved_at": "2026-11-20T07:58:46.558948+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002tUeHEAU",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      480,
+      640
+    ],
+    "normalized_dimensions": [
+      480,
+      640
+    ],
+    "original_sha256": "896265ed15cf1184a6339798fa24f89c21c91045f294df8601d00fe9e96b7376",
+    "sha256": "07ae9d84ccf5eb086a715854398f12e9ed2e2f11ac93f883feff90859f58822e",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002tUeHEAU.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/07ae9d84ccf5eb086a715854398f12e9ed2e2f11ac93f883feff90859f58822e.jpg"
+  },
+  {
+    "case_id": "5008z000005w15CAAQ",
+    "case_number": "4327442",
+    "filename": "photo_20230717_75354.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002x84xEAA",
+    "attachment_id": "00P8z000002x84xEAA",
+    "retrieved_at": "2026-11-20T07:58:46.865596+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000002x84xEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "fdc66e93ebf1173eda003c2e9a58c5a30a22b20d52fbf43f8ded384d73f2daa3",
+    "sha256": "7bd8dd4eb96cb2db42783b529db1dd09a973ddb3740ea7bb836aca4e2e0ef8d9",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000002x84xEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7bd8dd4eb96cb2db42783b529db1dd09a973ddb3740ea7bb836aca4e2e0ef8d9.jpg"
+  },
+  {
+    "case_id": "5008z0000068xGXAAY",
+    "case_number": "4383822",
+    "filename": "photo_20230821_10353.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000035Ey7EAE",
+    "attachment_id": "00P8z0000035Ey7EAE",
+    "retrieved_at": "2026-11-20T07:58:47.333394+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000035Ey7EAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "abf009adb3f65a3d97ba03d1f5c3fb0ff619e0f006f17f1f4bb9356b01b12507",
+    "sha256": "045454b67bacd6b0eae88cc7f84f12f3c4cd596f7c575a182593a885c65fc9fa",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000035Ey7EAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/045454b67bacd6b0eae88cc7f84f12f3c4cd596f7c575a182593a885c65fc9fa.jpg"
+  },
+  {
+    "case_id": "5008z00000678XvAAI",
+    "case_number": "4376039",
+    "filename": "photo_20230815_222536.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000345PrEAI",
+    "attachment_id": "00P8z00000345PrEAI",
+    "retrieved_at": "2026-11-20T07:58:47.558531+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z00000345PrEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      532,
+      1152
+    ],
+    "normalized_dimensions": [
+      473,
+      1024
+    ],
+    "original_sha256": "06a744bdc92a4050eb3400df6990decd0431e6fdd4da3844b81a856c9d2f3d11",
+    "sha256": "2212632b9db1c2677d701ea268270418f6246dde0ef7b5103fc951771dc1f115",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z00000345PrEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/2212632b9db1c2677d701ea268270418f6246dde0ef7b5103fc951771dc1f115.jpg"
+  },
+  {
+    "case_id": "5008z000006MzfUAAS",
+    "case_number": "4438900",
+    "filename": "photo_20230927_11329.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003EAfLEAW",
+    "attachment_id": "00P8z000003EAfLEAW",
+    "retrieved_at": "2026-11-20T07:58:47.732283+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003EAfLEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "3193fd0f1e7e02fb206c4203001461d087df1c85046d8bb10886349a8daf4f96",
+    "sha256": "fe2d5f4794a675a13076a800757d69cab10d3609d4e068442c3a7ce0deac7a3c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003EAfLEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/fe2d5f4794a675a13076a800757d69cab10d3609d4e068442c3a7ce0deac7a3c.jpg"
+  },
+  {
+    "case_id": "5008z0000068xGXAAY",
+    "case_number": "4383822",
+    "filename": "photo_20230821_10357.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000035EdAEAU",
+    "attachment_id": "00P8z0000035EdAEAU",
+    "retrieved_at": "2026-11-20T07:58:48.029970+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000035EdAEAU",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "64e2379c9cd2affa9ea3d9a3d6fe843656c64f00b21aa0d22b1e42f2819e0655",
+    "sha256": "02a5827793f41faa7d889e4c3b0a00423fb5c02b6b1ceb0c1e819e0d181f3093",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000035EdAEAU.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/02a5827793f41faa7d889e4c3b0a00423fb5c02b6b1ceb0c1e819e0d181f3093.jpg"
+  },
+  {
+    "case_id": "5008z000006TzYoAAK",
+    "case_number": "4465213",
+    "filename": "photo_20231016_14336.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003IjPzEAK",
+    "attachment_id": "00P8z000003IjPzEAK",
+    "retrieved_at": "2026-11-20T07:58:48.213200+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003IjPzEAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      648,
+      1152
+    ],
+    "normalized_dimensions": [
+      576,
+      1024
+    ],
+    "original_sha256": "761567d40eb18b9bf600038ed63ab5c5a7e1195c00d8932e8c2fa56b0daccf3c",
+    "sha256": "050ac6cf1887fe3ead6ef3963fba1366f8a7921025e0078d69bae8affabadfb6",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003IjPzEAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/050ac6cf1887fe3ead6ef3963fba1366f8a7921025e0078d69bae8affabadfb6.jpg"
+  },
+  {
+    "case_id": "5008z000006feAfAAI",
+    "case_number": "4505298",
+    "filename": "photo_20231115_83613.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003Pu6xEAC",
+    "attachment_id": "00P8z000003Pu6xEAC",
+    "retrieved_at": "2026-11-20T07:58:48.429890+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003Pu6xEAC",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "6fcde6caed3db1103cd397fd6f57b2da2b0c10c59b326594daa74cb4e452869b",
+    "sha256": "fc567f2a8b4452e2d70f0aa5b2e75bc2165f2ca7fcbf1e141afea4b10447e9b7",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003Pu6xEAC.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/fc567f2a8b4452e2d70f0aa5b2e75bc2165f2ca7fcbf1e141afea4b10447e9b7.jpg"
+  },
+  {
+    "case_id": "5008z000006i65ZAAQ",
+    "case_number": "4514145",
+    "filename": "photo_20231121_125337.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RTp8EAG",
+    "attachment_id": "00P8z000003RTp8EAG",
+    "retrieved_at": "2026-11-20T07:58:48.637393+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RTp8EAG",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "0a7fff24200bdb889f529601475e8dbb5d3c61b63a5d4637ef616ef5fc3c77e4",
+    "sha256": "7ecd24768fa2c7228e80ae943313f83d79727752c16bb2a9bbbb99fbb64ed309",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003RTp8EAG.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7ecd24768fa2c7228e80ae943313f83d79727752c16bb2a9bbbb99fbb64ed309.jpg"
+  },
+  {
+    "case_id": "5008z000006i65ZAAQ",
+    "case_number": "4514145",
+    "filename": "photo_20231121_125344.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RSo6EAG",
+    "attachment_id": "00P8z000003RSo6EAG",
+    "retrieved_at": "2026-11-20T07:58:48.855788+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RSo6EAG",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "a145924c2d7a60ca1fea4283d11e2b427429c4911134fba225420e32e24e98a8",
+    "sha256": "61e0c590891f7f400340e834cf20e9cf5af42c57d95fde6284e649c1f3a73997",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003RSo6EAG.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/61e0c590891f7f400340e834cf20e9cf5af42c57d95fde6284e649c1f3a73997.jpg"
+  },
+  {
+    "case_id": "5008z000006iw7yAAA",
+    "case_number": "4516805",
+    "filename": "04516805_image.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RzxAEAS",
+    "attachment_id": "00P8z000003RzxAEAS",
+    "retrieved_at": "2026-11-20T07:58:49.084631+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003RzxAEAS",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "8e0eb54b40e6914730e5f7705983394eef0a53ffe2a9ec4c3d39079ee9280a61",
+    "sha256": "a608df98f689744a352efe095fd5f3273ab61af89bf6f0980712921cfae2e85d",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003RzxAEAS.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/a608df98f689744a352efe095fd5f3273ab61af89bf6f0980712921cfae2e85d.jpg"
+  },
+  {
+    "case_id": "5008z000006sltnAAA",
+    "case_number": "4546861",
+    "filename": "photo_20231218_125911.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003XY8GEAW",
+    "attachment_id": "00P8z000003XY8GEAW",
+    "retrieved_at": "2026-11-20T07:58:49.300083+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003XY8GEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "5e2fb9fcb789ba9438ecbe5b47070cd70116f3a8e39ae7f357998cbdc92bf245",
+    "sha256": "67edeb34b0ab1004da7515529130b8aabefc863443eec84ac2eef9f72c395d22",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003XY8GEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/67edeb34b0ab1004da7515529130b8aabefc863443eec84ac2eef9f72c395d22.jpg"
+  },
+  {
+    "case_id": "5008z000006vSuvAAE",
+    "case_number": "4555854",
+    "filename": "04555854_image.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ4EAK",
+    "attachment_id": "00P8z000003YxQ4EAK",
+    "retrieved_at": "2026-11-20T07:58:49.310336+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ4EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "80a9b12cdcad8777dc9660729eb51fcab4b66cdc23eb92b75135f6fe02e68b41",
+    "sha256": "07e8044739989646e2974a0deae3d38f56acd984db1675a6ace6b66886f06ecd",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003YxQ4EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/07e8044739989646e2974a0deae3d38f56acd984db1675a6ace6b66886f06ecd.jpg"
+  },
+  {
+    "case_id": "5008z000006vSuvAAE",
+    "case_number": "4555854",
+    "filename": "04555854_image.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ3EAK",
+    "attachment_id": "00P8z000003YxQ3EAK",
+    "retrieved_at": "2026-11-20T07:58:49.514164+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ3EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "eb5e811ef6cda5ffc5f3abb614aea65153e81c25a106c9c8152f6ef9eca981ed",
+    "sha256": "5ec0c6ac98a71821530b40cce32226d4a62a03f0b2f6a6f52c1c65811d5ae481",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003YxQ3EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/5ec0c6ac98a71821530b40cce32226d4a62a03f0b2f6a6f52c1c65811d5ae481.jpg"
+  },
+  {
+    "case_id": "5008z000006vSuvAAE",
+    "case_number": "4555854",
+    "filename": "04555854_946390F2-4077-4D46-9A3B-FBEFF4C6F676.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ1EAK",
+    "attachment_id": "00P8z000003YxQ1EAK",
+    "retrieved_at": "2026-11-20T07:58:49.914559+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ1EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      337,
+      600
+    ],
+    "normalized_dimensions": [
+      337,
+      600
+    ],
+    "original_sha256": "de0cbc706af77169896e0a19a568a0b3c3ea12380583b36ec24639f20807ec0d",
+    "sha256": "c1d9b0b2c7614d4d526f3677afc2ef560a00dcbec13bdafe38fa21a90b0747c1",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003YxQ1EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c1d9b0b2c7614d4d526f3677afc2ef560a00dcbec13bdafe38fa21a90b0747c1.jpg"
+  },
+  {
+    "case_id": "5008z000006vSuvAAE",
+    "case_number": "4555854",
+    "filename": "04555854_image.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ2EAK",
+    "attachment_id": "00P8z000003YxQ2EAK",
+    "retrieved_at": "2026-11-20T07:58:50.261777+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003YxQ2EAK",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "d9628e4af64bb33a5d823cbeac3ac5c2c86c749ce259d1b9ba237ca7bc8359d9",
+    "sha256": "a2bc27fb31a1c3a785c8d8ffcafb8668909aad38d4830fb9491bda0e5e5b07f2",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003YxQ2EAK.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/a2bc27fb31a1c3a785c8d8ffcafb8668909aad38d4830fb9491bda0e5e5b07f2.jpg"
+  },
+  {
+    "case_id": "5008z0000070u3wAAA",
+    "case_number": "4574224",
+    "filename": "photo_20240108_145338.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003bgIlEAI",
+    "attachment_id": "00P8z000003bgIlEAI",
+    "retrieved_at": "2026-11-20T07:58:50.337819+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003bgIlEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "bfc237d09c56c4ddcb7729372baa4e671244292283b69c000c41175fc29533ea",
+    "sha256": "4b6981676b62fdb5de4acbca3ddb17fc03adf6ee3460e9b43b9ef76c47b57a1f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003bgIlEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4b6981676b62fdb5de4acbca3ddb17fc03adf6ee3460e9b43b9ef76c47b57a1f.jpg"
+  },
+  {
+    "case_id": "5008z000007D8R2AAK",
+    "case_number": "4616695",
+    "filename": "photo_20240206_152726.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iUDYEA2",
+    "attachment_id": "00P8z000003iUDYEA2",
+    "retrieved_at": "2026-11-20T07:58:50.385864+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iUDYEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "99f50d8ab4f76638322a52b70c6e4e86c316568dfa88a4075be726242b58ce41",
+    "sha256": "4e9cfd99ef153aeedd5056f533741244f36517c49cc2e9fdd1c71c8a57fbac68",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003iUDYEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4e9cfd99ef153aeedd5056f533741244f36517c49cc2e9fdd1c71c8a57fbac68.jpg"
+  },
+  {
+    "case_id": "5008z000007D8R2AAK",
+    "case_number": "4616695",
+    "filename": "photo_20240206_152726.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iUDTEA2",
+    "attachment_id": "00P8z000003iUDTEA2",
+    "retrieved_at": "2026-11-20T07:58:50.917265+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iUDTEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "8a2ea017105b70e16fa1bba17f065cdbccfed58390b578ebf9ae518de8e53ad4",
+    "sha256": "5cd77d5386dfa2e5cb7643147f48cc83906cedcc424ec455d57a62c0d79502d5",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003iUDTEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/5cd77d5386dfa2e5cb7643147f48cc83906cedcc424ec455d57a62c0d79502d5.jpg"
+  },
+  {
+    "case_id": "5008z000007DuqpAAC",
+    "case_number": "4619181",
+    "filename": "photo_20240208_102415.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iwleEAA",
+    "attachment_id": "00P8z000003iwleEAA",
+    "retrieved_at": "2026-11-20T07:58:51.795773+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003iwleEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "bc040831beb31451884c3739308b2cd86ea0d574bdc904400ae895b0df7581ce",
+    "sha256": "3c0113446c1f89d556877a1f37c11647fadeedfb65cdbba460ce718ee9b83bb4",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003iwleEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/3c0113446c1f89d556877a1f37c11647fadeedfb65cdbba460ce718ee9b83bb4.jpg"
+  },
+  {
+    "case_id": "5008z000007ZKAQAA4",
+    "case_number": "4688238",
+    "filename": "photo_20240328_152111.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003umYGEAY",
+    "attachment_id": "00P8z000003umYGEAY",
+    "retrieved_at": "2026-11-20T07:58:51.921295+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003umYGEAY",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "7e8711cb02d01bb0f11e0925289fa1ef6f2945b669ef84c7536737e399913ddc",
+    "sha256": "5b79b751d7e37b8563305a201e1ea399ec994c743f0341d023773de8b9ca346f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003umYGEAY.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/5b79b751d7e37b8563305a201e1ea399ec994c743f0341d023773de8b9ca346f.jpg"
+  },
+  {
+    "case_id": "5008z000007b2x2AAA",
+    "case_number": "4694243",
+    "filename": "04694243_PXL_20240105_195816453.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003vvmSEAQ",
+    "attachment_id": "00P8z000003vvmSEAQ",
+    "retrieved_at": "2026-11-20T07:58:52.031349+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003vvmSEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "066e19ae2b50afb4daa1a72d15fb23e8a7087e8596d8bf509da4dc88d49974e1",
+    "sha256": "24f62f9fa6adac13164282bd8a8c06214ad52d4686d5e02b34d9a2fd3e8bf937",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003vvmSEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/24f62f9fa6adac13164282bd8a8c06214ad52d4686d5e02b34d9a2fd3e8bf937.jpg"
+  },
+  {
+    "case_id": "5008z000007Zae3AAC",
+    "case_number": "4689520",
+    "filename": "photo_20240329_104846.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003uwEhEAI",
+    "attachment_id": "00P8z000003uwEhEAI",
+    "retrieved_at": "2026-11-20T07:58:52.097435+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003uwEhEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "ae241de36cc1c883daa62351f1b9ad2d5281055c8bc3347616b73deb34228193",
+    "sha256": "29026385f5de19f55c877becdcb09dfd72f032e445cccafaa9a00918681c8644",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003uwEhEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/29026385f5de19f55c877becdcb09dfd72f032e445cccafaa9a00918681c8644.jpg"
+  },
+  {
+    "case_id": "5008z000007fNZgAAM",
+    "case_number": "4707955",
+    "filename": "photo_20240412_125633.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003yYx6EAE",
+    "attachment_id": "00P8z000003yYx6EAE",
+    "retrieved_at": "2026-11-20T07:58:53.100174+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003yYx6EAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "8198ee7f13d9b6a5a9dcf70af353cece80731cff7b3e4846c235f76bf0d56161",
+    "sha256": "ca6b4d8f6646f117e42bf57814dca12dfa17c4fb6d1d55c5897f7f45c874b322",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003yYx6EAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/ca6b4d8f6646f117e42bf57814dca12dfa17c4fb6d1d55c5897f7f45c874b322.jpg"
+  },
+  {
+    "case_id": "5008z000007fNZgAAM",
+    "case_number": "4707955",
+    "filename": "photo_20240412_125633.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003yYS6EAM",
+    "attachment_id": "00P8z000003yYS6EAM",
+    "retrieved_at": "2026-11-20T07:58:53.229832+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z000003yYS6EAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "950e6db5101d9d024f28027907bdf5d6213f90018c578b3824d027784f296e22",
+    "sha256": "ebc97cae8228cf000ab3afe5ca5756db0c954a9172f57e36ea35e617b0613109",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z000003yYS6EAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/ebc97cae8228cf000ab3afe5ca5756db0c954a9172f57e36ea35e617b0613109.jpg"
+  },
+  {
+    "case_id": "5008z000007kWe2AAE",
+    "case_number": "4727115",
+    "filename": "photo_20240425_141526.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000041lxcEAA",
+    "attachment_id": "00P8z0000041lxcEAA",
+    "retrieved_at": "2026-11-20T07:58:53.665213+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000041lxcEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      1152
+    ],
+    "normalized_dimensions": [
+      1024,
+      1024
+    ],
+    "original_sha256": "e0ac5a82451e80f60b39e64c849209ff3531dc1d6c839624e03a4e33dc5b813b",
+    "sha256": "df2607b13fa45158267e67b164c924669088e01b190bc38983ae4542451f5553",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000041lxcEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/df2607b13fa45158267e67b164c924669088e01b190bc38983ae4542451f5553.jpg"
+  },
+  {
+    "case_id": "5008z000007kWe2AAE",
+    "case_number": "4727115",
+    "filename": "photo_20240425_141526.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000041mKfEAI",
+    "attachment_id": "00P8z0000041mKfEAI",
+    "retrieved_at": "2026-11-20T07:58:53.792938+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000041mKfEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      1152
+    ],
+    "normalized_dimensions": [
+      1024,
+      1024
+    ],
+    "original_sha256": "8bc316d35e2c433a28dae5ac1e2f9f1acde19ac901145a6deca45975e5bc85eb",
+    "sha256": "d5165077be05cb9c37f418f569fba877a2df349680fae0a3263286c845fbdc19",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000041mKfEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/d5165077be05cb9c37f418f569fba877a2df349680fae0a3263286c845fbdc19.jpg"
+  },
+  {
+    "case_id": "5008z000007qcFnAAI",
+    "case_number": "4747908",
+    "filename": "photo_20240510_125321.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045w78EAA",
+    "attachment_id": "00P8z0000045w78EAA",
+    "retrieved_at": "2026-11-20T07:58:54.727558+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045w78EAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "7bba63855cdd603afbba1a6f80ddfc68c9da586185bba51e36d21cd23010251b",
+    "sha256": "0cc873c165a899f7e309d24cab42b7c6cf309f2bc17ab4cbec7f868cfb658ffb",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000045w78EAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/0cc873c165a899f7e309d24cab42b7c6cf309f2bc17ab4cbec7f868cfb658ffb.jpg"
+  },
+  {
+    "case_id": "5008z000007qcFnAAI",
+    "case_number": "4747908",
+    "filename": "photo_20240510_125320.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045vmCEAQ",
+    "attachment_id": "00P8z0000045vmCEAQ",
+    "retrieved_at": "2026-11-20T07:58:55.069300+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045vmCEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "02889c9148fc7484b2611114f92999bbc56839d6fdec0cc1f02d37309748d0d8",
+    "sha256": "058b4f39f0b24b66feb7b7aa6191972ddbdcc2a4383b2ea0aa9122a04438ef90",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000045vmCEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/058b4f39f0b24b66feb7b7aa6191972ddbdcc2a4383b2ea0aa9122a04438ef90.jpg"
+  },
+  {
+    "case_id": "5008z000007qcFnAAI",
+    "case_number": "4747908",
+    "filename": "photo_20240510_125320.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045w73EAA",
+    "attachment_id": "00P8z0000045w73EAA",
+    "retrieved_at": "2026-11-20T07:58:55.190032+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000045w73EAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "7a18dab82edd987e2da5bb91d4863101e1eaf52db077cea0c9130c830d0c96f8",
+    "sha256": "cfdcca751b32182493c932ffd548d4d91b5dd3f84fe2812ef10a26a58f4c7151",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000045w73EAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/cfdcca751b32182493c932ffd548d4d91b5dd3f84fe2812ef10a26a58f4c7151.jpg"
+  },
+  {
+    "case_id": "5008z000007lC7OAAU",
+    "case_number": "4729185",
+    "filename": "photo_20240427_102318.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000042C8AEAU",
+    "attachment_id": "00P8z0000042C8AEAU",
+    "retrieved_at": "2026-11-20T07:58:55.210100+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000042C8AEAU",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "7cf8aff570cf09ad289693fe9e8097a7757109cc5b963bf3d2c779c5453da82c",
+    "sha256": "cfccb35e2fe3f27a386a7491c119578806c067643b6ecc2e68313f23d135be5a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000042C8AEAU.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/cfccb35e2fe3f27a386a7491c119578806c067643b6ecc2e68313f23d135be5a.jpg"
+  },
+  {
+    "case_id": "5008z000007vEjkAAE",
+    "case_number": "4763840",
+    "filename": "photo_20240522_13467.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000048ti3EAA",
+    "attachment_id": "00P8z0000048ti3EAA",
+    "retrieved_at": "2026-11-20T07:58:56.386837+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000048ti3EAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "781de64c2d6c4c85f642e91720369ecd5cd66e07021a113a3380f15f53b2a3aa",
+    "sha256": "09803932bc9534f1a9a41cbe4c573b211f9d291008ae868eb89fe504020a2d6c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000048ti3EAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/09803932bc9534f1a9a41cbe4c573b211f9d291008ae868eb89fe504020a2d6c.jpg"
+  },
+  {
+    "case_id": "500cs0000019uAYAAY",
+    "case_number": "4836195",
+    "filename": "photo_20240712_112454.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000000N94DEAS",
+    "attachment_id": "00Pcs000000N94DEAS",
+    "retrieved_at": "2026-11-20T07:58:56.562037+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000000N94DEAS",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      532,
+      1152
+    ],
+    "normalized_dimensions": [
+      473,
+      1024
+    ],
+    "original_sha256": "e831ad01b88983d8b333f45c0315c225d46d73b2660e491889224d963f2800cb",
+    "sha256": "19b9c5b11f8f05ff7dc1ea6de544732320adc8d6e6bfa61e9491a4fd5a3b4f03",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs000000N94DEAS.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/19b9c5b11f8f05ff7dc1ea6de544732320adc8d6e6bfa61e9491a4fd5a3b4f03.jpg"
+  },
+  {
+    "case_id": "5008z000007vEjkAAE",
+    "case_number": "4763840",
+    "filename": "photo_20240522_13467.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000048thyEAA",
+    "attachment_id": "00P8z0000048thyEAA",
+    "retrieved_at": "2026-11-20T07:58:56.571272+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00P8z0000048thyEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "36525e279c3f9a0f753935781ca67cdc9b9b97939c5dcad63bd0f4d0962d84d5",
+    "sha256": "877a3065203419062d268a3971908aa597a40eafa712419bfe462a044f727e41",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00P8z0000048thyEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/877a3065203419062d268a3971908aa597a40eafa712419bfe462a044f727e41.jpg"
+  },
+  {
+    "case_id": "500cs000001pXO0AAM",
+    "case_number": "4849581",
+    "filename": "photo_20240722_91922.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000019zlHEAQ",
+    "attachment_id": "00Pcs0000019zlHEAQ",
+    "retrieved_at": "2026-11-20T07:58:57.461964+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000019zlHEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "c017018c143c7ffd7364422663cf47123a0d7deb20fa31c10ca446f1dddcc76e",
+    "sha256": "d8fc6926f8aed8c03aadabbe86271081ef2239d9e8d624b0e2d6fa1e452e3d10",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs0000019zlHEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/d8fc6926f8aed8c03aadabbe86271081ef2239d9e8d624b0e2d6fa1e452e3d10.jpg"
+  },
+  {
+    "case_id": "500cs000002H4VtAAK",
+    "case_number": "4858300",
+    "filename": "photo_20240726_202526.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000001g6WfEAI",
+    "attachment_id": "00Pcs000001g6WfEAI",
+    "retrieved_at": "2026-11-20T07:58:57.905892+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000001g6WfEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      700,
+      933
+    ],
+    "normalized_dimensions": [
+      700,
+      933
+    ],
+    "original_sha256": "a380c8f4ff6355941fbec09c7f1cf56723ed52dc6e7a3bba99bf27a681a9d85c",
+    "sha256": "31759f82e422ee19068daa2c7928e41e3a9d4eeeb8113c31333fb5a4319e8edc",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs000001g6WfEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/31759f82e422ee19068daa2c7928e41e3a9d4eeeb8113c31333fb5a4319e8edc.jpg"
+  },
+  {
+    "case_id": "500cs000001pXO0AAM",
+    "case_number": "4849581",
+    "filename": "photo_20240722_91922.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000019wc6EAA",
+    "attachment_id": "00Pcs0000019wc6EAA",
+    "retrieved_at": "2026-11-20T07:58:58.031859+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000019wc6EAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "c31872170af7a4e1a7e6a3527e0881752ed831137c86033392d5ec1289b003e5",
+    "sha256": "586b08a123a08fd4657bc58bcfcacab2d29b21a951f4fe27e37e38a7d3b7b33f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs0000019wc6EAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/586b08a123a08fd4657bc58bcfcacab2d29b21a951f4fe27e37e38a7d3b7b33f.jpg"
+  },
+  {
+    "case_id": "500cs000002dwuoAAA",
+    "case_number": "4862527",
+    "filename": "photo_20240730_105147.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000026ADGEA2",
+    "attachment_id": "00Pcs0000026ADGEA2",
+    "retrieved_at": "2026-11-20T07:58:58.144622+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000026ADGEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      648
+    ],
+    "normalized_dimensions": [
+      1024,
+      576
+    ],
+    "original_sha256": "a53ba47cb715f4d5d5b08ee5ce97c223ca5ed1eb941713aa9ce3762b2d1ce148",
+    "sha256": "50a978a48ecad2ba5c713d1a197384e8030bbf6610d4792b4f94ff4c136adcd4",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs0000026ADGEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/50a978a48ecad2ba5c713d1a197384e8030bbf6610d4792b4f94ff4c136adcd4.jpg"
+  },
+  {
+    "case_id": "500cs000005dmjSAAQ",
+    "case_number": "4897668",
+    "filename": "photo_20240822_182643.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000005DGfMEAW",
+    "attachment_id": "00Pcs000005DGfMEAW",
+    "retrieved_at": "2026-11-20T07:58:59.356949+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs000005DGfMEAW",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "07d1b42f033e7487ffdffc310c5f9a7afddf8f969a009d2aac1b2f087768bc0b",
+    "sha256": "24a3476205797d1be198fa394f9be2112bce8032b840c19c44a3df85ea00544b",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs000005DGfMEAW.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/24a3476205797d1be198fa394f9be2112bce8032b840c19c44a3df85ea00544b.jpg"
+  },
+  {
+    "case_id": "500cs00000F9P9qAAF",
+    "case_number": "4977768",
+    "filename": "04977768_20241022_104144.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000FHH5SEAX",
+    "attachment_id": "00Pcs00000FHH5SEAX",
+    "retrieved_at": "2026-11-20T07:58:59.544089+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000FHH5SEAX",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "b5f2363957ec9f115bb1273fb591fd239b415af10e88da2b6ebd5265aabb3823",
+    "sha256": "d99c6fff04acda00b28614d7487f75dce6384b17f7d142dc019bdc067acd49d5",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000FHH5SEAX.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/d99c6fff04acda00b28614d7487f75dce6384b17f7d142dc019bdc067acd49d5.jpg"
+  },
+  {
+    "case_id": "500cs000005ZVpHAAW",
+    "case_number": "4896832",
+    "filename": "photo_20240822_102225.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000059LS9EAM",
+    "attachment_id": "00Pcs0000059LS9EAM",
+    "retrieved_at": "2026-11-20T07:58:59.568132+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000059LS9EAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "5e5dfa265d3e43c2eadea30c13fffcec8d55f45f58cd2a1f564ce843c3043942",
+    "sha256": "b02df52eec0f55dc3bc4b32cf5fdf7915716bedc6b3d7ab800e5b270db9aeac5",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs0000059LS9EAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/b02df52eec0f55dc3bc4b32cf5fdf7915716bedc6b3d7ab800e5b270db9aeac5.jpg"
+  },
+  {
+    "case_id": "500cs000006QoFTAA0",
+    "case_number": "4905886",
+    "filename": "photo_20240828_154541.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000062CstEAE",
+    "attachment_id": "00Pcs0000062CstEAE",
+    "retrieved_at": "2026-11-20T07:58:59.952079+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs0000062CstEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "442308376fca27ae0a1b3928aa0ae4edee5504b933f3ab9c5b9b1565b9346bee",
+    "sha256": "3c1c339fbe141903321497a922cfeb0828f14e874ec838415eb9ed86635e6926",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs0000062CstEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/3c1c339fbe141903321497a922cfeb0828f14e874ec838415eb9ed86635e6926.jpg"
+  },
+  {
+    "case_id": "500cs00000KKAAzAAP",
+    "case_number": "5016354",
+    "filename": "photo_20241123_131729.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000KtKdiEAF",
+    "attachment_id": "00Pcs00000KtKdiEAF",
+    "retrieved_at": "2026-11-20T07:59:00.804891+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000KtKdiEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      648
+    ],
+    "normalized_dimensions": [
+      1024,
+      576
+    ],
+    "original_sha256": "b4da8f7318c98e88374af026573187bedade66bbb13d410139ff50aa49b6bf9a",
+    "sha256": "753aa2aa9cb53688b74dfecde4b40590aa67cafa6b7d40a46146eefd80c3ebf8",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000KtKdiEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/753aa2aa9cb53688b74dfecde4b40590aa67cafa6b7d40a46146eefd80c3ebf8.jpg"
+  },
+  {
+    "case_id": "500cs00000M9NYcAAN",
+    "case_number": "5032835",
+    "filename": "05032835_IMG_2655.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000MuR5jEAF",
+    "attachment_id": "00Pcs00000MuR5jEAF",
+    "retrieved_at": "2026-11-20T07:59:01.178801+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000MuR5jEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      450
+    ],
+    "normalized_dimensions": [
+      600,
+      450
+    ],
+    "original_sha256": "b7fdee6685c6750b2581cb0aafaae4c6b7b3da0ce3a8cfc766452095b8ccb3c3",
+    "sha256": "6d6c4415abdb409b15dfa6eaa3f43eafc1faec2c86285ac3c6cf8d475a77df7d",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000MuR5jEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/6d6c4415abdb409b15dfa6eaa3f43eafc1faec2c86285ac3c6cf8d475a77df7d.jpg"
+  },
+  {
+    "case_id": "500cs00000JIYMrAAP",
+    "case_number": "5009028",
+    "filename": "photo_20241117_202415.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000JgRSHEA3",
+    "attachment_id": "00Pcs00000JgRSHEA3",
+    "retrieved_at": "2026-11-20T07:59:01.194109+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000JgRSHEA3",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "781f529d6e84cf01a21b68974f98c98b2e17d4d0c809356abe683c89d4024339",
+    "sha256": "f42b9166eeeb78ba6c12685c59352a1dd3f3ae38b0e56151673f54d1b5701d99",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000JgRSHEA3.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/f42b9166eeeb78ba6c12685c59352a1dd3f3ae38b0e56151673f54d1b5701d99.jpg"
+  },
+  {
+    "case_id": "500cs00000Gfo4XAAR",
+    "case_number": "4988976",
+    "filename": "photo_20241031_73435.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000Gr2YkEAJ",
+    "attachment_id": "00Pcs00000Gr2YkEAJ",
+    "retrieved_at": "2026-11-20T07:59:01.820546+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000Gr2YkEAJ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "36dcbc368003ff1ddeb775856a58b15e6f1dc031c48e199b3bdaa333c2f0048d",
+    "sha256": "b5c267a5f08df03e509bf410d33d38474ebcd5652b769144138195616071c372",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000Gr2YkEAJ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/b5c267a5f08df03e509bf410d33d38474ebcd5652b769144138195616071c372.jpg"
+  },
+  {
+    "case_id": "500cs00000MvZveAAF",
+    "case_number": "5039535",
+    "filename": "photo_20241215_171354.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000Nkbc1EAB",
+    "attachment_id": "00Pcs00000Nkbc1EAB",
+    "retrieved_at": "2026-11-20T07:59:02.259318+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000Nkbc1EAB",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "8151ff2aa65f09e931c54db36e740180a24b446617d4df77365791c768799946",
+    "sha256": "c2bd6c8ddbd6282e25e299dc93be5d04d2f4a7ee86b4119b19d58f1bb9501adc",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000Nkbc1EAB.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c2bd6c8ddbd6282e25e299dc93be5d04d2f4a7ee86b4119b19d58f1bb9501adc.jpg"
+  },
+  {
+    "case_id": "500cs00000OxUE0AAN",
+    "case_number": "5058525",
+    "filename": "photo_20250103_122554.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000PrM7hEAF",
+    "attachment_id": "00Pcs00000PrM7hEAF",
+    "retrieved_at": "2026-11-20T07:59:02.461007+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000PrM7hEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      765,
+      1152
+    ],
+    "normalized_dimensions": [
+      680,
+      1024
+    ],
+    "original_sha256": "a20306f3f4db84105852cd3043eff5f9e5d0d152e6f2df8c6b2a18686e66febd",
+    "sha256": "263bdb0976997f2e9d9bbd61069aae21b29113ddf93bcdb2f3ca488c7360b888",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000PrM7hEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/263bdb0976997f2e9d9bbd61069aae21b29113ddf93bcdb2f3ca488c7360b888.jpg"
+  },
+  {
+    "case_id": "500cs00000OxUE0AAN",
+    "case_number": "5058525",
+    "filename": "photo_20250103_122556.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000PrpsREAR",
+    "attachment_id": "00Pcs00000PrpsREAR",
+    "retrieved_at": "2026-11-20T07:59:02.799346+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000PrpsREAR",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "548327586f40bc7850017cf66d345ce316f5d931d34546abe4786fe792c23e0c",
+    "sha256": "faebb5a12a4a500c19018f9118d1fd819ece3be2c122dc4026f86ad17c7a9b54",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000PrpsREAR.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/faebb5a12a4a500c19018f9118d1fd819ece3be2c122dc4026f86ad17c7a9b54.jpg"
+  },
+  {
+    "case_id": "500cs00000ZrzNlAAJ",
+    "case_number": "5156884",
+    "filename": "photo_20250322_163510.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bBLNNEA4",
+    "attachment_id": "00Pcs00000bBLNNEA4",
+    "retrieved_at": "2026-11-20T07:59:03.210567+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bBLNNEA4",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      648,
+      1152
+    ],
+    "normalized_dimensions": [
+      576,
+      1024
+    ],
+    "original_sha256": "6896ecfabf4c3f574ebe0397018d8e1245b3444478b1bd483a8b5e5979605997",
+    "sha256": "38ce8607a921d751e43b8112359f0a4b44f890f4df9d9d1540a51fe04241cce7",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000bBLNNEA4.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/38ce8607a921d751e43b8112359f0a4b44f890f4df9d9d1540a51fe04241cce7.jpg"
+  },
+  {
+    "case_id": "500cs00000ZrzNlAAJ",
+    "case_number": "5156884",
+    "filename": "photo_20250322_163510.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bAzzQEAS",
+    "attachment_id": "00Pcs00000bAzzQEAS",
+    "retrieved_at": "2026-11-20T07:59:03.691653+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bAzzQEAS",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      648,
+      1152
+    ],
+    "normalized_dimensions": [
+      576,
+      1024
+    ],
+    "original_sha256": "147a5dad8b175f162bb041ffa97ea8a094ba297c62195d4f3862cbd72e6e3cd8",
+    "sha256": "721642667e11bedec16d6865fdb8225fc3d71d71033355bea5736d1b0eb579d1",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000bAzzQEAS.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/721642667e11bedec16d6865fdb8225fc3d71d71033355bea5736d1b0eb579d1.jpg"
+  },
+  {
+    "case_id": "500cs00000ZrzNlAAJ",
+    "case_number": "5156884",
+    "filename": "photo_20250322_163510.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bBLC3EAO",
+    "attachment_id": "00Pcs00000bBLC3EAO",
+    "retrieved_at": "2026-11-20T07:59:03.843645+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000bBLC3EAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      648,
+      1152
+    ],
+    "normalized_dimensions": [
+      576,
+      1024
+    ],
+    "original_sha256": "69317f04854a96b685cc2acdb95a6ae4d1ce785cbe86761fb563055285bac8b1",
+    "sha256": "33b46ebfc28297f706e7d0971e3a62ace9f6bbce6900281454c8c62a8bdd7cf2",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000bBLC3EAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/33b46ebfc28297f706e7d0971e3a62ace9f6bbce6900281454c8c62a8bdd7cf2.jpg"
+  },
+  {
+    "case_id": "500cs00000cFGY1AAO",
+    "case_number": "5177181",
+    "filename": "05177181_Disabled Wheelchairs Obstruction.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000dcxTdEAI",
+    "attachment_id": "00Pcs00000dcxTdEAI",
+    "retrieved_at": "2026-11-20T07:59:04.356235+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000dcxTdEAI",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "eb7a4e702461600df55f3bc1b473d951d0cfa2fc68ef683ab05d052e40fe864d",
+    "sha256": "c5bd23b17acc66b189ff04bbfdf1112066ed66028c9b2d368242046a51ef916c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000dcxTdEAI.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c5bd23b17acc66b189ff04bbfdf1112066ed66028c9b2d368242046a51ef916c.jpg"
+  },
+  {
+    "case_id": "500cs00000ei6ttAAA",
+    "case_number": "5197309",
+    "filename": "photo_20250425_102531.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000g82ioEAA",
+    "attachment_id": "00Pcs00000g82ioEAA",
+    "retrieved_at": "2026-11-20T07:59:04.713732+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000g82ioEAA",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "05f4036f25ebb34fa80b9ab80ad2e0a650ca72bc702d57f092f659b478b452d8",
+    "sha256": "de3bc818013d8a37d3acb9151de21d2bae67333d71e1bbace1cc147d2ff7fdca",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000g82ioEAA.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/de3bc818013d8a37d3acb9151de21d2bae67333d71e1bbace1cc147d2ff7fdca.jpg"
+  },
+  {
+    "case_id": "500cs00000f0Jw0AAE",
+    "case_number": "5200139",
+    "filename": "05200139_image2.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000gR4CDEA0",
+    "attachment_id": "00Pcs00000gR4CDEA0",
+    "retrieved_at": "2026-11-20T07:59:04.812135+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000gR4CDEA0",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      640,
+      480
+    ],
+    "normalized_dimensions": [
+      640,
+      480
+    ],
+    "original_sha256": "d74d943537416230c87f1760c75fb581922256496ac54c0e5e9a4cee96e99ad8",
+    "sha256": "e1ac9adeaafc3c2e7e9c1f11a0944014c9a88b8235f77a2f78fde96f4965cd54",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000gR4CDEA0.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/e1ac9adeaafc3c2e7e9c1f11a0944014c9a88b8235f77a2f78fde96f4965cd54.jpg"
+  },
+  {
+    "case_id": "500cs00000ei6ttAAA",
+    "case_number": "5197309",
+    "filename": "photo_20250425_102531.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000g7hrHEAQ",
+    "attachment_id": "00Pcs00000g7hrHEAQ",
+    "retrieved_at": "2026-11-20T07:59:05.068986+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000g7hrHEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "22fd64cbcd1ec69cbe6fc91e4793d82bfe6c1958c58f9584ea45384e5679a00b",
+    "sha256": "db52f02db0d35623532a32fa471936c471b5cead4ec59ba9ac74442c33a4a5dc",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000g7hrHEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/db52f02db0d35623532a32fa471936c471b5cead4ec59ba9ac74442c33a4a5dc.jpg"
+  },
+  {
+    "case_id": "500cs00000hutfPAAQ",
+    "case_number": "5223119",
+    "filename": "photo_20250517_54236.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000jKDTqEAO",
+    "attachment_id": "00Pcs00000jKDTqEAO",
+    "retrieved_at": "2026-11-20T07:59:05.608181+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000jKDTqEAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "084e4e9ab9e044a9843ca9b84856d12ba8887fda869327ef0bc64098d986e52a",
+    "sha256": "95b22afead9d97a3ab9262598a2e4e373e331f1bee85ac8664e635b47aede25a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000jKDTqEAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/95b22afead9d97a3ab9262598a2e4e373e331f1bee85ac8664e635b47aede25a.jpg"
+  },
+  {
+    "case_id": "500cs00000lt1dAAAQ",
+    "case_number": "5255087",
+    "filename": "05255087_1000012273.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000nHrkmEAC",
+    "attachment_id": "00Pcs00000nHrkmEAC",
+    "retrieved_at": "2026-11-20T07:59:06.055217+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000nHrkmEAC",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "c1f1d1f9fb20a751436e161b7c02bb414f4d385fce515063f5c41ca2c05da703",
+    "sha256": "750f44455096cf2062a96e59867c6c0468976808ab50b566d5f82784ada7a3b2",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000nHrkmEAC.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/750f44455096cf2062a96e59867c6c0468976808ab50b566d5f82784ada7a3b2.jpg"
+  },
+  {
+    "case_id": "500cs00000lt1dAAAQ",
+    "case_number": "5255087",
+    "filename": "05255087_1000012272.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000nHrklEAC",
+    "attachment_id": "00Pcs00000nHrklEAC",
+    "retrieved_at": "2026-11-20T07:59:06.056223+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000nHrklEAC",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "dff33b1dffc4082863df4243a1557411862bc1b4be71f080f491efa3b107cc9b",
+    "sha256": "c0d36841968cbe2521f74245ee8960da4b5f0124957ee0c56ce1dd503d63c5f7",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000nHrklEAC.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/c0d36841968cbe2521f74245ee8960da4b5f0124957ee0c56ce1dd503d63c5f7.jpg"
+  },
+  {
+    "case_id": "500cs00000lQd2fAAC",
+    "case_number": "5251477",
+    "filename": "photo_20250611_15810.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000mqZHOEA2",
+    "attachment_id": "00Pcs00000mqZHOEA2",
+    "retrieved_at": "2026-11-20T07:59:06.501876+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000mqZHOEA2",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      648
+    ],
+    "normalized_dimensions": [
+      1024,
+      576
+    ],
+    "original_sha256": "0f699e0b0ddd9b8b47224df190959ee366bf8bd1caf8d45b8f4ef62aceb6a4d2",
+    "sha256": "0675e9a78170086cd775483f6db8cce3d2a30360ba3dd62b65504c846444f105",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000mqZHOEA2.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/0675e9a78170086cd775483f6db8cce3d2a30360ba3dd62b65504c846444f105.jpg"
+  },
+  {
+    "case_id": "500cs00000uGAMZAA4",
+    "case_number": "5318394",
+    "filename": "photo_20250802_152830.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000uhVJeEAM",
+    "attachment_id": "00Pcs00000uhVJeEAM",
+    "retrieved_at": "2026-11-20T07:59:07.130158+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00000uhVJeEAM",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1080,
+      1123
+    ],
+    "normalized_dimensions": [
+      985,
+      1024
+    ],
+    "original_sha256": "f1f778b3fc86bff378a68375b71be2f33df35a790652bbaf462aaa46d0faf4f0",
+    "sha256": "4974a74ab5799993e744caf963465e66b35bf6734bb5f662576e3614be6fa9d6",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00000uhVJeEAM.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4974a74ab5799993e744caf963465e66b35bf6734bb5f662576e3614be6fa9d6.jpg"
+  },
+  {
+    "case_id": "500cs00001XqPBjAAN",
+    "case_number": "5598125",
+    "filename": "photo_20260223_162429.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001PEQrmEAH",
+    "attachment_id": "00Pcs00001PEQrmEAH",
+    "retrieved_at": "2026-11-20T07:59:07.449734+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001PEQrmEAH",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      648,
+      1152
+    ],
+    "normalized_dimensions": [
+      576,
+      1024
+    ],
+    "original_sha256": "b5fbabf35d8f00ffaa65d16de33844306346ee15902cb842ebb955ff994c521d",
+    "sha256": "1a90d78782f0838d9a879aa31257a916ca2d54a591147ef919e68f5dc377ded6",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001PEQrmEAH.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/1a90d78782f0838d9a879aa31257a916ca2d54a591147ef919e68f5dc377ded6.jpg"
+  },
+  {
+    "case_id": "500cs00001E6Wr5AAF",
+    "case_number": "5453203",
+    "filename": "photo_20251115_15434.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001ARmOrEAL",
+    "attachment_id": "00Pcs00001ARmOrEAL",
+    "retrieved_at": "2026-11-20T07:59:07.543795+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001ARmOrEAL",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "7a665c2e572320a1bf05d50ab46ad5333d252a079a9ef5d9b56688d307898fd2",
+    "sha256": "dc335490ad278c296340c860100c0da7e9b0bde73081c49578788a2916c6a18a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001ARmOrEAL.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/dc335490ad278c296340c860100c0da7e9b0bde73081c49578788a2916c6a18a.jpg"
+  },
+  {
+    "case_id": "500cs00001ZTMzmAAH",
+    "case_number": "5609925",
+    "filename": "photo_20260303_122759.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001QXvpiEAD",
+    "attachment_id": "00Pcs00001QXvpiEAD",
+    "retrieved_at": "2026-11-20T07:59:08.736616+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001QXvpiEAD",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "74e1c2b32ea7b083807373016697c05a2774351f6edfa0ffb7a85dc7749ecea3",
+    "sha256": "18f2701db4dea3f11ec0d972b1051acd706569c43ceb4bbf77bbb77e8d3dbdba",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001QXvpiEAD.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/18f2701db4dea3f11ec0d972b1051acd706569c43ceb4bbf77bbb77e8d3dbdba.jpg"
+  },
+  {
+    "case_id": "500cs00001eejLSAAY",
+    "case_number": "5649262",
+    "filename": "photo_20260328_193655.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001UemP7EAJ",
+    "attachment_id": "00Pcs00001UemP7EAJ",
+    "retrieved_at": "2026-11-20T07:59:09.047540+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001UemP7EAJ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "a722506952ac6920d683445a5e50f79389e2d64f3cf9d420a4b309df27a42d6f",
+    "sha256": "2ce242a8791b4fefaa14f38d0f7be1b86530c5c9aa11b717b5e378feaefee334",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001UemP7EAJ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/2ce242a8791b4fefaa14f38d0f7be1b86530c5c9aa11b717b5e378feaefee334.jpg"
+  },
+  {
+    "case_id": "500cs00001ZTMzmAAH",
+    "case_number": "5609925",
+    "filename": "photo_20260303_122759.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001QXvpjEAD",
+    "attachment_id": "00Pcs00001QXvpjEAD",
+    "retrieved_at": "2026-11-20T07:59:09.071527+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001QXvpjEAD",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "e9319158b28819be68bc761788c93705236c7287cc8b98e164d2aa4282ca3f2e",
+    "sha256": "48366d079ca41c435dc83606f5a170ede6ca1c37ffe6c84cb1dabf67c330086b",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001QXvpjEAD.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/48366d079ca41c435dc83606f5a170ede6ca1c37ffe6c84cb1dabf67c330086b.jpg"
+  },
+  {
+    "case_id": "500cs00001fp2J1AAI",
+    "case_number": "5656929",
+    "filename": "photo_20260403_8719.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Va7zvEAB",
+    "attachment_id": "00Pcs00001Va7zvEAB",
+    "retrieved_at": "2026-11-20T07:59:09.332117+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Va7zvEAB",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      867,
+      1152
+    ],
+    "normalized_dimensions": [
+      771,
+      1024
+    ],
+    "original_sha256": "02cf2f0033c60bd8e4f791d2fe78fdba6279e9d699bf626a30c1ab7775d08014",
+    "sha256": "2a0d40e8135529e5eb0adebe9cd1c323e1b8d606dabb5bb8010fe15d373cd32d",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001Va7zvEAB.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/2a0d40e8135529e5eb0adebe9cd1c323e1b8d606dabb5bb8010fe15d373cd32d.jpg"
+  },
+  {
+    "case_id": "500cs00001g5HqkAAE",
+    "case_number": "5659112",
+    "filename": "photo_20260405_71431.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Vmv4sEAB",
+    "attachment_id": "00Pcs00001Vmv4sEAB",
+    "retrieved_at": "2026-11-20T07:59:09.965772+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Vmv4sEAB",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "5adef1df6727b303abc69d1d4e41200ee72bc2cd60748489d5867e952d735ca6",
+    "sha256": "b09a9b820d18be71a11ca6cba81117f4db51a24c153c535d5bacf0499aa30496",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001Vmv4sEAB.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/b09a9b820d18be71a11ca6cba81117f4db51a24c153c535d5bacf0499aa30496.jpg"
+  },
+  {
+    "case_id": "500cs00001g6fHWAAY",
+    "case_number": "5659389",
+    "filename": "photo_20260405_125037.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv7EAF",
+    "attachment_id": "00Pcs00001VnQv7EAF",
+    "retrieved_at": "2026-11-20T07:59:10.343340+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv7EAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "08f309d89c025ebf89383d24b7937d9c8008afb9aa1ca3559c0692901383f680",
+    "sha256": "339412f3ef5127413496e797b7f94f27aefaaa85e9a86b83c3492267c9fec736",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001VnQv7EAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/339412f3ef5127413496e797b7f94f27aefaaa85e9a86b83c3492267c9fec736.jpg"
+  },
+  {
+    "case_id": "500cs00001g5HqkAAE",
+    "case_number": "5659112",
+    "filename": "photo_20260405_71431.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Vmv4rEAB",
+    "attachment_id": "00Pcs00001Vmv4rEAB",
+    "retrieved_at": "2026-11-20T07:59:10.343916+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001Vmv4rEAB",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "11628cb78222945112f0c53967703dd5ab4347e304aa13277be6dacd1bd85447",
+    "sha256": "a0c15311572f161b89160f9cef918ebb72f9f62cba801df3a843c552ee7862c3",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001Vmv4rEAB.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/a0c15311572f161b89160f9cef918ebb72f9f62cba801df3a843c552ee7862c3.jpg"
+  },
+  {
+    "case_id": "500cs00001g6fHWAAY",
+    "case_number": "5659389",
+    "filename": "photo_20260405_125037.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv6EAF",
+    "attachment_id": "00Pcs00001VnQv6EAF",
+    "retrieved_at": "2026-11-20T07:59:10.763231+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv6EAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      863
+    ],
+    "normalized_dimensions": [
+      1024,
+      767
+    ],
+    "original_sha256": "27ddf72d3aef651268632cb063e980c3b8ad4b35f5101e1c79c9b91bdd73c90e",
+    "sha256": "b97840c048f4a76742b152eb6ccc264d864f3f1c1060bf1067c7bcc584c0d293",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001VnQv6EAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/b97840c048f4a76742b152eb6ccc264d864f3f1c1060bf1067c7bcc584c0d293.jpg"
+  },
+  {
+    "case_id": "500cs00001g6fHWAAY",
+    "case_number": "5659389",
+    "filename": "photo_20260405_125037.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv5EAF",
+    "attachment_id": "00Pcs00001VnQv5EAF",
+    "retrieved_at": "2026-11-20T07:59:11.458765+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001VnQv5EAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1152,
+      864
+    ],
+    "normalized_dimensions": [
+      1024,
+      768
+    ],
+    "original_sha256": "f52672a6d206570469b5580cfebb3c2a35b2da418807ee8eb713f06d8c9392c7",
+    "sha256": "e4082ff546c0b455b5c7c1af073de984cfe342d4ca3283dde9e44679807f789c",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001VnQv5EAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/e4082ff546c0b455b5c7c1af073de984cfe342d4ca3283dde9e44679807f789c.jpg"
+  },
+  {
+    "case_id": "500cs00001ipZI5AAM",
+    "case_number": "5680470",
+    "filename": "05680470_IMG_1465.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEuEAJ",
+    "attachment_id": "00Pcs00001XttEuEAJ",
+    "retrieved_at": "2026-11-20T07:59:11.815409+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEuEAJ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      450
+    ],
+    "normalized_dimensions": [
+      600,
+      450
+    ],
+    "original_sha256": "cfa27ce4a22112b0b58ab6bf3e69a11e60ef469c27b644ef9f7def07443c058c",
+    "sha256": "8c6865aff37292abb98ff55581d482911143920d2815849a456597fc028c87f8",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001XttEuEAJ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/8c6865aff37292abb98ff55581d482911143920d2815849a456597fc028c87f8.jpg"
+  },
+  {
+    "case_id": "500cs00001gfGT7AAM",
+    "case_number": "5663231",
+    "filename": "05663231_image000001.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001WDo2TEAT",
+    "attachment_id": "00Pcs00001WDo2TEAT",
+    "retrieved_at": "2026-11-20T07:59:11.999668+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001WDo2TEAT",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      1200,
+      1600
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "8249a7aadb93675e9b58724280ece3981bd30113af727c9aba2b265d989c0437",
+    "sha256": "3627590f378c8d13a891a0415388a2e2a4619450a617ef14ec59de9a0ea76679",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001WDo2TEAT.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/3627590f378c8d13a891a0415388a2e2a4619450a617ef14ec59de9a0ea76679.jpg"
+  },
+  {
+    "case_id": "500cs00001ipZI5AAM",
+    "case_number": "5680470",
+    "filename": "05680470_IMG_1466.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEtEAJ",
+    "attachment_id": "00Pcs00001XttEtEAJ",
+    "retrieved_at": "2026-11-20T07:59:12.115994+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEtEAJ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      450
+    ],
+    "normalized_dimensions": [
+      600,
+      450
+    ],
+    "original_sha256": "cd073b19c031a6c5c3c2b847863c1c9675391bbac7444093b26eb849520fcdcf",
+    "sha256": "9ffd55ac9d4bba7ddf69615d926afc489cc1881c8352bf00615dc4331f8b19b5",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001XttEtEAJ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/9ffd55ac9d4bba7ddf69615d926afc489cc1881c8352bf00615dc4331f8b19b5.jpg"
+  },
+  {
+    "case_id": "500cs00001ipZI5AAM",
+    "case_number": "5680470",
+    "filename": "05680470_IMG_1474.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEsEAJ",
+    "attachment_id": "00Pcs00001XttEsEAJ",
+    "retrieved_at": "2026-11-20T07:59:12.621632+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001XttEsEAJ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      600,
+      559
+    ],
+    "normalized_dimensions": [
+      600,
+      559
+    ],
+    "original_sha256": "9ac2c9d4c91317549c2219d42d24f789cc10cfe0df9c8a645239a03d57380add",
+    "sha256": "b87d8501cf1b83c7c7aa42c34689ac861dc072c8c10f2f0fd3b345c05c87fdcf",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001XttEsEAJ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/b87d8501cf1b83c7c7aa42c34689ac861dc072c8c10f2f0fd3b345c05c87fdcf.jpg"
+  },
+  {
+    "case_id": "500cs00001ngSHhAAM",
+    "case_number": "5709435",
+    "filename": "photo_20260507_201218.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLjEAO",
+    "attachment_id": "00Pcs00001bANLjEAO",
+    "retrieved_at": "2026-11-20T07:59:12.982582+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLjEAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "0e2e85273f1042fa32fb59e041c30fb31a5a2fbdd245fda69a0ebdbb819cf553",
+    "sha256": "f1fbedb0221cde6bb94197f3d7e4e760393fac4c0f1c17657ae8c8b2715a99ea",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001bANLjEAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/f1fbedb0221cde6bb94197f3d7e4e760393fac4c0f1c17657ae8c8b2715a99ea.jpg"
+  },
+  {
+    "case_id": "500cs00001ngSHhAAM",
+    "case_number": "5709435",
+    "filename": "photo_20260507_201218.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLiEAO",
+    "attachment_id": "00Pcs00001bANLiEAO",
+    "retrieved_at": "2026-11-20T07:59:13.081418+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLiEAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "d807c788b04612bbd14c2b4838138991e79a5e4a433271f71893f70ba0f3f75e",
+    "sha256": "7679db520dfbb3bff64ded2bf7426496ce77607d5a2ab6dff18092f4471de07f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001bANLiEAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7679db520dfbb3bff64ded2bf7426496ce77607d5a2ab6dff18092f4471de07f.jpg"
+  },
+  {
+    "case_id": "500cs00001ngSHhAAM",
+    "case_number": "5709435",
+    "filename": "photo_20260507_201218.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLhEAO",
+    "attachment_id": "00Pcs00001bANLhEAO",
+    "retrieved_at": "2026-11-20T07:59:13.498441+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001bANLhEAO",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "c59538e5b407cdf7ff8f12e49cf602c318f75690297907ea6f71ebec4a5f02e1",
+    "sha256": "e6244f4d679d8883ab750f3090b77fa79027136f9d9b6150d80206d46fee5bc0",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001bANLhEAO.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/e6244f4d679d8883ab750f3090b77fa79027136f9d9b6150d80206d46fee5bc0.jpg"
+  },
+  {
+    "case_id": "500cs000025zrzdAAA",
+    "case_number": "5829611",
+    "filename": "photo_20260729_151040.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4uEAE",
+    "attachment_id": "00Pcs00001orR4uEAE",
+    "retrieved_at": "2026-11-20T07:59:13.995296+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4uEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "969d4bca90d965a0fdee0b6f3ef858d76882f0f04f9c71f584ca728c2496bfb7",
+    "sha256": "5f4b1e8e2d5c66c1daf04a2febf97bc460c63af083940516a8f72137977d1a6d",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001orR4uEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/5f4b1e8e2d5c66c1daf04a2febf97bc460c63af083940516a8f72137977d1a6d.jpg"
+  },
+  {
+    "case_id": "500t000000kzPXbAAM",
+    "case_number": "3340125",
+    "filename": "03340125_379839C9-7B9D-4433-81ED-DA640FFD13ED.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV9EAN",
+    "attachment_id": "00Pt000000UxRV9EAN",
+    "retrieved_at": "2026-11-20T07:59:14.322088+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV9EAN",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "6830933838452aa686ea71bfffed2a34fe5fb7609d8707d8717e9d3e8bb8282c",
+    "sha256": "f3577276b211be342c56ce7e18429aca9bf75bb694d669407db8bc1f6f4159f6",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000UxRV9EAN.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/f3577276b211be342c56ce7e18429aca9bf75bb694d669407db8bc1f6f4159f6.jpg"
+  },
+  {
+    "case_id": "500cs000025zrzdAAA",
+    "case_number": "5829611",
+    "filename": "photo_20260729_151039.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4sEAE",
+    "attachment_id": "00Pcs00001orR4sEAE",
+    "retrieved_at": "2026-11-20T07:59:14.354616+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4sEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "b26c4ab8c0b33ddcc6e4e041e96fffb7b3a17b737f94d0b075bee4ae9bacbc7d",
+    "sha256": "1ed23e27413af3dfbd2d7d42b92bd0dc7b6182f83def5f3103353c9bacf1bd4a",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001orR4sEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/1ed23e27413af3dfbd2d7d42b92bd0dc7b6182f83def5f3103353c9bacf1bd4a.jpg"
+  },
+  {
+    "case_id": "500cs000025zrzdAAA",
+    "case_number": "5829611",
+    "filename": "photo_20260729_151040.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4tEAE",
+    "attachment_id": "00Pcs00001orR4tEAE",
+    "retrieved_at": "2026-11-20T07:59:14.486912+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pcs00001orR4tEAE",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      864,
+      1152
+    ],
+    "normalized_dimensions": [
+      768,
+      1024
+    ],
+    "original_sha256": "0851b431688063c2c633a11439334920308da08d4bf8d0dcdada4ee615829e57",
+    "sha256": "fddc858c3acfa30b245eaeb3a359c8e7933092e438b779c42f482b0d7c37eafa",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pcs00001orR4tEAE.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/fddc858c3acfa30b245eaeb3a359c8e7933092e438b779c42f482b0d7c37eafa.jpg"
+  },
+  {
+    "case_id": "500t000000kzPXbAAM",
+    "case_number": "3340125",
+    "filename": "03340125_3EA59895-4C75-43EA-8CFE-71D222DD6BBF.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV8EAN",
+    "attachment_id": "00Pt000000UxRV8EAN",
+    "retrieved_at": "2026-11-20T07:59:14.860092+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV8EAN",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "caabb4dd25192c6522ff7e6cf38d7524c2ca0b0c77d925f00db676004602cf6b",
+    "sha256": "9c2d60fa9ac106d2f25e900fba611396a240ea9156cb673c71d4407d95b4271f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000UxRV8EAN.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/9c2d60fa9ac106d2f25e900fba611396a240ea9156cb673c71d4407d95b4271f.jpg"
+  },
+  {
+    "case_id": "500t000000kzPXbAAM",
+    "case_number": "3340125",
+    "filename": "03340125_F3A4E517-6D96-4D7E-B625-4DFBD2680492.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV7EAN",
+    "attachment_id": "00Pt000000UxRV7EAN",
+    "retrieved_at": "2026-11-20T07:59:15.091755+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV7EAN",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "21490a2f0c32ffd9c0182e49391affd0614e0550050fa2d05d978258ab19399b",
+    "sha256": "174f277b9e38fc889594829d85dc2a88727acb29629b91a6a1daece48a1bbee2",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000UxRV7EAN.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/174f277b9e38fc889594829d85dc2a88727acb29629b91a6a1daece48a1bbee2.jpg"
+  },
+  {
+    "case_id": "500t000000kzPXbAAM",
+    "case_number": "3340125",
+    "filename": "03340125_F68D90E1-512C-43EC-8562-A551D914B7FF.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV6EAN",
+    "attachment_id": "00Pt000000UxRV6EAN",
+    "retrieved_at": "2026-11-20T07:59:15.304869+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000UxRV6EAN",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "a0265f2b528cb5b2a603c8d69e1988e6c144dddeff3e3b752f3eb2c9a8c93d49",
+    "sha256": "ecc6421b92e6c59edab5a8849279e9437b991daefe8141ea4398a47f9a86e88e",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000UxRV6EAN.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/ecc6421b92e6c59edab5a8849279e9437b991daefe8141ea4398a47f9a86e88e.jpg"
+  },
+  {
+    "case_id": "500t000000qesu1AAA",
+    "case_number": "3493880",
+    "filename": "photo_20210903_61742.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUIDEA3",
+    "attachment_id": "00Pt000000XtUIDEA3",
+    "retrieved_at": "2026-11-20T07:59:15.446437+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUIDEA3",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      512,
+      288
+    ],
+    "normalized_dimensions": [
+      512,
+      288
+    ],
+    "original_sha256": "e5b38924fbb7ff28795b1a32ad2eeca625a1dfa1e735db992de481b1d07f929d",
+    "sha256": "842343a220d380c60ab7ece449d2057c1a19f543856a5b117c0dfd0ae15d2bcd",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XtUIDEA3.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/842343a220d380c60ab7ece449d2057c1a19f543856a5b117c0dfd0ae15d2bcd.jpg"
+  },
+  {
+    "case_id": "500t000000qesu1AAA",
+    "case_number": "3493880",
+    "filename": "photo_20210903_61742.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUICEA3",
+    "attachment_id": "00Pt000000XtUICEA3",
+    "retrieved_at": "2026-11-20T07:59:15.867687+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUICEA3",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      512,
+      288
+    ],
+    "normalized_dimensions": [
+      512,
+      288
+    ],
+    "original_sha256": "9697e6aa1b6939b4e71c9b30e9f4975fe90bb5e8bd998f5e9f7781478c635472",
+    "sha256": "0a3e7e7a45ace1853e9401ebf10f56ee210638acd7dbf250cf7e44699ea63ae5",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XtUICEA3.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/0a3e7e7a45ace1853e9401ebf10f56ee210638acd7dbf250cf7e44699ea63ae5.jpg"
+  },
+  {
+    "case_id": "500t000000qesu1AAA",
+    "case_number": "3493880",
+    "filename": "photo_20210903_61741.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUIBEA3",
+    "attachment_id": "00Pt000000XtUIBEA3",
+    "retrieved_at": "2026-11-20T07:59:15.964151+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XtUIBEA3",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      512,
+      288
+    ],
+    "normalized_dimensions": [
+      512,
+      288
+    ],
+    "original_sha256": "d4de2248f03167fc4b94d2c93ef6ef90096d3ae13250671a328865c34f3d8a56",
+    "sha256": "591aa4bc5d410d8789c3006e6c041f23176112a507ed36037418e0d07d7c933f",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XtUIBEA3.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/591aa4bc5d410d8789c3006e6c041f23176112a507ed36037418e0d07d7c933f.jpg"
+  },
+  {
+    "case_id": "500t000000r7GIFAA2",
+    "case_number": "3503384",
+    "filename": "03503384_5B9479F4-93F8-496D-923D-7C462FB37C20.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3gEAF",
+    "attachment_id": "00Pt000000XuL3gEAF",
+    "retrieved_at": "2026-11-20T07:59:16.793491+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3gEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "037755834f9f3ea1a63225898ba22db800b2a1220d7ea4a298242e8550dd3a76",
+    "sha256": "7d7dee1bb64a08145826df48f48f3622ca2bf839a68b787fc81422c46cce2944",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XuL3gEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/7d7dee1bb64a08145826df48f48f3622ca2bf839a68b787fc81422c46cce2944.jpg"
+  },
+  {
+    "case_id": "500t000000r7GIFAA2",
+    "case_number": "3503384",
+    "filename": "03503384_0A0821A5-4576-4EF9-92D8-90561759778F.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3fEAF",
+    "attachment_id": "00Pt000000XuL3fEAF",
+    "retrieved_at": "2026-11-20T07:59:16.798483+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3fEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      476,
+      600
+    ],
+    "normalized_dimensions": [
+      476,
+      600
+    ],
+    "original_sha256": "44a30cc1c6977287d785ff4c9fcd7e0c1abde7d77880ed6d55f21d32efe167ee",
+    "sha256": "dde764fbb56b01f244b8b9cb6df86f44723dd23eb4775941cb1ad88d67f4fadb",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XuL3fEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/dde764fbb56b01f244b8b9cb6df86f44723dd23eb4775941cb1ad88d67f4fadb.jpg"
+  },
+  {
+    "case_id": "500t000000r7GIFAA2",
+    "case_number": "3503384",
+    "filename": "03503384_976D6363-EB24-4DFC-B635-AD630BC0C97D.jpeg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3eEAF",
+    "attachment_id": "00Pt000000XuL3eEAF",
+    "retrieved_at": "2026-11-20T07:59:17.152745+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000XuL3eEAF",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      450,
+      600
+    ],
+    "normalized_dimensions": [
+      450,
+      600
+    ],
+    "original_sha256": "097e6592f588b78de360e3902e85461b35214e00e0f0adb764f2e2bdcc868d28",
+    "sha256": "23aee0e3884d314dfea6920f2966ae6c5878dd0e0f0da8c315c5eb00e62b3e7e",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000XuL3eEAF.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/23aee0e3884d314dfea6920f2966ae6c5878dd0e0f0da8c315c5eb00e62b3e7e.jpg"
+  },
+  {
+    "case_id": "500t000000uCIraAAG",
+    "case_number": "3604364",
+    "filename": "photo_20211214_191146.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000a15kHEAQ",
+    "attachment_id": "00Pt000000a15kHEAQ",
+    "retrieved_at": "2026-11-20T07:59:17.343953+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000a15kHEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      384,
+      512
+    ],
+    "normalized_dimensions": [
+      384,
+      512
+    ],
+    "original_sha256": "e07cd4fac739ea38ff22a119bfd479505be3127f8ee41077628ad76c84b0bc5b",
+    "sha256": "4228ffc8fa20c00b745452886e130e008e884f7192cfb866459cea9b4530ce02",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000a15kHEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/4228ffc8fa20c00b745452886e130e008e884f7192cfb866459cea9b4530ce02.jpg"
+  },
+  {
+    "case_id": "500t000000uCIraAAG",
+    "case_number": "3604364",
+    "filename": "photo_20211214_191146.jpg",
+    "source": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000a15kGEAQ",
+    "attachment_id": "00Pt000000a15kGEAQ",
+    "retrieved_at": "2026-11-20T07:59:17.678063+00:00",
+    "status": "cached",
+    "final_url": "https://getitdone.sandiego.gov/servlet/servlet.FileDownload?file=00Pt000000a15kGEAQ",
+    "content_type": "image/jpeg",
+    "original_format": "JPEG",
+    "original_dimensions": [
+      242,
+      512
+    ],
+    "normalized_dimensions": [
+      242,
+      512
+    ],
+    "original_sha256": "21b7f1479a6c5358ee99c20ae87487811daae6b6f0e580e2f17bca0fe8963492",
+    "sha256": "ba9b1802f184a143b04d239a836eba84303680452d76571ae44dca96f54592f2",
+    "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100\\images\\00Pt000000a15kGEAQ.jpg",
+    "case_ownership_verified": true,
+    "submission_time_verified": false,
+    "bundle_path": "assets/photos/ba9b1802f184a143b04d239a836eba84303680452d76571ae44dca96f54592f2.jpg"
+  }
+]

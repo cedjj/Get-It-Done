@@ -1,0 +1,13 @@
+step,remaining_cases
+full_historical_rows_rescanned,4337284
+all_original_rows,1821027
+literal_equal,792296
+normalized_equal,792296
+equal_known_referral,526635
+equal_explicit_zero_referrals,517746
+equal_zero_closed,482006
+equal_zero_closed_successful,206146
+equal_zero_closed_successful_nonempty_description,206145
+cached_two_screen_verified_negative_pool_after_assistant_exclusions,2994
+quota_capped_negative_sample_no_redistribution,883
+final_assistant_QA_consistent_sample,50

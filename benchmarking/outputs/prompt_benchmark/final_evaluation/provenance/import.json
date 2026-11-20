@@ -1,0 +1,10 @@
+{
+  "source": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\multimodal_v2",
+  "source_plan_id": "5aeb86e9eb304498da93f5419c1cf176142697e65aa3eb1a85cc9954cf3a8065",
+  "final_plan_id": "03a1be867fc9bd5825078bb7e0ba0427519b88c27861c6e9a0afcbfe69649210",
+  "prediction_rows_reused": 3200,
+  "attempt_rows_reused": 2802,
+  "mapping": "Only experiment IDs change to the new plan namespace; origin tables preserve source IDs and exact source-row hashes.",
+  "shared_photo_cache": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\prompt_benchmark\\photo_cache_100",
+  "prior_files_unchanged": true
+}

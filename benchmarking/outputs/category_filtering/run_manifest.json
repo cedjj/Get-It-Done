@@ -1,0 +1,387 @@
+{
+  "completed_utc": "2026-11-18T03:35:20.409285+00:00",
+  "python": "3.12.8",
+  "mapping_version": "2026-11-17-reviewed-proposal-v1",
+  "mapping_sha256": "1ff58c980b4d941e706fd18e12781e107800e67506a99a3a6fdbfbcacc2dd087",
+  "mapping_policy": {
+    "aliases": {
+      "Bicycle-Related Issue": [
+        "Bicycle Related Issue",
+        "Bicycle-Related Issue"
+      ],
+      "Container Left Out": [
+        "Container Left Out",
+        "Containers Left Out Beyond Collection Hours"
+      ],
+      "Dumpster Encroachment": [
+        "Dumpster Encroachment",
+        "Dumpster Encroaching on Public Right of Way"
+      ],
+      "Missed Collection": [
+        "Missed Collection",
+        "Missed Trash"
+      ],
+      "Parking": [
+        "Parking",
+        "Parking Issue"
+      ],
+      "Homeless Outreach": [
+        "Outreach",
+        "Homeless Outreach"
+      ],
+      "Street Light Maintenance": [
+        "Street Light",
+        "Street Light Maintenance"
+      ],
+      "Traffic Sign Maintenance": [
+        "Traffic Sign",
+        "Traffic Sign Maintenance"
+      ],
+      "Vegetation Encroachment": [
+        "Vegetation Encroachment",
+        "Vegetation Encroachments"
+      ]
+    },
+    "routine": {
+      "Graffiti": [
+        "Graffiti - Public",
+        "Graffiti - Private",
+        "Graffiti - Code Enforcement"
+      ],
+      "Parking": [
+        "Parking - 72-Hours",
+        "Parking Violation",
+        "Oversized Vehicle"
+      ],
+      "Pothole": [
+        "Pavement Maintenance"
+      ],
+      "Sidewalk": [
+        "Sidewalk Repair Issue"
+      ],
+      "Traffic Signal": [
+        "Traffic Signal Issue",
+        "Traffic Signal Timing"
+      ]
+    },
+    "conditional": {
+      "ADA Assisted Collection": [
+        "ESD Collections",
+        "Trash/Recycling Collection",
+        "Environmental Services Code Compliance"
+      ],
+      "ADA Compliance": [
+        "Traffic Engineering",
+        "Pavement Maintenance",
+        "Sidewalk Repair Issue",
+        "Right-of-Way Code Enforcement"
+      ],
+      "Bicycle-Related Issue": [
+        "ROW Maintenance",
+        "Street Sweeping",
+        "Traffic Engineering",
+        "Pavement Maintenance",
+        "Parks Issue",
+        "Stormwater",
+        "Vegetation Encroachment",
+        "Weed Cleanup"
+      ],
+      "Biohazard": [
+        "Illegal Dumping",
+        "Environmental Services Code Compliance"
+      ],
+      "Container Request": [
+        "ESD Collections",
+        "Trash/Recycling Collection"
+      ],
+      "Container Left Out": [
+        "Environmental Services Code Compliance",
+        "Right-of-Way Code Enforcement",
+        "ESD Collections"
+      ],
+      "Curb": [
+        "Pavement Maintenance",
+        "Traffic Engineering",
+        "ADA Compliance",
+        "Sidewalk Repair Issue",
+        "ROW Maintenance",
+        "Right-of-Way Code Enforcement"
+      ],
+      "Damaged Guardrail": [
+        "ROW Maintenance",
+        "Pavement Maintenance",
+        "Parks Issue",
+        "Traffic Engineering"
+      ],
+      "Dead Animal": [
+        "Environmental Services Code Compliance",
+        "Parks Issue",
+        "Stormwater"
+      ],
+      "Dumpster Encroachment": [
+        "Environmental Services Code Compliance",
+        "Right-of-Way Code Enforcement"
+      ],
+      "Dumpster Overflow": [
+        "Environmental Services Code Compliance",
+        "ESD Collections",
+        "Trash/Recycling Collection",
+        "ESD Recycling"
+      ],
+      "ESD Code": [
+        "Environmental Services Code Compliance"
+      ],
+      "EV Charger": [
+        "Parking Violation"
+      ],
+      "Encampment": [
+        "Homeless Outreach",
+        "Environmental Services Code Compliance",
+        "Illegal Dumping",
+        "Parks Issue",
+        "Stormwater"
+      ],
+      "Homeless Outreach": [
+        "Encampment"
+      ],
+      "Faded Striping": [
+        "Traffic Engineering",
+        "ROW Maintenance",
+        "Parks Issue"
+      ],
+      "Graffiti": [
+        "Environmental Services Code Compliance",
+        "Building and Land Use Enforcement",
+        "Development Services - Code Enforcement",
+        "Parks Issue",
+        "Stormwater",
+        "ROW Maintenance"
+      ],
+      "Hazardous Waste": [
+        "Environmental Services Code Compliance",
+        "HAZMAT",
+        "Biohazard",
+        "Illegal Dumping"
+      ],
+      "Illegal Discharge": [
+        "Stormwater Code Enforcement",
+        "Stormwater",
+        "PUD Code Compliance",
+        "Building and Land Use Enforcement",
+        "Development Services - Code Enforcement"
+      ],
+      "Over Irrigation": [
+        "PUD Code Compliance",
+        "Stormwater Code Enforcement",
+        "Stormwater",
+        "Street Flooded",
+        "Parks Issue"
+      ],
+      "Illegal Dumping": [
+        "Waste on Private Property",
+        "Environmental Services Code Compliance",
+        "Parks Issue",
+        "Stormwater",
+        "ROW Maintenance",
+        "ESD Recycling"
+      ],
+      "Missed Collection": [
+        "Missed Collection",
+        "ESD Collections",
+        "Trash/Recycling Collection"
+      ],
+      "Parking": [
+        "Traffic Engineering",
+        "Right-of-Way Code Enforcement",
+        "Development Services - Code Enforcement",
+        "Building and Land Use Enforcement"
+      ],
+      "Parking Meter": [
+        "Parking",
+        "Parking Violation",
+        "Traffic Engineering"
+      ],
+      "Parks Issue": [
+        "Encampment",
+        "Tree Maintenance",
+        "Vegetation Encroachment",
+        "Weed Cleanup",
+        "Street Light Maintenance",
+        "Pavement Maintenance",
+        "ROW Maintenance",
+        "Graffiti - Public",
+        "Illegal Dumping",
+        "Dead Animal",
+        "Street Sweeping",
+        "Stormwater"
+      ],
+      "Scavenging of Blue Recycling or Black Trash Containers": [
+        "ESD Collections",
+        "ROW Maintenance"
+      ],
+      "Shared Mobility Device": [
+        "ROW Maintenance",
+        "Traffic Engineering"
+      ],
+      "Sidewalk": [
+        "Pavement Maintenance",
+        "Right-of-Way Code Enforcement",
+        "ROW Maintenance",
+        "Vegetation Encroachment",
+        "Weed Cleanup",
+        "Tree Maintenance",
+        "Illegal Dumping",
+        "PUD Code Compliance",
+        "Stormwater"
+      ],
+      "Storm Drain": [
+        "Stormwater",
+        "Stormwater Code Enforcement",
+        "Building and Land Use Enforcement",
+        "Development Services - Code Enforcement",
+        "PUD Code Compliance"
+      ],
+      "Street Flooded": [
+        "Stormwater",
+        "Stormwater Code Enforcement",
+        "PUD Code Compliance"
+      ],
+      "Street Sweeping": [
+        "Stormwater",
+        "ROW Maintenance",
+        "Parks Issue"
+      ],
+      "Traffic Sign Maintenance": [
+        "Traffic Engineering"
+      ],
+      "Traffic Signal": [
+        "Traffic Engineering"
+      ],
+      "Tree Maintenance": [
+        "Parks Issue",
+        "Vegetation Encroachment",
+        "Weed Cleanup",
+        "ROW Maintenance",
+        "Stormwater",
+        "Right-of-Way Code Enforcement"
+      ],
+      "Vegetation Encroachment": [
+        "Weed Cleanup",
+        "ROW Maintenance",
+        "Right-of-Way Code Enforcement",
+        "Parks Issue",
+        "Stormwater",
+        "Tree Maintenance"
+      ],
+      "Waste on Private Property": [
+        "Environmental Services Code Compliance",
+        "Building and Land Use Enforcement",
+        "Development Services - Code Enforcement"
+      ]
+    },
+    "approved_reasons": [
+      "Problem resolved",
+      "Issue Resolved",
+      "Compliance Achieved"
+    ],
+    "mapping_version": "2026-11-17-reviewed-proposal-v1"
+  },
+  "llm_calls": 0,
+  "semantic_labels_generated": false,
+  "populations": {
+    "full_export": {
+      "counts": {
+        "source_rows": 4337284,
+        "raw_different_all": 2776465,
+        "canonical_different_all": 945327,
+        "specified_original_and_current_all": 2109997,
+        "closed": 3677368,
+        "closed_approved_reason": 1511664,
+        "mapping_review_before_resolution": 236731,
+        "mapping_review_closed": 195569,
+        "exported_review_queue": 84077,
+        "queue_has_description": 84061,
+        "queue_missing_description": 16,
+        "queue_has_action_text": 79033,
+        "queue_missing_action_text": 5044,
+        "queue_has_description_and_action_text": 79026,
+        "queue_has_parent_reference": 16482,
+        "distinct_case_ids": 4337284,
+        "distinct_candidate_ids": 84077
+      },
+      "relations_all": {
+        "routine_refinement": 621352,
+        "equivalent": 1251914,
+        "missing_category": 2080831,
+        "unexplained_category_difference": 70795,
+        "conditional_routing": 165891,
+        "original_other": 146456,
+        "current_other": 45
+      },
+      "relations_eligible": {
+        "equivalent": 572739,
+        "missing_category": 705206,
+        "conditional_routing": 64656,
+        "routine_refinement": 112134,
+        "original_other": 37508,
+        "unexplained_category_difference": 19417,
+        "current_other": 4
+      },
+      "source": {
+        "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\Get_it_done_data\\cases_2026_11_16.csv",
+        "bytes": 5591785806,
+        "mtime_ns": 1794967593732119800,
+        "first_megabyte_sha256": "62c5a6aa8e97321b8a40ee5658363d5df29a369162d12a8da4a16a0af859f27e"
+      },
+      "output": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\category_filtering\\suspicious_cases.csv",
+      "seconds": 51.60900000000038
+    },
+    "three_plus_referrals": {
+      "counts": {
+        "source_rows": 4052,
+        "raw_different_all": 3529,
+        "canonical_different_all": 3062,
+        "specified_original_and_current_all": 2436,
+        "closed": 3292,
+        "mapping_review_before_resolution": 1606,
+        "mapping_review_closed": 1303,
+        "closed_approved_reason": 1300,
+        "exported_review_queue": 465,
+        "queue_has_description": 465,
+        "queue_missing_description": 0,
+        "queue_has_action_text": 427,
+        "queue_missing_action_text": 38,
+        "queue_has_description_and_action_text": 427,
+        "queue_has_parent_reference": 43,
+        "distinct_case_ids": 4052,
+        "distinct_candidate_ids": 465
+      },
+      "relations_all": {
+        "routine_refinement": 411,
+        "missing_category": 444,
+        "unexplained_category_difference": 756,
+        "original_other": 1172,
+        "conditional_routing": 843,
+        "equivalent": 419,
+        "current_other": 7
+      },
+      "relations_eligible": {
+        "routine_refinement": 70,
+        "original_other": 430,
+        "conditional_routing": 302,
+        "equivalent": 174,
+        "missing_category": 161,
+        "unexplained_category_difference": 162,
+        "current_other": 1
+      },
+      "source": {
+        "path": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\cases_3_plus_internal_referrals.csv",
+        "bytes": 6241926,
+        "mtime_ns": 1794968447296624000,
+        "first_megabyte_sha256": "e11f5c5280c0c034951273f0f82cf62f365532be5dc3aec75f34978c75a1e1e2"
+      },
+      "output": "C:\\Users\\kchri\\Desktop\\GetItDone_Benchmarking\\outputs\\category_filtering\\suspicious_cases_3plus_referrals.csv",
+      "seconds": 0.07800000000042928
+    }
+  }
+}

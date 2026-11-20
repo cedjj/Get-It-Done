@@ -1,0 +1,14 @@
+[
+  {
+    "model": "qwen3-vl:8b-instruct-q4_K_M",
+    "seconds": 98.42206290000468
+  },
+  {
+    "model": "gemma3:4b",
+    "seconds": 59.53527649999887
+  },
+  {
+    "model": "qwen3-vl:4b-instruct-q4_K_M",
+    "seconds": 53.07778010000766
+  }
+]
